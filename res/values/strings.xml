@@ -19,7 +19,7 @@
     <!-- Displayed in the title of those albums that are being loaded -->
     <string name="loading">Loading\u2026</string>
 
-    <string name="no_photos">No Photos</string>
+    <string name="no_photos">No photos</string>
 
     <string name="share">Share</string>
     <!-- Details dialog "OK" button. Dismisses dialog. -->
@@ -66,10 +66,10 @@
     <string name="show_on_map">Show on map</string>
 
     <!-- setting facebook login, this is app id, get from developers.facebook.com -->
-    <string name="app_id">446027838846371</string>
+    <string name="app_id" translatable="false">446027838846371</string>
 
     <string name="data_sources">Services</string>
-    <string name="add_data_source_title">Add Photo Source</string>
+    <string name="add_data_source_title">Add photo source</string>
 
     <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
     <string name="events">Moments</string>
@@ -93,8 +93,8 @@
 
     <string name="today">Today</string>
     <string name="yesterday">Yesterday</string>
-    <string name="this_week">This Week</string>
-    <string name="this_month">This Month</string>
+    <string name="this_week">This week</string>
+    <string name="this_month">This month</string>
 
     <string name="data_source_all">All</string>
     <string name="data_source_local">Local storage</string>
@@ -102,9 +102,9 @@
     <string name="data_source_flickr">Flickr</string>
     <string name="data_source_facebook">Facebook</string>
     <string name="data_source_dropbox">Dropbox</string>
-    <string name="remove_data_source">Remove Photo Source</string>
-    <string name="add_picasa_account">Add Picasa Account</string>
-    <string name="remove_picasa_account">Remove Picasa Account</string>
+    <string name="remove_data_source">Remove photo source</string>
+    <string name="add_picasa_account">Add Picasa account</string>
+    <string name="remove_picasa_account">Remove Picasa account</string>
 
     <string name="uncategorized_album">Uncategorized</string>
     <string name="set_wallpaper_string">Set as wallpaper</string>
@@ -121,15 +121,15 @@
         <item quantity="other">%1$d selected</item>
     </plurals>
 
-    <string name = "dialog_album">Album</string>
-    <string name = "dialog_type">Source</string>
-    <string name = "dialog_date">Taken on</string>
+    <string name="dialog_album">Album</string>
+    <string name="dialog_type">Source</string>
+    <string name="dialog_date">Taken on</string>
 
     <string name="menu_camera">Take photo</string>
     <string name="folder_sync_title">Choose folders to sync</string>
     <string name="getting_contents_title">Getting contents</string>
 
-    <string name="menu_play">Slide Show</string>
+    <string name="menu_play">Slideshow</string>
     <plurals name="delete_msg">
         <item quantity="one">Are you sure you want to delete this image?</item>
         <item quantity="other">Are you sure you want to delete these images?</item>
