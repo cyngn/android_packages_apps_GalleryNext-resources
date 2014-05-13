@@ -109,7 +109,7 @@
     <string name="uncategorized_album">Uncategorized</string>
     <string name="set_wallpaper_string">Set as wallpaper</string>
 
-    <string name="downloading_image_title">Downloading image</string>
+    <string name="downloading_image_title">Downloading image\u2026</string>
     <string name="downloading_image_failed">Failed to get image</string>
     <string name="take_photo">Take a photo</string>
 
@@ -127,7 +127,7 @@
 
     <string name="menu_camera">Take photo</string>
     <string name="folder_sync_title">Choose folders to sync</string>
-    <string name="getting_contents_title">Getting contents</string>
+    <string name="getting_contents_title">Getting contents\u2026</string>
 
     <string name="menu_play">Slideshow</string>
     <plurals name="delete_msg">
