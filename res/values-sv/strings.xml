@@ -25,8 +25,10 @@
   <string name="loading_video">Laddar video\u2026</string>
   <string name="resume_playing_restart">Börja om</string>
   <string name="audio_effects">Ljudeffekter</string>
+  <string name="bass_boost_strength">Basförstärkning</string>
   <string name="virtualizer_strength">3D-effekt</string>
   <string name="accessibility_play_video">Spela video</string>
+  <string name="show_on_map">Visa på karta</string>
   <string name="data_sources">Tjänster</string>
   <string name="media">Media</string>
   <string name="albums">Album</string>
@@ -39,6 +41,7 @@
   <string name="data_source_all">Alla</string>
   <string name="take_photo">Ta ett foto</string>
   <string name="dialog_album">Album</string>
+  <string name="menu_camera">Ta foto</string>
   <plurals name="delete_msg">
     <item quantity="one">Vill du ta bort den här bilden?</item>
     <item quantity="other">Vill du ta bort de här bilderna?</item>

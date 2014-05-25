@@ -80,4 +80,5 @@
   <string name="action_share">Делите</string>
   <string name="action_delete">Избриши</string>
   <string name="action_edit">Уреди</string>
+  <string name="wait_sync_complete">Молим сачекајте да се синхронизација заврши</string>
 </resources>

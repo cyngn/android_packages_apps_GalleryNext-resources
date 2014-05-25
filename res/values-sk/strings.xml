@@ -80,4 +80,5 @@
   <string name="action_share">Zdieľať</string>
   <string name="action_delete">Vymazať</string>
   <string name="action_edit">Upraviť</string>
+  <string name="wait_sync_complete">Prosím, počkajte na dokončenie synchronizácie</string>
 </resources>

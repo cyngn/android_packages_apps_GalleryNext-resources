@@ -92,4 +92,5 @@
   <string name="action_share">שתף</string>
   <string name="action_delete">מחק</string>
   <string name="action_edit">ערוך</string>
+  <string name="wait_sync_complete">המתן להשלמת סינכרון</string>
 </resources>

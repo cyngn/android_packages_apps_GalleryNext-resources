@@ -95,4 +95,5 @@
   <string name="action_share">Отправить</string>
   <string name="action_delete">Удалить</string>
   <string name="action_edit">Изменить</string>
+  <string name="wait_sync_complete">Дождитесь окончания синхронизации</string>
 </resources>

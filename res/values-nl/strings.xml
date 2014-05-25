@@ -85,11 +85,12 @@
   <string name="save_image_title">Afbeelding opslaan</string>
   <string name="folder_download">Downloaden</string>
   <string name="fail_trim">Kan deze video niet bijsnijden</string>
-  <string name="save_into">Video opslaan  in <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <string name="save_into">Video opslaan in <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
   <string name="trimming">Bijsnijden\u2026</string>
-  <string name="please_wait">Even geduld</string>
+  <string name="please_wait">Even geduld\u2026</string>
   <string name="save_video_title">Video opslaan</string>
   <string name="action_share">Delen</string>
   <string name="action_delete">Verwijderen</string>
   <string name="action_edit">Bewerken</string>
+  <string name="wait_sync_complete">Even geduld tot de sync voltooid is</string>
 </resources>

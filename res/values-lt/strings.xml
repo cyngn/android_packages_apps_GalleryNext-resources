@@ -95,4 +95,5 @@
   <string name="action_share">Bendrinti</string>
   <string name="action_delete">Ištrinti</string>
   <string name="action_edit">Redaguoti</string>
+  <string name="wait_sync_complete">Prašome palaukti sinchronizavimo pabaigos</string>
 </resources>
