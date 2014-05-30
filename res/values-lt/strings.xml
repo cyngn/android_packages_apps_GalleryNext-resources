@@ -57,12 +57,12 @@
   <string name="data_source_all">Visi</string>
   <string name="data_source_local">Vietinė saugykla</string>
   <string name="remove_data_source">Pašalinti nuotraukos šaltinį</string>
-  <string name="add_picasa_account">Pridėti „Picasa” paskyrą</string>
-  <string name="remove_picasa_account">Pašalinti „Picasa” paskyrą</string>
+  <string name="add_picasa_account">Pridėti „Picasa“ paskyrą</string>
+  <string name="remove_picasa_account">Pašalinti „Picasa“ paskyrą</string>
   <string name="uncategorized_album">Nesuskirstytą</string>
   <string name="set_wallpaper_string">Nustatyti kaip ekrano foną</string>
-  <string name="downloading_image_title">Atsisiunčiamas atvaizdas\u2026</string>
-  <string name="downloading_image_failed">Nepavyko atsisiųsti atvaizdo</string>
+  <string name="downloading_image_title">Atsisiunčiamas vaizdas\u2026</string>
+  <string name="downloading_image_failed">Nepavyko atsisiųsti vaizdo</string>
   <string name="take_photo">Fotografuoti</string>
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d pasirinkta</item>
@@ -77,15 +77,15 @@
   <string name="getting_contents_title">Gaunami turiniai\u2026</string>
   <string name="menu_play">Skaidrių demonstracija</string>
   <plurals name="delete_msg">
-    <item quantity="one">Ar tikrai norite ištrinti šį atvaizdą?</item>
-    <item quantity="few">Ar tikrai norite ištrinti šiuos atvaizdus?</item>
-    <item quantity="other">Ar tikrai norite ištrinti šiuos atvaizdus?</item>
+    <item quantity="one">Ar tikrai norite ištrinti šį vaizdą?</item>
+    <item quantity="few">Ar tikrai norite ištrinti šiuos vaizdus?</item>
+    <item quantity="other">Ar tikrai norite ištrinti šiuos vaizdus?</item>
   </plurals>
   <string name="cast">Vaizduoti</string>
   <string name="undo">Anuliuoti</string>
   <string name="info_not_available">n/a</string>
-  <string name="crop_activity_title">Apkarpyti atvaizdą</string>
-  <string name="save_image_title">Išsaugoti atvaizdą</string>
+  <string name="crop_activity_title">Apkarpyti vaizdą</string>
+  <string name="save_image_title">Išsaugoti vaizdą</string>
   <string name="folder_download">Parsisiųsti</string>
   <string name="fail_trim">Atsiprašome, šis vaizdo įrašo failas negali būti sumažintas</string>
   <string name="save_into">Vaizdo įrašas išsaugomas albume <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>

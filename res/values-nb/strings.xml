@@ -92,4 +92,5 @@
   <string name="action_share">Del</string>
   <string name="action_delete">Slett</string>
   <string name="action_edit">Endre</string>
+  <string name="wait_sync_complete">Vent til synkronisering er fullført</string>
 </resources>

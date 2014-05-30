@@ -92,4 +92,5 @@
   <string name="action_share">Deel</string>
   <string name="action_delete">Verwyder</string>
   <string name="action_edit">Verander</string>
+  <string name="wait_sync_complete">Wag asseblief vir sinkronisering om te voltooi</string>
 </resources>

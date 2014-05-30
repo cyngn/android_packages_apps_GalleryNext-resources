@@ -92,4 +92,5 @@
   <string name="action_share">Compartir</string>
   <string name="action_delete">Eliminar</string>
   <string name="action_edit">Editar</string>
+  <string name="wait_sync_complete">Por favor, espera a que se complete la sincronización</string>
 </resources>

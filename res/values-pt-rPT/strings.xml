@@ -59,7 +59,7 @@
   <string name="add_picasa_account">Adicionar a conta do Picasa</string>
   <string name="remove_picasa_account">Remover conta do Picasa</string>
   <string name="uncategorized_album">Sem categoria</string>
-  <string name="set_wallpaper_string">Definir como papel de parede</string>
+  <string name="set_wallpaper_string">Definir como imagem de fundo</string>
   <string name="downloading_image_title">A descarregar imagem\u2026</string>
   <string name="downloading_image_failed">Falha ao obter a imagem</string>
   <string name="take_photo">Tirar uma foto</string>

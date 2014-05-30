@@ -92,4 +92,5 @@
   <string name="action_share">Megosztás</string>
   <string name="action_delete">Törlés</string>
   <string name="action_edit">Szerkesztés</string>
+  <string name="wait_sync_complete">Várjon, amíg a szinkronizálás befejeződik</string>
 </resources>
