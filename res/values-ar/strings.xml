@@ -105,4 +105,5 @@
   <string name="action_delete">حذف</string>
   <string name="action_edit">تحرير</string>
   <string name="wait_sync_complete">الرجاء الانتظار حتى اكتمال المزامنة</string>
+  <string name="which_application">إكمال العمل باستخدام</string>
 </resources>

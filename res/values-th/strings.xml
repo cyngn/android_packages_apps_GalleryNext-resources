@@ -90,4 +90,5 @@
   <string name="action_delete">ลบ</string>
   <string name="action_edit">แก้ไข</string>
   <string name="wait_sync_complete">กรุณารอการเสร็จเสร็จสมบูรณ์</string>
+  <string name="which_application">ทำให้เสร็จโดย</string>
 </resources>

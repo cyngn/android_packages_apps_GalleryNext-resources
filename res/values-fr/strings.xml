@@ -93,4 +93,5 @@
   <string name="action_delete">Supprimer</string>
   <string name="action_edit">Modifier</string>
   <string name="wait_sync_complete">Veuillez attendre la fin de la synchronisation</string>
+  <string name="which_application">Continuer avec</string>
 </resources>

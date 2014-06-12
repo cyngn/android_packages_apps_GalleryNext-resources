@@ -93,4 +93,5 @@
   <string name="action_delete">Törlés</string>
   <string name="action_edit">Szerkesztés</string>
   <string name="wait_sync_complete">Várjon, amíg a szinkronizálás befejeződik</string>
+  <string name="which_application">Művelet végrehajtása ezzel</string>
 </resources>

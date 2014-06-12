@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">圖片庫</string>
   <string name="loading">正在讀取\u2026</string>
-  <string name="no_photos">沒有照片</string>
+  <string name="no_photos">沒有相片</string>
   <string name="share">分享</string>
   <string name="delete">刪除</string>
   <string name="movie_view_label">影片播放器</string>
@@ -36,12 +36,12 @@
   <string name="accessibility_time_bar">影片播放器時間列</string>
   <string name="show_on_map">在地圖上顯示</string>
   <string name="data_sources">服務</string>
-  <string name="add_data_source_title">新增照片來源</string>
+  <string name="add_data_source_title">新增相片來源</string>
   <string name="events">時刻</string>
   <string name="media">媒體</string>
   <string name="albums">專輯</string>
   <plurals name="number_of_photos">
-    <item quantity="other">%1$d 照片</item>
+    <item quantity="other">%1$d 相片</item>
   </plurals>
   <string name="headset_plug">插上耳機來享受這些效果。</string>
   <string name="ok">確定</string>
@@ -54,21 +54,21 @@
   <string name="this_month">這個月</string>
   <string name="data_source_all">全部</string>
   <string name="data_source_local">本機儲存</string>
-  <string name="remove_data_source">刪除照片來源</string>
+  <string name="remove_data_source">刪除相片來源</string>
   <string name="add_picasa_account">新增 Picasa 帳戶</string>
   <string name="remove_picasa_account">移除 Picasa 帳戶</string>
   <string name="uncategorized_album">未分類 </string>
-  <string name="set_wallpaper_string">設定為牆紙</string>
+  <string name="set_wallpaper_string">設定為桌布</string>
   <string name="downloading_image_title">正在下載圖像\u2026</string>
   <string name="downloading_image_failed">獲取圖像失敗</string>
-  <string name="take_photo">拍一張照片</string>
+  <string name="take_photo">拍一張相片</string>
   <plurals name="number_of_items_selected">
     <item quantity="other">已選取 %1$d 個</item>
   </plurals>
   <string name="dialog_album">專輯</string>
   <string name="dialog_type">來源</string>
   <string name="dialog_date">拍攝於</string>
-  <string name="menu_camera">拍攝照片</string>
+  <string name="menu_camera">拍攝相片</string>
   <string name="folder_sync_title">選擇要同步的資料夾</string>
   <string name="getting_contents_title">正在獲取內容\u2026</string>
   <string name="menu_play">幻燈片播放</string>
@@ -90,4 +90,5 @@
   <string name="action_delete">刪除</string>
   <string name="action_edit">編輯</string>
   <string name="wait_sync_complete">請等待同步完成</string>
+  <string name="which_application">採用完整的操作</string>
 </resources>

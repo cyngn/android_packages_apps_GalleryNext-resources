@@ -96,4 +96,5 @@
   <string name="action_delete">Удалить</string>
   <string name="action_edit">Изменить</string>
   <string name="wait_sync_complete">Дождитесь окончания синхронизации</string>
+  <string name="which_application">Выберите приложение</string>
 </resources>

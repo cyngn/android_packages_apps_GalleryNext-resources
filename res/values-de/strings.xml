@@ -81,4 +81,5 @@
   <string name="action_delete">Löschen</string>
   <string name="action_edit">Bearbeiten</string>
   <string name="wait_sync_complete">Bitte auf Abschluss der Synchronisierung warten</string>
+  <string name="which_application">Aktion ausführen mit</string>
 </resources>

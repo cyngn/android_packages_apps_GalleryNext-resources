@@ -81,4 +81,5 @@
   <string name="action_delete">Vymazať</string>
   <string name="action_edit">Upraviť</string>
   <string name="wait_sync_complete">Prosím, počkajte na dokončenie synchronizácie</string>
+  <string name="which_application">Dokončiť akciu pomocou</string>
 </resources>

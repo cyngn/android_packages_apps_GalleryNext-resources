@@ -93,4 +93,5 @@
   <string name="action_delete">Esborra</string>
   <string name="action_edit">Edita</string>
   <string name="wait_sync_complete">Si us plau espera que la sincronització acabi</string>
+  <string name="which_application">Completa l\'acció utilitzant</string>
 </resources>

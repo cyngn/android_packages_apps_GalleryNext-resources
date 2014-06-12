@@ -93,4 +93,5 @@
   <string name="action_delete">මකන්න</string>
   <string name="action_edit">සකසන්න</string>
   <string name="wait_sync_complete">කරුණාකර සමමුහුර්තය නිමවනතුරු රැඳෙන්න</string>
+  <string name="which_application">ක්‍රියාව කිරීමට භාවිතා කලයුත්තේ</string>
 </resources>

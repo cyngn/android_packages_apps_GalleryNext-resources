@@ -90,4 +90,5 @@
   <string name="action_delete">Hapus</string>
   <string name="action_edit">Ubah</string>
   <string name="wait_sync_complete">Harap tunggu sampai sinkronisasi selesai</string>
+  <string name="which_application">Selesaikan tindakan menggunakan</string>
 </resources>

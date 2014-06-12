@@ -93,4 +93,5 @@
   <string name="action_delete">Poista</string>
   <string name="action_edit">Muokkaa</string>
   <string name="wait_sync_complete">Odota synkronoinnin valmistumista</string>
+  <string name="which_application">Suorita käyttäen sovellusta</string>
 </resources>
