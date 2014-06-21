@@ -90,4 +90,5 @@
   <string name="action_delete">删除</string>
   <string name="action_edit">编辑</string>
   <string name="wait_sync_complete">请等待同步完成</string>
+  <string name="which_application">选择要使用的应用</string>
 </resources>

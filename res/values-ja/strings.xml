@@ -23,4 +23,22 @@
   <string name="delete">削除</string>
   <string name="movie_view_label">動画プレーヤー</string>
   <string name="loading_video">動画を読み込み中\u2026</string>
+  <string name="audio_effects">オーディオ効果</string>
+  <string name="ok">OK</string>
+  <string name="cancel">キャンセル</string>
+  <string name="today">今日</string>
+  <string name="yesterday">昨日</string>
+  <string name="this_week">今週</string>
+  <string name="this_month">今月</string>
+  <string name="data_source_all">すべて</string>
+  <string name="data_source_local">ローカルストレージ</string>
+  <string name="menu_play">スライドショー</string>
+  <string name="cast">キャスト</string>
+  <string name="undo">元に戻す</string>
+  <string name="folder_download">ダウンロード</string>
+  <string name="trimming">トリミング中\u2026</string>
+  <string name="action_share">共有</string>
+  <string name="action_delete">削除</string>
+  <string name="action_edit">編集</string>
+  <string name="wait_sync_complete">同期が完了するまでお待ちください</string>
 </resources>
