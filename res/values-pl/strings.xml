@@ -96,4 +96,5 @@
   <string name="action_delete">Usuń</string>
   <string name="action_edit">Edytuj</string>
   <string name="wait_sync_complete">Proszę czekać na zakończenie synchronizacji</string>
+  <string name="which_application">Zakończ akcję używając</string>
 </resources>
