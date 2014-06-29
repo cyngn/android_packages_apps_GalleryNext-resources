@@ -60,7 +60,7 @@
   <string name="add_picasa_account">Pridėti „Picasa“ paskyrą</string>
   <string name="remove_picasa_account">Pašalinti „Picasa“ paskyrą</string>
   <string name="uncategorized_album">Nesuskirstytą</string>
-  <string name="set_wallpaper_string">Nustatyti kaip ekrano foną</string>
+  <string name="set_wallpaper_string">Nustatyti kaip darbalaukio foną</string>
   <string name="downloading_image_title">Atsisiunčiamas vaizdas\u2026</string>
   <string name="downloading_image_failed">Nepavyko atsisiųsti vaizdo</string>
   <string name="take_photo">Fotografuoti</string>
