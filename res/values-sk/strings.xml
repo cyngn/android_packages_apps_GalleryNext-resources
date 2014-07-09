@@ -40,6 +40,11 @@
   <string name="events">Momentky</string>
   <string name="media">Médiá</string>
   <string name="albums">Albumy</string>
+  <plurals name="number_of_photos">
+    <item quantity="one">%1$d fotografia</item>
+    <item quantity="few">%1$d fotografie</item>
+    <item quantity="other">%1$d fotografií</item>
+  </plurals>
   <string name="headset_plug">Pre tieto efekty pripojte slúchadlá.</string>
   <string name="ok">OK</string>
   <string name="cancel">Zrušiť</string>
@@ -59,6 +64,11 @@
   <string name="downloading_image_title">Sťahovanie obrázka\u2026</string>
   <string name="downloading_image_failed">Nepodarilo sa načítať obrázok</string>
   <string name="take_photo">Odfotiť</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d vybraná</item>
+    <item quantity="few">%1$d vybrané</item>
+    <item quantity="other">%1$d vybraných</item>
+  </plurals>
   <string name="dialog_album">Album</string>
   <string name="dialog_type">Zdroj</string>
   <string name="dialog_date">Dátum odfotenia</string>
@@ -66,6 +76,11 @@
   <string name="folder_sync_title">Vyberte priečinky na synchronizáciu</string>
   <string name="getting_contents_title">Získavanie obsahu\u2026</string>
   <string name="menu_play">Prezentácia</string>
+  <plurals name="delete_msg">
+    <item quantity="one">Naozaj chcete vymazať tento obrázok?</item>
+    <item quantity="few">Naozaj chcete vymazať tieto obrázky?</item>
+    <item quantity="other">Naozaj chcete odstrániť tieto obrázky?</item>
+  </plurals>
   <string name="cast">Vysielať</string>
   <string name="undo">Späť</string>
   <string name="info_not_available">nedostupné</string>

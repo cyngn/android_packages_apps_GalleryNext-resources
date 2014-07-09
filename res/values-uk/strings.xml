@@ -96,4 +96,5 @@
   <string name="action_delete">Видалити</string>
   <string name="action_edit">Редагувати</string>
   <string name="wait_sync_complete">Будь ласка, дочекайтеся завершення синхронізації</string>
+  <string name="which_application">Завершити дію за допомогою</string>
 </resources>
