@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerija</string>
+  <string name="camera">"Fotoaparatas"</string>
   <string name="loading">Įkeliama\u2026</string>
   <string name="no_photos">Nėra nuotraukų</string>
   <string name="share">Bendrinti</string>

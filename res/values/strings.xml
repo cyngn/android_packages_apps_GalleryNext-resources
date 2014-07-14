@@ -16,6 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Gallery</string>
+    <string name="camera">Camera</string>
     <!-- Displayed in the title of those albums that are being loaded -->
     <string name="loading">Loading\u2026</string>
 

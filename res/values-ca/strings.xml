@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galeria</string>
+  <string name="camera">"Càmera"</string>
   <string name="loading">S\'està carregant\u2026</string>
   <string name="no_photos">No hi ha fotos</string>
   <string name="share">Comparteix</string>

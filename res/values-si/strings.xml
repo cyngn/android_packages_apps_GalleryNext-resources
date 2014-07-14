@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">ගැලරිය</string>
+  <string name="camera">"කැමරාව"</string>
   <string name="loading">පූරණයවෙමින්\u2026</string>
   <string name="no_photos">සේයා නොමැත</string>
   <string name="share">බෙදාහදාගන්න</string>

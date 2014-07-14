@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">المعرض</string>
+  <string name="camera">"الكاميرا"</string>
   <string name="loading">تحميل\u2026</string>
   <string name="no_photos">لا توجد صور</string>
   <string name="share">مشاركة</string>

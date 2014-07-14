@@ -17,4 +17,5 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerii</string>
+  <string name="camera">"Galerii"</string>
 </resources>

@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">圖片庫</string>
+  <string name="camera">"相機"</string>
   <string name="loading">正在讀取中\u2026</string>
   <string name="no_photos">沒有照片</string>
   <string name="share">分享</string>

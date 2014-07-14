@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">ギャラリー</string>
+  <string name="camera">"カメラ"</string>
   <string name="loading">読み込み中\u2026</string>
   <string name="no_photos">写真がありません</string>
   <string name="share">共有</string>
