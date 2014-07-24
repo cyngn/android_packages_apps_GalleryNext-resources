@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Галерея</string>
+  <string name="camera">Камера</string>
   <string name="loading">Завантаження\u2026</string>
   <string name="no_photos">Немає фотографій</string>
   <string name="share">Поділитись</string>

@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galéria</string>
+  <string name="camera">Kamera</string>
   <string name="loading">Betöltés\u2026</string>
   <string name="no_photos">Nincsenek fényképek</string>
   <string name="share">Megosztás</string>

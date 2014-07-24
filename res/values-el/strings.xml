@@ -17,6 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Συλλογή</string>
+  <string name="camera">Φωτογραφική μηχανή</string>
   <string name="loading">Φόρτωση\u2026</string>
   <string name="no_photos">Δεν υπάρχουν φωτογραφίες</string>
   <string name="share">Κοινή χρήση</string>
