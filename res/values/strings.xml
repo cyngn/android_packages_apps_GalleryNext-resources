@@ -160,4 +160,11 @@
 
     <!-- Title of intent resolver dialog when selecting an application to run. -->
     <string name="which_application">Complete action using</string>
+    <string name="settings_license_activity_title">Open source licenses</string>
+    <string name="license_cling_title" translatable="false">Cling</string>
+    <string name="license_cddl_summary" translatable="false">CDDL</string>
+    <string name="license_photoview_title">PhotoView</string>
+    <string name="license_apache_summary">Apache</string>
+    <string name="beam_not_supported">Beaming remote videos not supported</string>
+
 </resources>
