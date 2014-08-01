@@ -58,7 +58,7 @@
   <string name="data_source_local">Stockage local</string>
   <string name="remove_data_source">Supprimer la source de la photo</string>
   <string name="add_picasa_account">Ajouter un compte Picasa</string>
-  <string name="remove_picasa_account">Supprimer compte Picasa</string>
+  <string name="remove_picasa_account">Supprimer le compte Picasa</string>
   <string name="uncategorized_album">Sans catégorie</string>
   <string name="set_wallpaper_string">Définir comme fond d\'écran</string>
   <string name="downloading_image_title">Téléchargement de l\'image\u2026</string>
