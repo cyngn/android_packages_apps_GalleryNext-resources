@@ -98,4 +98,6 @@
   <string name="action_edit">Редагувати</string>
   <string name="wait_sync_complete">Будь ласка, дочекайтеся завершення синхронізації</string>
   <string name="which_application">Завершити дію за допомогою</string>
+  <string name="settings_license_activity_title">Ліцензії Open Source</string>
+  <string name="beam_not_supported">Віддалені відео не підтримуються</string>
 </resources>

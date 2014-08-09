@@ -92,4 +92,6 @@
   <string name="action_edit">編集</string>
   <string name="wait_sync_complete">同期が完了するまでお待ちください</string>
   <string name="which_application">アクションに使用するアプリ</string>
+  <string name="settings_license_activity_title">オープンソースライセンス</string>
+  <string name="beam_not_supported">ビームリモート動画はサポートされていません</string>
 </resources>

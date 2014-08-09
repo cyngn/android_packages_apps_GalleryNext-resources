@@ -98,4 +98,6 @@
   <string name="action_edit">Upraviť</string>
   <string name="wait_sync_complete">Prosím, počkajte na dokončenie synchronizácie</string>
   <string name="which_application">Dokončiť akciu pomocou</string>
+  <string name="settings_license_activity_title">Licencie otvoreného zdroja</string>
+  <string name="beam_not_supported">Odosielanie vzdialených videí nie je podporované</string>
 </resources>

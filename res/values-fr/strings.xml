@@ -95,4 +95,5 @@
   <string name="action_edit">Modifier</string>
   <string name="wait_sync_complete">Veuillez attendre la fin de la synchronisation</string>
   <string name="which_application">Continuer avec</string>
+  <string name="settings_license_activity_title">Licences open source</string>
 </resources>

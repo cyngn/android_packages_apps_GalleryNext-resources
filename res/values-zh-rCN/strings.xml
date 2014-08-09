@@ -92,4 +92,6 @@
   <string name="action_edit">编辑</string>
   <string name="wait_sync_complete">请等待同步完成</string>
   <string name="which_application">选择要使用的应用</string>
+  <string name="settings_license_activity_title">开源许可证</string>
+  <string name="beam_not_supported">不支持 Beam 远程视频</string>
 </resources>

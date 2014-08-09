@@ -98,4 +98,6 @@
   <string name="action_edit">Redaguoti</string>
   <string name="wait_sync_complete">Prašome palaukti sinchronizavimo pabaigos</string>
   <string name="which_application">Baigti veiksmą naudojant</string>
+  <string name="settings_license_activity_title">Atvirojo kodo licencijos</string>
+  <string name="beam_not_supported">Vaizdo įrašų perkėlimas nuotoliniu būdu nepalaikomas</string>
 </resources>

@@ -95,4 +95,6 @@
   <string name="action_edit">دەستکاری</string>
   <string name="wait_sync_complete">تکایه‌ چاوه‌ڕوانبه‌ تا ئاڵ و گۆڕ کۆتایی دێت</string>
   <string name="which_application">تەواوکردنی بەکارهێنانی چالاکیەکە</string>
+  <string name="settings_license_activity_title">مۆڵەتی سەرچاوەی کراوه‌</string>
+  <string name="beam_not_supported">هه‌ڵهاتنی دوور بۆ ڤیدیۆ کارناکات</string>
 </resources>

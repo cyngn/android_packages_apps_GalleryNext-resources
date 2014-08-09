@@ -95,4 +95,6 @@
   <string name="action_edit">Editar</string>
   <string name="wait_sync_complete">Espera pa completar la sincronización</string>
   <string name="which_application">Completar aición usando</string>
+  <string name="settings_license_activity_title">Llicencies de códigu abiertu</string>
+  <string name="beam_not_supported">La proyeición remota de vídeos nun ta sofitada</string>
 </resources>

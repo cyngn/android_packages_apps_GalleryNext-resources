@@ -95,4 +95,6 @@
   <string name="action_edit">Redigér</string>
   <string name="wait_sync_complete">Vent, til synkronisering er færdig</string>
   <string name="which_application">Gennemfør handling ved hjælp af</string>
+  <string name="settings_license_activity_title">Open source licenser</string>
+  <string name="beam_not_supported">Overførsel af fjerntliggende videoer understøttes ikke</string>
 </resources>

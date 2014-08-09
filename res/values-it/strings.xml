@@ -95,4 +95,6 @@
   <string name="action_edit">Modifica</string>
   <string name="wait_sync_complete">Attendi la fine della sincronizzazione</string>
   <string name="which_application">Completa l\'azione con</string>
+  <string name="settings_license_activity_title">Licenze open source</string>
+  <string name="beam_not_supported">Trasmissione video remoti non supportata</string>
 </resources>

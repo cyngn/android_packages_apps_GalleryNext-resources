@@ -95,4 +95,6 @@
   <string name="action_edit">Editar</string>
   <string name="wait_sync_complete">Por favor, aguarde a conclusão da sincronização</string>
   <string name="which_application">Complete a ação usando</string>
+  <string name="settings_license_activity_title">Licenças de código livre</string>
+  <string name="beam_not_supported">Transferência de vídeos remotos não é suportado</string>
 </resources>

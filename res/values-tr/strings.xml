@@ -92,4 +92,6 @@
   <string name="action_edit">Düzenle</string>
   <string name="wait_sync_complete">Eşitlemenin tamamlanması için lütfen bekleyin</string>
   <string name="which_application">Kullandığınız eylemi tamamlayın</string>
+  <string name="settings_license_activity_title">Açık kaynak lisansları</string>
+  <string name="beam_not_supported">Uzak videoları yansıtma desteklenmiyor</string>
 </resources>
