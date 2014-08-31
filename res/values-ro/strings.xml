@@ -88,4 +88,6 @@
   <string name="action_edit">Editează</string>
   <string name="wait_sync_complete">Te rugăm să aștepți până la completarea sincronizării</string>
   <string name="which_application">Completează acțiunea folosind</string>
+  <string name="settings_license_activity_title">Licențe Open source</string>
+  <string name="beam_not_supported">Transmitere video la distanță nu este acceptată</string>
 </resources>

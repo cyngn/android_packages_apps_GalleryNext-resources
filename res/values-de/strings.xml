@@ -92,4 +92,5 @@
   <string name="wait_sync_complete">Bitte auf Abschluss der Synchronisierung warten</string>
   <string name="which_application">Aktion ausführen mit</string>
   <string name="settings_license_activity_title">Open-Source-Lizenzen</string>
+  <string name="beam_not_supported">Das Beamen von Remote-Videos wird nicht unterstützt</string>
 </resources>
