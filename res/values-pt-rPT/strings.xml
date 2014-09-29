@@ -82,7 +82,7 @@
   <string name="cast">Projetar</string>
   <string name="undo">Desfazer</string>
   <string name="info_not_available">n/a</string>
-  <string name="crop_activity_title">Cortar imagem</string>
+  <string name="crop_activity_title">Recortar imagem</string>
   <string name="save_image_title">Guardar imagem</string>
   <string name="folder_download">Transferir</string>
   <string name="fail_trim">Desculpe , este vídeo não pode ser cortado</string>

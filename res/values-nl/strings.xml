@@ -45,7 +45,7 @@
     <item quantity="one">%1$d afbeelding</item>
     <item quantity="other">%1$d afbeeldingen</item>
   </plurals>
-  <string name="headset_plug">Sluit een oortelefoon aan voor deze effecten.</string>
+  <string name="headset_plug">Sluit een koptelefoon aan voor deze effecten.</string>
   <string name="ok">OK</string>
   <string name="cancel">Annuleren</string>
   <string name="around">Rondom</string>
