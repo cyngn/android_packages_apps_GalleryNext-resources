@@ -58,7 +58,7 @@
   <string name="add_picasa_account">新增 Picasa 帳戶</string>
   <string name="remove_picasa_account">移除 Picasa 帳戶</string>
   <string name="uncategorized_album">未分類 </string>
-  <string name="set_wallpaper_string">設定為桌布</string>
+  <string name="set_wallpaper_string">設定為牆紙</string>
   <string name="downloading_image_title">正在下載圖像\u2026</string>
   <string name="downloading_image_failed">獲取圖像失敗</string>
   <string name="take_photo">拍一張相片</string>

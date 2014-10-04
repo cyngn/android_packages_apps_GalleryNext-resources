@@ -42,7 +42,7 @@
   <string name="media">Ortam</string>
   <string name="albums">Albümler</string>
   <plurals name="number_of_photos">
-    <item quantity="other">%1$d fotoğraflar</item>
+    <item quantity="other">%1$d fotoğraf</item>
   </plurals>
   <string name="headset_plug">Bu efektler için kulaklık takın.</string>
   <string name="ok">Tamam</string>
