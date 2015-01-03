@@ -45,9 +45,11 @@
     <item quantity="one">%1$d Foto</item>
     <item quantity="other">%1$d Fotoen</item>
   </plurals>
+  <string name="headset_plug">Schléiss Kopfhörer u fir dës Effekter.</string>
   <string name="ok">OK</string>
   <string name="cancel">Ofbriechen</string>
   <string name="around">Ronderëm</string>
+  <string name="posts">Bäiträg</string>
   <string name="today">Haut</string>
   <string name="yesterday">Gëschter</string>
   <string name="this_week">Dës Woch</string>
@@ -55,9 +57,12 @@
   <string name="data_source_all">All</string>
   <string name="data_source_local">Lokale Späicher</string>
   <string name="remove_data_source">Fotoquell läschen</string>
+  <string name="add_picasa_account">Picasa-Kont dobäisetzen</string>
+  <string name="remove_picasa_account">Picasa-Kont läschen</string>
   <string name="uncategorized_album">Net ageuerdnet</string>
   <string name="set_wallpaper_string">Als Hannergrondbild setzen</string>
   <string name="downloading_image_title">Bild gëtt erofgelueden\u2026</string>
+  <string name="downloading_image_failed">Bild konnt net geluede ginn</string>
   <string name="take_photo">Foto ophuelen</string>
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d ausgewielt</item>
@@ -67,7 +72,13 @@
   <string name="dialog_type">Quell</string>
   <string name="dialog_date">Opgeholl den</string>
   <string name="menu_camera">Foto maachen</string>
+  <string name="folder_sync_title">Wiel d\'Dossieren aus déi solle synchroniséiert ginn</string>
+  <string name="getting_contents_title">Inhalt gëtt gelueden\u2026</string>
   <string name="menu_play">Diashow</string>
+  <plurals name="delete_msg">
+    <item quantity="one">Soll dëst Bild wierklech geläscht ginn?</item>
+    <item quantity="other">Sollen dës Biller wierklech geläscht ginn?</item>
+  </plurals>
   <string name="cast">Iwwerdroen</string>
   <string name="undo">Réckgängeg maachen</string>
   <string name="info_not_available">n/a</string>
@@ -82,5 +93,8 @@
   <string name="action_share">Deelen</string>
   <string name="action_delete">Läschen</string>
   <string name="action_edit">Änneren</string>
+  <string name="wait_sync_complete">Waart w.e.g. op den Ofschloss vun der Synchroniséierung</string>
+  <string name="which_application">Aktioun duerchféiere mat</string>
   <string name="settings_license_activity_title">Open-Source-Lizenzen</string>
+  <string name="beam_not_supported">D\'Beame vu Online-Videoe gëtt net ënnerstëtzt</string>
 </resources>
