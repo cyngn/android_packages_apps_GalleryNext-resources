@@ -28,7 +28,7 @@
   <string name="resume_playing_message">Bei %s weider ofspillen ?</string>
   <string name="resume_playing_resume">Weider ofspillen</string>
   <string name="resume_playing_restart">Vu vir ufänken</string>
-  <string name="audio_effects">Audio-Effekter</string>
+  <string name="audio_effects">Touneffekter</string>
   <string name="bass_boost_strength">Bassunhiewung</string>
   <string name="virtualizer_strength">3D-Effekt</string>
   <string name="accessibility_play_video">Video ofspillen</string>
