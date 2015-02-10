@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">圖片庫</string>
   <string name="camera">相機</string>
-  <string name="loading">正在讀取中\u2026</string>
+  <string name="loading">正在讀取\u2026</string>
   <string name="no_photos">沒有照片</string>
   <string name="share">分享</string>
   <string name="delete">刪除</string>
@@ -42,7 +42,7 @@
   <string name="media">媒體</string>
   <string name="albums">相簿</string>
   <plurals name="number_of_photos">
-    <item quantity="other">%1$d 相片</item>
+    <item quantity="other">%1$d 張相片</item>
   </plurals>
   <string name="headset_plug">接上耳機來享受這些效果。</string>
   <string name="ok">確定</string>
@@ -51,47 +51,47 @@
   <string name="posts">文章</string>
   <string name="today">今天</string>
   <string name="yesterday">昨天</string>
-  <string name="this_week">這一周</string>
-  <string name="this_month">這個月</string>
+  <string name="this_week">本周</string>
+  <string name="this_month">本月</string>
   <string name="data_source_all">全部</string>
-  <string name="data_source_local">本機儲存</string>
+  <string name="data_source_local">本機儲存空間</string>
   <string name="remove_data_source">刪除相片來源</string>
   <string name="add_picasa_account">新增 Picasa 帳戶</string>
-  <string name="remove_picasa_account">移除 Picasa 帳戶</string>
-  <string name="uncategorized_album">未分類 </string>
+  <string name="remove_picasa_account">刪除 Picasa 帳戶</string>
+  <string name="uncategorized_album">未分類</string>
   <string name="set_wallpaper_string">設為桌布</string>
-  <string name="downloading_image_title">正在下載圖像\u2026</string>
-  <string name="downloading_image_failed">獲取圖像失敗</string>
+  <string name="downloading_image_title">正在下載圖片\u2026</string>
+  <string name="downloading_image_failed">獲取圖片失敗</string>
   <string name="take_photo">拍一張相片</string>
   <plurals name="number_of_items_selected">
     <item quantity="other">已選取 %1$d 個</item>
   </plurals>
-  <string name="dialog_album">專輯</string>
+  <string name="dialog_album">相簿</string>
   <string name="dialog_type">來源</string>
   <string name="dialog_date">拍攝於</string>
   <string name="menu_camera">拍攝相片</string>
-  <string name="folder_sync_title">選擇要同步的資料夾</string>
+  <string name="folder_sync_title">選取要同步的資料夾</string>
   <string name="getting_contents_title">正在獲取內容\u2026</string>
   <string name="menu_play">投影播放</string>
   <plurals name="delete_msg">
-    <item quantity="other">確實要刪除這些圖像嗎？</item>
+    <item quantity="other">確定要刪除這些圖片嗎？</item>
   </plurals>
   <string name="cast">投射</string>
   <string name="undo">復原</string>
   <string name="info_not_available">不適用</string>
   <string name="crop_activity_title">裁剪相片</string>
-  <string name="save_image_title">儲存圖像</string>
+  <string name="save_image_title">儲存圖片</string>
   <string name="folder_download">下載</string>
-  <string name="fail_trim">很抱歉，此影片檔案不能被修剪</string>
-  <string name="save_into">正在儲存影片到 <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
-  <string name="trimming">正在修剪\u2026</string>
+  <string name="fail_trim">很抱歉，此影片檔案不能被剪輯</string>
+  <string name="save_into">正在儲存影片至「<xliff:g id="album_name">%1$s</xliff:g>」\u2026</string>
+  <string name="trimming">正在剪輯\u2026</string>
   <string name="please_wait">請稍候</string>
   <string name="save_video_title">儲存影片</string>
   <string name="action_share">分享</string>
   <string name="action_delete">刪除</string>
   <string name="action_edit">編輯</string>
   <string name="wait_sync_complete">請等待同步完成</string>
-  <string name="which_application">選擇要使用的應用程式</string>
+  <string name="which_application">選取要使用的應用程式</string>
   <string name="settings_license_activity_title">開放原始碼授權</string>
   <string name="beam_not_supported">不支援 Beam 遠端視訊</string>
 </resources>

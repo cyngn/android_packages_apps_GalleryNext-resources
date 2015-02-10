@@ -75,6 +75,10 @@
   <string name="folder_sync_title">Ordner zum Synchronisieren auswählen</string>
   <string name="getting_contents_title">Lade Inhalte\u2026</string>
   <string name="menu_play">Präsentation</string>
+  <plurals name="delete_msg">
+    <item quantity="one">Möchten Sie dieses Bild wirklich löschen?</item>
+    <item quantity="other">Möchten Sie diese Bilder wirklich löschen?</item>
+  </plurals>
   <string name="cast">Übertragen</string>
   <string name="undo">Rückgängig machen</string>
   <string name="info_not_available">n/a</string>

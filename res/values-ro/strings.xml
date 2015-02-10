@@ -41,6 +41,11 @@
   <string name="events">Momente</string>
   <string name="media">Media</string>
   <string name="albums">Albume</string>
+  <plurals name="number_of_photos">
+    <item quantity="one">%1$d fotografie</item>
+    <item quantity="few">%1$d fotografii</item>
+    <item quantity="other">%1$d fotografii</item>
+  </plurals>
   <string name="headset_plug">Conectează căști pentru aceste efecte.</string>
   <string name="ok">OK</string>
   <string name="cancel">Anulare</string>
@@ -60,6 +65,11 @@
   <string name="downloading_image_title">Descărcare imagine\u2026</string>
   <string name="downloading_image_failed">Nu s-a putut prelua imaginea</string>
   <string name="take_photo">Capturează o fotografie</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d selectat</item>
+    <item quantity="few">%1$d selectate</item>
+    <item quantity="other">%1$d selectate</item>
+  </plurals>
   <string name="dialog_album">Album</string>
   <string name="dialog_type">Sursă</string>
   <string name="dialog_date">Capturat la</string>
