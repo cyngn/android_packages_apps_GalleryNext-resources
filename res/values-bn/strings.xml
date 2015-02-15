@@ -19,5 +19,8 @@
   <string name="app_name">সংগ্রহশালা</string>
   <string name="camera">ক্যামেরা</string>
   <string name="loading">লোড হচ্ছে\u2026</string>
+  <string name="no_photos">কোনো ছবি নেই</string>
   <string name="share">শেয়ার</string>
+  <string name="movie_view_label">ভিডিও প্লেয়ার</string>
+  <string name="virtualizer_strength">ত্রিমাত্রিক প্রভাব</string>
 </resources>
