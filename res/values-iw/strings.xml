@@ -52,8 +52,8 @@
   <string name="posts">הודעות</string>
   <string name="today">היום</string>
   <string name="yesterday">אתמול</string>
-  <string name="this_week">השבוע</string>
-  <string name="this_month">החודש</string>
+  <string name="this_week">השבוע הזה</string>
+  <string name="this_month">החודש הזה</string>
   <string name="data_source_all">הכל</string>
   <string name="data_source_local">אחסון מקומי</string>
   <string name="remove_data_source">הסר מקור תמונה</string>
@@ -70,7 +70,7 @@
   </plurals>
   <string name="dialog_album">אלבום</string>
   <string name="dialog_type">מקור</string>
-  <string name="dialog_date">נלקחה</string>
+  <string name="dialog_date">צולמה ב:</string>
   <string name="menu_camera">צלם תמונה</string>
   <string name="folder_sync_title">בחר תקיות לסנכרון</string>
   <string name="getting_contents_title">מוריד תוכן\u2026</string>
@@ -81,12 +81,12 @@
   </plurals>
   <string name="cast">העבר</string>
   <string name="undo">בטל</string>
-  <string name="info_not_available">n/a</string>
+  <string name="info_not_available">לא זמין</string>
   <string name="crop_activity_title">חתוך תמונה</string>
   <string name="save_image_title">שמור תמונה</string>
   <string name="folder_download">הורד</string>
   <string name="fail_trim">סליחה, קובץ וידאו זה לא יכול להיגזר</string>
-  <string name="save_into">שומר וידאו ל-<xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+  <string name="save_into">שומר וידאו ל-\"<xliff:g id="album_name">%1$s</xliff:g>\"\u2026</string>
   <string name="trimming">חותך\u2026</string>
   <string name="please_wait">אנא המתן</string>
   <string name="save_video_title">שמור וידאו</string>
