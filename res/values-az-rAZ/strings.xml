@@ -49,6 +49,7 @@
   <string name="this_week">Bu həftə</string>
   <string name="this_month">Bu ay</string>
   <string name="data_source_all">Hamısı</string>
+  <string name="data_source_local">Yerli saxlama</string>
   <string name="remove_data_source">Fotoşəkil mənbəsini sil</string>
   <string name="add_picasa_account">Picasa hesabı əlavə et</string>
   <string name="remove_picasa_account">Picasa hesabını sil</string>
