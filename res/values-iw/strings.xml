@@ -30,8 +30,8 @@
   <string name="resume_playing_restart">התחל מחדש</string>
   <string name="audio_effects">אפקטי שמע</string>
   <string name="bass_boost_strength">הגברת בס</string>
-  <string name="virtualizer_strength">אפקט 3D</string>
-  <string name="accessibility_play_video">הפעל וידאו</string>
+  <string name="virtualizer_strength">אפקט תלת-מימד</string>
+  <string name="accessibility_play_video">נגן וידאו</string>
   <string name="accessibility_pause_video">השהה וידאו</string>
   <string name="accessibility_reload_video">טען מחדש וידאו</string>
   <string name="accessibility_time_bar">סרגל זמן בנגן הוידאו</string>
@@ -52,8 +52,8 @@
   <string name="posts">הודעות</string>
   <string name="today">היום</string>
   <string name="yesterday">אתמול</string>
-  <string name="this_week">השבוע הזה</string>
-  <string name="this_month">החודש הזה</string>
+  <string name="this_week">השבוע</string>
+  <string name="this_month">החודש</string>
   <string name="data_source_all">הכל</string>
   <string name="data_source_local">אחסון מקומי</string>
   <string name="remove_data_source">הסר מקור תמונה</string>
@@ -70,9 +70,9 @@
   </plurals>
   <string name="dialog_album">אלבום</string>
   <string name="dialog_type">מקור</string>
-  <string name="dialog_date">צולמה ב:</string>
+  <string name="dialog_date">נלקחה ב:</string>
   <string name="menu_camera">צלם תמונה</string>
-  <string name="folder_sync_title">בחר תקיות לסנכרון</string>
+  <string name="folder_sync_title">בחר תיקיות לסנכרון</string>
   <string name="getting_contents_title">מוריד תוכן\u2026</string>
   <string name="menu_play">מצגת</string>
   <plurals name="delete_msg">
@@ -96,5 +96,5 @@
   <string name="wait_sync_complete">המתן להשלמת סינכרון</string>
   <string name="which_application">השלם פעולה באמצעות</string>
   <string name="settings_license_activity_title">רשיונות קוד פתוח</string>
-  <string name="beam_not_supported">שיגור סרטונים מהרשת לא נתמך</string>
+  <string name="beam_not_supported">שיגור סרטונים מרחוק (Beaming) לא נתמך</string>
 </resources>
