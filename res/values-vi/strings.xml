@@ -50,30 +50,48 @@
   <string name="around">Xung quanh</string>
   <string name="posts">Bài viết</string>
   <string name="today">Hôm nay</string>
+  <string name="yesterday">Hôm qua</string>
   <string name="this_week">Tuần này</string>
   <string name="this_month">Tháng này</string>
   <string name="data_source_all">Tất cả</string>
   <string name="data_source_local">Lưu trữ nội bộ</string>
+  <string name="remove_data_source">Xoá nguồn ảnh</string>
+  <string name="add_picasa_account">Thêm tài khoản Picasa</string>
+  <string name="remove_picasa_account">Xoá tài khoản Picasa</string>
+  <string name="uncategorized_album">Chưa phân loại</string>
+  <string name="set_wallpaper_string">Đặt làm hình nền</string>
   <string name="downloading_image_title">Đang tải về ảnh\u2026</string>
   <string name="downloading_image_failed">Không thể có được ảnh</string>
   <string name="take_photo">Chụp ảnh</string>
   <plurals name="number_of_items_selected">
     <item quantity="other">%1$d đã chọn</item>
   </plurals>
+  <string name="dialog_album">Album</string>
+  <string name="dialog_type">Nguồn</string>
   <string name="dialog_date">Ngày chụp</string>
+  <string name="menu_camera">Chụp ảnh</string>
   <string name="folder_sync_title">Chọn thư mục để đồng bộ</string>
   <string name="getting_contents_title">Nhận được nội dung\u2026</string>
   <string name="menu_play">Trình chiếu</string>
+  <plurals name="delete_msg">
+    <item quantity="other">Bạn có chắc chắn muốn xoá ảnh này không?</item>
+  </plurals>
   <string name="cast">Diễn viên</string>
   <string name="undo">Huỷ</string>
   <string name="info_not_available">n/a</string>
   <string name="crop_activity_title">Cắt hình ảnh</string>
   <string name="save_image_title">Lưu hình ảnh</string>
+  <string name="folder_download">Tải về</string>
   <string name="fail_trim">Xin lỗi, tập tin video này không thể cắt</string>
   <string name="save_into">Đang lưu video vào <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
   <string name="trimming">Đang cắt\u2026</string>
   <string name="please_wait">Vui lòng chờ</string>
+  <string name="save_video_title">Lưu video</string>
+  <string name="action_share">Chia sẻ</string>
   <string name="action_delete">Xoá</string>
+  <string name="action_edit">Chỉnh sửa</string>
+  <string name="wait_sync_complete">Vui lòng chờ để hoàn tất đồng bộ</string>
   <string name="which_application">Hoàn thành hành động bằng cách sử dụng</string>
+  <string name="settings_license_activity_title">Giấy phép nguồn mở</string>
   <string name="beam_not_supported">Truyền tải video từ xa không được hỗ trợ</string>
 </resources>
