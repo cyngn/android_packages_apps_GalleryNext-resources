@@ -55,8 +55,9 @@
   <string name="this_month">Hilabete hau</string>
   <string name="data_source_all">Denak</string>
   <string name="data_source_local">Barne biltegiratzea</string>
-  <string name="remove_data_source">Irudiaren jatorria ezabatu</string>
+  <string name="remove_data_source">Ezabatu irudiaren jatorria</string>
   <string name="add_picasa_account">Picasa kontua gehitu</string>
+  <string name="remove_picasa_account">Ezabatu Picasa kontua</string>
   <string name="uncategorized_album">Sailkapenik gabe</string>
   <string name="downloading_image_title">Irudia deskargatzen\u2026</string>
   <string name="downloading_image_failed">Akatsa irudia lortzerakoan</string>
