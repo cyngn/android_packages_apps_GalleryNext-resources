@@ -22,7 +22,7 @@
   <string name="no_photos">Argazkirik ez</string>
   <string name="share">Partekatu</string>
   <string name="delete">Ezabatu</string>
-  <string name="movie_view_label">Bideo erreproduktorea</string>
+  <string name="movie_view_label">Bideo erreproduzigailua</string>
   <string name="loading_video">Bideoa kargatzen\u2026</string>
   <string name="resume_playing_title">Bideoa berrekin</string>
   <string name="resume_playing_message">Bideoa %s-tik berrekin?</string>
@@ -35,9 +35,9 @@
   <string name="accessibility_pause_video">Bideoa pausatu</string>
   <string name="accessibility_reload_video">Bideoa birkargatu</string>
   <string name="accessibility_time_bar">Erreprodukzio aurrerapen barra</string>
-  <string name="show_on_map">Mapan erakutsi</string>
+  <string name="show_on_map">Erakutsi mapan</string>
   <string name="data_sources">Zerbitzuak</string>
-  <string name="add_data_source_title">Irudien jatorria gehitu</string>
+  <string name="add_data_source_title">Gehitu irudien jatorria</string>
   <string name="events">Momentuak</string>
   <string name="media">Media</string>
   <string name="albums">Albumak</string>
@@ -45,7 +45,8 @@
     <item quantity="one">Argazki %1$d</item>
     <item quantity="other">%1$d argazki</item>
   </plurals>
-  <string name="ok">Ondo da</string>
+  <string name="headset_plug">Konektatu aurikularrak efektu hauentzako .</string>
+  <string name="ok">Ados</string>
   <string name="cancel">Ezeztu</string>
   <string name="around">Inguruan</string>
   <string name="posts">Mezuak</string>
@@ -56,21 +57,22 @@
   <string name="data_source_all">Denak</string>
   <string name="data_source_local">Barne biltegiratzea</string>
   <string name="remove_data_source">Ezabatu irudiaren jatorria</string>
-  <string name="add_picasa_account">Picasa kontua gehitu</string>
+  <string name="add_picasa_account">Gehitu Picasa kontua</string>
   <string name="remove_picasa_account">Ezabatu Picasa kontua</string>
   <string name="uncategorized_album">Sailkapenik gabe</string>
+  <string name="set_wallpaper_string">Ezarri horma-paper gisa</string>
   <string name="downloading_image_title">Irudia deskargatzen\u2026</string>
-  <string name="downloading_image_failed">Akatsa irudia lortzerakoan</string>
-  <string name="take_photo">Argazki bat atera</string>
+  <string name="downloading_image_failed">Ezin izan da irudia eskuratu</string>
+  <string name="take_photo">Atera argazki bat</string>
   <plurals name="number_of_items_selected">
-    <item quantity="one">%1$d aukeratuta</item>
-    <item quantity="other">%1$d aukeratuta</item>
+    <item quantity="one">%1$d hautatuta</item>
+    <item quantity="other">%1$d hautatuta</item>
   </plurals>
   <string name="dialog_album">Albuma</string>
   <string name="dialog_type">Jatorria</string>
   <string name="dialog_date">Noiz aterata</string>
-  <string name="menu_camera">Argazkia atera</string>
-  <string name="folder_sync_title">Sinkronizatzeko karpetak aukeratu</string>
+  <string name="menu_camera">Atera argazkia</string>
+  <string name="folder_sync_title">Sinkronizatzeko karpetak hautatu</string>
   <string name="getting_contents_title">Edukiak lortzen\u2026</string>
   <string name="menu_play">Diapositiba aurkezpena</string>
   <plurals name="delete_msg">
@@ -81,16 +83,18 @@
   <string name="undo">Desegin</string>
   <string name="info_not_available">Daturik gabe</string>
   <string name="crop_activity_title">Irudia ebaki</string>
-  <string name="save_image_title">Irudia gorde</string>
-  <string name="folder_download">Deskargatu</string>
+  <string name="save_image_title">Gorde irudia</string>
+  <string name="folder_download">Deskargak</string>
   <string name="fail_trim">Barkatu, bideo hau ezin da ebaki</string>
   <string name="save_into">Bideoa <xliff:g id="album_name">%1$s</xliff:g>-en gordetzen\u2026</string>
   <string name="trimming">Ebakitzen\u2026</string>
   <string name="please_wait">Itxaron mesedez</string>
-  <string name="save_video_title">Bideoa gorde</string>
+  <string name="save_video_title">Gorde bideoa</string>
   <string name="action_share">Partekatu</string>
   <string name="action_delete">Ezabatu</string>
   <string name="action_edit">Editatu</string>
   <string name="wait_sync_complete">Itxaron sinkronizazioa bukatu arte, mesedez</string>
   <string name="which_application">Ekintza hau erabiliz burutu</string>
+  <string name="settings_license_activity_title">Lizentzia libreak</string>
+  <string name="beam_not_supported">Urrutiko bideoak ezin dira igorri</string>
 </resources>

@@ -18,12 +18,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">پێشەنگا</string>
   <string name="camera">کامێرا</string>
-  <string name="loading">ئامادەکاری\u2026</string>
+  <string name="loading">ئامادەکاری\u٢٠٢٦</string>
   <string name="no_photos">وێنه‌ نییه‌</string>
   <string name="share">به‌شداری پێکردن</string>
   <string name="delete">سڕینه‌وه‌</string>
   <string name="movie_view_label">کارپێکه‌ری ڤیدیۆ</string>
-  <string name="loading_video">دابه‌زاندنی ڤیدیۆ\u2026</string>
+  <string name="loading_video">دابه‌زاندنی ڤیدیۆ\u٢٠٢٦</string>
   <string name="resume_playing_title">ڤيديۆكه‌ دەست پێ بكەوە</string>
   <string name="resume_playing_message">ڤیدیۆ ده‌ستپێبکاته‌وه‌ له‌ %s ؟</string>
   <string name="resume_playing_resume">ده‌ستپێکردنه‌وه‌</string>
@@ -42,8 +42,8 @@
   <string name="media">ڕه‌نگاڵه‌</string>
   <string name="albums">ئەلبوم</string>
   <plurals name="number_of_photos">
-    <item quantity="one">%1$d وێنه‌</item>
-    <item quantity="other">%1$d وێنه‌</item>
+    <item quantity="one">%١$d وێنه‌</item>
+    <item quantity="other">%١$d وێنه‌</item>
   </plurals>
   <string name="headset_plug">تکایه‌ بیستۆکی پێوه‌بکه‌ بۆ کاریگه‌ری.</string>
   <string name="ok">باشه‌</string>
@@ -60,20 +60,20 @@
   <string name="add_picasa_account">زیادکردن هه‌ژماری پیکاسا</string>
   <string name="remove_picasa_account">سڕینه‌وه‌ی هه‌ژماری پیکاسا</string>
   <string name="uncategorized_album">جیانه‌کراوه‌</string>
-  <string name="set_wallpaper_string">خستنە سەر شاشە</string>
-  <string name="downloading_image_title">دابه‌زاندنی وێنه‌\u2026</string>
+  <string name="set_wallpaper_string">خستنە سەر ڕونما</string>
+  <string name="downloading_image_title">دابه‌زاندنی وێنه‌\u٢٠٢٦</string>
   <string name="downloading_image_failed">نه‌توانرا وێنه‌ دابه‌زێنرێ</string>
   <string name="take_photo">گرتنی وێنه‌یه‌ک</string>
   <plurals name="number_of_items_selected">
-    <item quantity="one">%1$d دیاری کراوه‌</item>
-    <item quantity="other">%1$d دیاری کراوه‌</item>
+    <item quantity="one">%١$d دیاری کراوه‌</item>
+    <item quantity="other">%١$d دیاری کراوه‌</item>
   </plurals>
   <string name="dialog_album">ئه‌لبوم</string>
   <string name="dialog_type">سه‌رچاوه‌</string>
   <string name="dialog_date">گیراوه‌</string>
   <string name="menu_camera">وێنەگرتن</string>
   <string name="folder_sync_title">بوخچه‌یه‌ک دیاریبکه‌ بۆ ئاڵ و گۆڕ</string>
-  <string name="getting_contents_title">وه‌رگرتنی ناوه‌ڕۆکه‌کان\u2026</string>
+  <string name="getting_contents_title">وه‌رگرتنی ناوه‌ڕۆکه‌کان\u٢٠٢٦</string>
   <string name="menu_play">نیشاندانی سلاید</string>
   <plurals name="delete_msg">
     <item quantity="one">دڵنیای له‌ سڕینه‌وه‌ی ئه‌م وێنه‌یه‌؟</item>
@@ -86,8 +86,8 @@
   <string name="save_image_title">پاشەکەوت کردنی وێنە</string>
   <string name="folder_download">داگرتن</string>
   <string name="fail_trim">ببورە. ئەم فایلی ڤیدیۆیە ناتوانرێت داتاشراوبێت</string>
-  <string name="save_into">پاشه‌که‌وتکردنی ڤیدیۆ بۆ <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
-  <string name="trimming">بڕینی\u2026</string>
+  <string name="save_into">پاشه‌که‌وتکردنی ڤیدیۆ بۆ <xliff:g id="album_name">%١$s</xliff:g>\u٢٠٢٦</string>
+  <string name="trimming">بڕینی\u٢٠٢٦</string>
   <string name="please_wait">تکایه‌ چاوه‌ڕوانبه‌</string>
   <string name="save_video_title">پاشه‌که‌وتکردنی ڤیدیۆ</string>
   <string name="action_share">به‌شداری پێکردن</string>
