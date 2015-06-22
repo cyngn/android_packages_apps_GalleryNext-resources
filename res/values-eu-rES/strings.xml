@@ -26,15 +26,15 @@
   <string name="loading_video">Bideoa kargatzen\u2026</string>
   <string name="resume_playing_title">Bideoa berrekin</string>
   <string name="resume_playing_message">Bideoa %s-tik berrekin?</string>
-  <string name="resume_playing_resume">Erreprodukzioa berrekin</string>
+  <string name="resume_playing_resume">Berrekin erreprodukzioari</string>
   <string name="resume_playing_restart">Hasieratik</string>
   <string name="audio_effects">Audio efektuak</string>
   <string name="bass_boost_strength">Baxuen indartzea</string>
   <string name="virtualizer_strength">3D efektua</string>
-  <string name="accessibility_play_video">Bideoa erreproduzitu</string>
+  <string name="accessibility_play_video">Erreproduzitu bideoa</string>
   <string name="accessibility_pause_video">Bideoa pausatu</string>
   <string name="accessibility_reload_video">Bideoa birkargatu</string>
-  <string name="accessibility_time_bar">Erreprodukzio aurrerapen barra</string>
+  <string name="accessibility_time_bar">Bideo erreproduzigailuaren denbora barra</string>
   <string name="show_on_map">Erakutsi mapan</string>
   <string name="data_sources">Zerbitzuak</string>
   <string name="add_data_source_title">Gehitu irudien jatorria</string>
@@ -47,7 +47,7 @@
   </plurals>
   <string name="headset_plug">Konektatu aurikularrak efektu hauentzako .</string>
   <string name="ok">ADOS</string>
-  <string name="cancel">Ezeztu</string>
+  <string name="cancel">Utzi</string>
   <string name="around">Inguruan</string>
   <string name="posts">Mezuak</string>
   <string name="today">Gaur</string>
@@ -55,7 +55,7 @@
   <string name="this_week">Aste hau</string>
   <string name="this_month">Hilabete hau</string>
   <string name="data_source_all">Denak</string>
-  <string name="data_source_local">Barne biltegiratzea</string>
+  <string name="data_source_local">Tokiko biltegiratzea</string>
   <string name="remove_data_source">Ezabatu irudiaren jatorria</string>
   <string name="add_picasa_account">Gehitu Picasa kontua</string>
   <string name="remove_picasa_account">Ezabatu Picasa kontua</string>
