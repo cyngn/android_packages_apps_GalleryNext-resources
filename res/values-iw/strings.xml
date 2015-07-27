@@ -73,7 +73,7 @@
   <string name="dialog_date">נלקחה ב:</string>
   <string name="menu_camera">צלם תמונה</string>
   <string name="folder_sync_title">בחר תיקיות לסנכרון</string>
-  <string name="getting_contents_title">מוריד תוכן\u2026</string>
+  <string name="getting_contents_title">מקבל תוכן\u2026</string>
   <string name="menu_play">מצגת</string>
   <plurals name="delete_msg">
     <item quantity="one">האם אתה בטוח במחיקת תמונה זו?</item>
