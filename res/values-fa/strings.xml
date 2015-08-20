@@ -60,7 +60,7 @@
   <string name="remove_picasa_account">حذف حساب پیکاسا</string>
   <string name="uncategorized_album">دسته بندی نشده</string>
   <string name="set_wallpaper_string">تنظیم به عنوان کاغذدیواری</string>
-  <string name="downloading_image_title">دریافت تصویر\u2026</string>
+  <string name="downloading_image_title">دانلود تصویر\u2026</string>
   <string name="downloading_image_failed">دریافت تصویر انجام نشد</string>
   <string name="take_photo">عکس بگیر</string>
   <plurals name="number_of_items_selected">
@@ -81,7 +81,7 @@
   <string name="info_not_available">n/a</string>
   <string name="crop_activity_title">برش تصویر</string>
   <string name="save_image_title">ذخیره تصویر</string>
-  <string name="folder_download">دریافت</string>
+  <string name="folder_download">دانلود</string>
   <string name="fail_trim">متأسفانه، این ویدیو بریده نمی شود</string>
   <string name="save_into">در حال ذخیره ویدیو در <xliff:g id="album_name">%1$s </xliff:g>\u2026</string>
   <string name="trimming">در حال برش\u2026</string>
