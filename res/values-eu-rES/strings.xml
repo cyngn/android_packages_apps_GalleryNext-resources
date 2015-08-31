@@ -97,4 +97,5 @@
   <string name="which_application">Ekintza hau erabiliz burutu</string>
   <string name="settings_license_activity_title">Lizentzia libreak</string>
   <string name="beam_not_supported">Urrutiko bideoak ezin dira igorri</string>
+  <string name="deleted">Ezabatuta</string>
 </resources>

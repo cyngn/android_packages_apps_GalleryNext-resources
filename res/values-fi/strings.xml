@@ -97,4 +97,5 @@
   <string name="which_application">Suorita käyttäen sovellusta</string>
   <string name="settings_license_activity_title">Avoimen lähdekoodin lisenssit</string>
   <string name="beam_not_supported">Etävideoiden kuvan lähettämistä eri näytölle ei tueta</string>
+  <string name="deleted">Poistettu</string>
 </resources>

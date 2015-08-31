@@ -100,4 +100,5 @@
   <string name="which_application">Выберите приложение</string>
   <string name="settings_license_activity_title">Лицензии открытого ПО</string>
   <string name="beam_not_supported">Передача удалённых видеозаписей не поддерживается</string>
+  <string name="deleted">Удалено</string>
 </resources>

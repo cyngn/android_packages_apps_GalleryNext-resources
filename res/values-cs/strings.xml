@@ -100,4 +100,5 @@
   <string name="which_application">Dokončit pomocí… </string>
   <string name="settings_license_activity_title">Licence otevřeného software</string>
   <string name="beam_not_supported">Odesílání vzdálených videí není podporováno</string>
+  <string name="deleted">Smazáno</string>
 </resources>

@@ -97,4 +97,5 @@
   <string name="which_application">השלם פעולה באמצעות</string>
   <string name="settings_license_activity_title">רשיונות קוד פתוח</string>
   <string name="beam_not_supported">שיגור סרטונים מרחוק (Beaming) לא נתמך</string>
+  <string name="deleted">נמחק</string>
 </resources>

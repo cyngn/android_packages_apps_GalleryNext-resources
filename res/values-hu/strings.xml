@@ -97,4 +97,5 @@
   <string name="which_application">Művelet végrehajtása ezzel</string>
   <string name="settings_license_activity_title">Nyílt forráskódú licenszek</string>
   <string name="beam_not_supported">Távoli videók vetítése nem támogatott</string>
+  <string name="deleted">Törölve</string>
 </resources>

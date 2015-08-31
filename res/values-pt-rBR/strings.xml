@@ -97,4 +97,5 @@
   <string name="which_application">Complete a ação usando</string>
   <string name="settings_license_activity_title">Licenças de código livre</string>
   <string name="beam_not_supported">Transferência de vídeos remotos não é suportado</string>
+  <string name="deleted">Excluído</string>
 </resources>

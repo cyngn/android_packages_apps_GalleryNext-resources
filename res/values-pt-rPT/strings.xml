@@ -97,4 +97,5 @@
   <string name="which_application">Concluir ação utilizando</string>
   <string name="settings_license_activity_title">Licenças de código livre</string>
   <string name="beam_not_supported">Emissão remota de vídeos não suportada</string>
+  <string name="deleted">Eliminado</string>
 </resources>

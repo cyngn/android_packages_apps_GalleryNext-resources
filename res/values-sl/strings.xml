@@ -103,4 +103,5 @@
   <string name="which_application">Dokončaj dejanje z uporabo</string>
   <string name="settings_license_activity_title">Odprtokodne licence</string>
   <string name="beam_not_supported">Žarčenje oddaljenih video posnetkov ni podprto</string>
+  <string name="deleted">Izbrisano</string>
 </resources>

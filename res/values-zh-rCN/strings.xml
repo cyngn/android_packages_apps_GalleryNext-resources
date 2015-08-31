@@ -94,4 +94,5 @@
   <string name="which_application">选择要使用的应用</string>
   <string name="settings_license_activity_title">开源许可证</string>
   <string name="beam_not_supported">不支持 Beam 远程视频</string>
+  <string name="deleted">已删除</string>
 </resources>

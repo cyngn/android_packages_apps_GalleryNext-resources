@@ -97,4 +97,5 @@
   <string name="which_application">Ολοκλήρωση ενέργειας με χρήση</string>
   <string name="settings_license_activity_title">Άδειες χρήσης ανοιχτού κώδικα</string>
   <string name="beam_not_supported">Η απομακρυσμένη μετάδοση βίντεο δεν υποστηρίζεται</string>
+  <string name="deleted">Έγινε διαγραφή</string>
 </resources>
