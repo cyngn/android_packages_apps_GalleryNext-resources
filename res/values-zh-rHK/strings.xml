@@ -91,4 +91,7 @@
   <string name="action_edit">編輯</string>
   <string name="wait_sync_complete">請等待同步完成</string>
   <string name="which_application">採用完整的操作</string>
+  <string name="settings_license_activity_title">開放源碼許可</string>
+  <string name="beam_not_supported">不支援 Beam 遠端視像</string>
+  <string name="deleted">已刪除</string>
 </resources>

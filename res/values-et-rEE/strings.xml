@@ -97,4 +97,5 @@
   <string name="which_application">Lõpeta tegevus kasutades</string>
   <string name="settings_license_activity_title">Avatud lähtekoodiga litsentsid</string>
   <string name="beam_not_supported">Kaugete videote Beam pole toetatud</string>
+  <string name="deleted">Kustutatud</string>
 </resources>

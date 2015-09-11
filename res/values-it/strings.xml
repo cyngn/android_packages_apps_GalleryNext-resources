@@ -97,4 +97,5 @@
   <string name="which_application">Completa l\'azione con</string>
   <string name="settings_license_activity_title">Licenze open source</string>
   <string name="beam_not_supported">Trasmissione video remoti non supportata</string>
+  <string name="deleted">Eliminato</string>
 </resources>

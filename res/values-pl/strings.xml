@@ -100,4 +100,5 @@
   <string name="which_application">Zakończ akcję używając</string>
   <string name="settings_license_activity_title">Licencje Open Source</string>
   <string name="beam_not_supported">Zdalny streaming filmów nie jest obsługiwany</string>
+  <string name="deleted">Usunięto</string>
 </resources>
