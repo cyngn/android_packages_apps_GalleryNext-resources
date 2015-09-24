@@ -85,4 +85,5 @@
   <string name="which_application">Доврши акцију помоћу</string>
   <string name="settings_license_activity_title">Open Source лиценце</string>
   <string name="beam_not_supported">Усмерени даљински видео није подржан</string>
+  <string name="deleted">Избрисано</string>
 </resources>

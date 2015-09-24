@@ -97,4 +97,5 @@
   <string name="which_application">Continuer avec</string>
   <string name="settings_license_activity_title">Licences open source</string>
   <string name="beam_not_supported">Transmission à distance des vidéos non pris en charge</string>
+  <string name="deleted">Supprimé</string>
 </resources>

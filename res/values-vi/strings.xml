@@ -38,6 +38,7 @@
   <string name="show_on_map">Hiển thị trên bản đồ</string>
   <string name="data_sources">Dịch vụ</string>
   <string name="add_data_source_title">Thêm nguồn ảnh</string>
+  <string name="events">Khoảnh khắc</string>
   <string name="media">Media</string>
   <string name="albums">Album</string>
   <plurals name="number_of_photos">
@@ -93,4 +94,5 @@
   <string name="which_application">Hoàn thành hành động bằng cách sử dụng</string>
   <string name="settings_license_activity_title">Giấy phép nguồn mở</string>
   <string name="beam_not_supported">Truyền tải video từ xa không được hỗ trợ</string>
+  <string name="deleted">Đã xóa</string>
 </resources>
