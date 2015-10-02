@@ -19,7 +19,7 @@
   <string name="app_name">Qalereya</string>
   <string name="camera">Kamera</string>
   <string name="loading">Yüklənir\u2026</string>
-  <string name="no_photos">Fotoşəkil yoxdur</string>
+  <string name="no_photos">Foto yoxdur</string>
   <string name="share">Paylaş</string>
   <string name="delete">Sil</string>
   <string name="loading_video">Video yüklənir\u2026</string>
@@ -33,7 +33,7 @@
   <string name="accessibility_reload_video">Videonu yenidən yüklə</string>
   <string name="show_on_map">Xəritədə göstər</string>
   <string name="data_sources">Xidmətlər</string>
-  <string name="add_data_source_title">Fotoşəkil mənbəyi əlavə et</string>
+  <string name="add_data_source_title">Foto mənbəyi əlavə et</string>
   <string name="events">Anlar</string>
   <string name="media">Media</string>
   <string name="albums">Albomlar</string>
@@ -50,7 +50,7 @@
   <string name="this_month">Bu ay</string>
   <string name="data_source_all">Hamısı</string>
   <string name="data_source_local">Yerli saxlama</string>
-  <string name="remove_data_source">Fotoşəkil mənbəsini sil</string>
+  <string name="remove_data_source">Foto mənbəsini sil</string>
   <string name="add_picasa_account">Picasa hesabı əlavə et</string>
   <string name="remove_picasa_account">Picasa hesabını sil</string>
   <string name="uncategorized_album">Kateqoriyasız</string>

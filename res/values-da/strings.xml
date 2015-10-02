@@ -97,4 +97,5 @@
   <string name="which_application">Gennemfør handling ved hjælp af</string>
   <string name="settings_license_activity_title">Open source licenser</string>
   <string name="beam_not_supported">Overførsel af fjerntliggende videoer understøttes ikke</string>
+  <string name="deleted">Slettet</string>
 </resources>
