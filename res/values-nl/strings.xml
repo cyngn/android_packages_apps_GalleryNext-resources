@@ -97,4 +97,5 @@
   <string name="which_application">Actie voltooien met</string>
   <string name="settings_license_activity_title">Open-sourcelicenties</string>
   <string name="beam_not_supported">\'Beamen\' van externe video\'s niet ondersteund</string>
+  <string name="deleted">Verwijderd</string>
 </resources>
