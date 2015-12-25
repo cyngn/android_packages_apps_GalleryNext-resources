@@ -41,6 +41,11 @@
   <string name="events">Моменти</string>
   <string name="media">Медија</string>
   <string name="albums">Албуми</string>
+  <plurals name="number_of_photos">
+    <item quantity="one">%1$d фотографија</item>
+    <item quantity="few">%1$d фотографија</item>
+    <item quantity="other">%1$d фотографије</item>
+  </plurals>
   <string name="headset_plug">Прикључи слушалице за ове ефекте.</string>
   <string name="ok">OK</string>
   <string name="cancel">Откажи</string>
@@ -60,6 +65,11 @@
   <string name="downloading_image_title">Преузимање слике\u2026</string>
   <string name="downloading_image_failed">Неуспело добијање слике</string>
   <string name="take_photo">Уради фотографију</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d изабран</item>
+    <item quantity="few">%1$d изабранo</item>
+    <item quantity="other">%1$d изабрана</item>
+  </plurals>
   <string name="dialog_album">Албум</string>
   <string name="dialog_type">Извор</string>
   <string name="dialog_date">Урађено</string>
@@ -67,6 +77,11 @@
   <string name="folder_sync_title">Изабери фолдер да синхронизујеш</string>
   <string name="getting_contents_title">Добијање садржаја\u2026</string>
   <string name="menu_play">Приказ слајдова</string>
+  <plurals name="delete_msg">
+    <item quantity="one">Да ли си сигуран да желиш да избришеш ову слику?</item>
+    <item quantity="few">Да ли си сигуран да желиш да избришеш овe сликe?</item>
+    <item quantity="other">Да ли си сигуран да желиш да избришеш овe сликe?</item>
+  </plurals>
   <string name="cast">Улоге</string>
   <string name="undo">Поништи</string>
   <string name="info_not_available">n/a</string>
