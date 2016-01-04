@@ -97,4 +97,5 @@
   <string name="which_application">Complete action using</string>
   <string name="settings_license_activity_title">Open source licenses</string>
   <string name="beam_not_supported">Beaming remote videos not supported</string>
+  <string name="deleted">Deleted</string>
 </resources>
