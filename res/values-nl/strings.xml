@@ -73,7 +73,7 @@
   <string name="dialog_date">Genomen op</string>
   <string name="menu_camera">Foto maken</string>
   <string name="folder_sync_title">Mappen om te synchroniseren</string>
-  <string name="getting_contents_title">Inhoud binnenhalen\u2026</string>
+  <string name="getting_contents_title">Inhoud ophalen\u2026</string>
   <string name="menu_play">Diavoorstelling</string>
   <plurals name="delete_msg">
     <item quantity="one">Weet u zeker dat u deze afbeelding wilt verwijderen?</item>
