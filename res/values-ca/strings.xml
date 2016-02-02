@@ -23,7 +23,7 @@
   <string name="share">Comparteix</string>
   <string name="delete">Esborra</string>
   <string name="movie_view_label">Reproductor de vídeo</string>
-  <string name="loading_video">S\'està carregant el vídeo</string>
+  <string name="loading_video">S\'està carregant el vídeo\u2026</string>
   <string name="resume_playing_title">Reprèn el vídeo</string>
   <string name="resume_playing_message">Reprèn la reproducció des de %s ?</string>
   <string name="resume_playing_resume">Reprèn la reproducció</string>
@@ -73,7 +73,7 @@
   <string name="dialog_date">Presa feta el</string>
   <string name="menu_camera">Fes una foto</string>
   <string name="folder_sync_title">Tria les carpetes a sincronitzar</string>
-  <string name="getting_contents_title">Obtenint continguts\u2026</string>
+  <string name="getting_contents_title">S\'estan obtenint continguts\u2026</string>
   <string name="menu_play">Projecció de diapositives</string>
   <plurals name="delete_msg">
     <item quantity="one">Estàs segur d\'eliminar aquesta imatge?</item>

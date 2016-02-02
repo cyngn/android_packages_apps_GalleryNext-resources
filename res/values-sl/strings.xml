@@ -22,19 +22,19 @@
   <string name="no_photos">Ni fotografij</string>
   <string name="share">Deli</string>
   <string name="delete">Izbriši</string>
-  <string name="movie_view_label">Predvajalnik video posnetkov</string>
-  <string name="loading_video">Nalaganje video posnetka /u2026</string>
-  <string name="resume_playing_title">Nadaljuj video posnetek</string>
+  <string name="movie_view_label">Predvajalnik videopos.</string>
+  <string name="loading_video">Nalaganje videoposnetka \u2026</string>
+  <string name="resume_playing_title">Nadaljuj videoposnetek</string>
   <string name="resume_playing_message">Nadaljuj predvajanje od %s?</string>
   <string name="resume_playing_resume">Nadaljuj predvajanje</string>
   <string name="resume_playing_restart">Začni znova</string>
   <string name="audio_effects">Zvočni učinki</string>
   <string name="bass_boost_strength">Ojačevalec nizkih tonov</string>
   <string name="virtualizer_strength">Učinek 3D</string>
-  <string name="accessibility_play_video">Predvajaj video posnetek</string>
-  <string name="accessibility_pause_video">Premor video posnetka</string>
-  <string name="accessibility_reload_video">Ponovno naloži video posnetek</string>
-  <string name="accessibility_time_bar">Časovnica predvajalnika video posnetkov</string>
+  <string name="accessibility_play_video">Predvajaj videopos.</string>
+  <string name="accessibility_pause_video">Premor videoposnetka</string>
+  <string name="accessibility_reload_video">Ponovno naloži videopos.</string>
+  <string name="accessibility_time_bar">Časovnica predvajalnika videoposnetkov</string>
   <string name="show_on_map">Prikaži na zemljevidu</string>
   <string name="data_sources">Storitve</string>
   <string name="add_data_source_title">Dodaj vir fotografij</string>
@@ -91,17 +91,17 @@
   <string name="crop_activity_title">Obreži sliko</string>
   <string name="save_image_title">Shrani sliko</string>
   <string name="folder_download">Prenesi</string>
-  <string name="fail_trim">Žal te datoteke video posnetka ni mogoče obrezati</string>
-  <string name="save_into">Shranjevanje video posnetka v <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
+  <string name="fail_trim">Žal te datoteke videoposnetka ni mogoče obrezati</string>
+  <string name="save_into">Shranjevanje videoposnetka v <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
   <string name="trimming">Obrezovanje \u2026</string>
   <string name="please_wait">Počakajte</string>
-  <string name="save_video_title">Shrani video posnetek</string>
+  <string name="save_video_title">Shrani videoposnetek</string>
   <string name="action_share">Deli</string>
   <string name="action_delete">Izbriši</string>
   <string name="action_edit">Uredi</string>
   <string name="wait_sync_complete">Počakajte, da se sinhronizacija konča</string>
   <string name="which_application">Dokončaj dejanje z uporabo</string>
   <string name="settings_license_activity_title">Odprtokodne licence</string>
-  <string name="beam_not_supported">Žarčenje oddaljenih video posnetkov ni podprto</string>
+  <string name="beam_not_supported">Žarčenje oddaljenih videoposnetkov ni podprto</string>
   <string name="deleted">Izbrisano</string>
 </resources>
