@@ -29,7 +29,7 @@
   <string name="resume_playing_resume">途中から再生</string>
   <string name="resume_playing_restart">最初から再生</string>
   <string name="audio_effects">オーディオ効果</string>
-  <string name="bass_boost_strength">バスブースト</string>
+  <string name="bass_boost_strength">バス\nブースト</string>
   <string name="virtualizer_strength">3D効果</string>
   <string name="accessibility_play_video">動画を再生</string>
   <string name="accessibility_pause_video">動画を一時停止</string>

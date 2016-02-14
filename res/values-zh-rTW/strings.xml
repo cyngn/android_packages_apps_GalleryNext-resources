@@ -74,7 +74,7 @@
   <string name="getting_contents_title">正在獲取內容\u2026</string>
   <string name="menu_play">投影播放</string>
   <plurals name="delete_msg">
-    <item quantity="other">確定要刪除這些圖片嗎？</item>
+    <item quantity="other">確定要刪除這些圖片？</item>
   </plurals>
   <string name="cast">投射</string>
   <string name="undo">復原</string>

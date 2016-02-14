@@ -18,12 +18,12 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerie</string>
   <string name="camera">Kamera</string>
-  <string name="loading">Lädt\u2026</string>
+  <string name="loading">Wird geladen\u2026</string>
   <string name="no_photos">Keine Bilder</string>
   <string name="share">Teilen</string>
   <string name="delete">Löschen</string>
-  <string name="movie_view_label">Video-Player</string>
-  <string name="loading_video">Lade Video\u2026</string>
+  <string name="movie_view_label">Videospieler</string>
+  <string name="loading_video">Video wird geladen\u2026</string>
   <string name="resume_playing_title">Video fortsetzen</string>
   <string name="resume_playing_message">Wiedergabe ab %s fortsetzen?</string>
   <string name="resume_playing_resume">Wiedergabe fortsetzen</string>
@@ -34,7 +34,7 @@
   <string name="accessibility_play_video">Video abspielen</string>
   <string name="accessibility_pause_video">Video anhalten</string>
   <string name="accessibility_reload_video">Video neu laden</string>
-  <string name="accessibility_time_bar">Zeitleiste</string>
+  <string name="accessibility_time_bar">Zeitleiste des Videospielers</string>
   <string name="show_on_map">Auf Karte anzeigen</string>
   <string name="data_sources">Dienste</string>
   <string name="add_data_source_title">Bildquelle hinzufügen</string>
@@ -45,7 +45,7 @@
     <item quantity="one">%1$d Foto</item>
     <item quantity="other">%1$d Fotos</item>
   </plurals>
-  <string name="headset_plug">Schließen Sie Kopfhörer für diese Effekte an</string>
+  <string name="headset_plug">Schließen Sie Kopfhörer für diese Effekte an.</string>
   <string name="ok">OK</string>
   <string name="cancel">Abbrechen</string>
   <string name="around">Umgebung</string>
@@ -59,9 +59,9 @@
   <string name="remove_data_source">Bildquelle entfernen</string>
   <string name="add_picasa_account">Picasa-Konto hinzufügen</string>
   <string name="remove_picasa_account">Picasa-Konto entfernen</string>
-  <string name="uncategorized_album">Unkategorisiert</string>
+  <string name="uncategorized_album">Nicht kategorisiert</string>
   <string name="set_wallpaper_string">Als Hintergrund festlegen</string>
-  <string name="downloading_image_title">Lade Bild herunter\u2026</string>
+  <string name="downloading_image_title">Bild wird heruntergeladen\u2026</string>
   <string name="downloading_image_failed">Fehler beim Abrufen des Bildes</string>
   <string name="take_photo">Foto aufnehmen</string>
   <plurals name="number_of_items_selected">
@@ -81,13 +81,13 @@
   </plurals>
   <string name="cast">Übertragen</string>
   <string name="undo">Rückgängig machen</string>
-  <string name="info_not_available">n/a</string>
+  <string name="info_not_available">nicht verfügbar</string>
   <string name="crop_activity_title">Bild zuschneiden</string>
   <string name="save_image_title">Bild speichern</string>
   <string name="folder_download">Herunterladen</string>
-  <string name="fail_trim">Videodatei kann nicht beschnitten werden</string>
-  <string name="save_into">Speichere Video in <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
-  <string name="trimming">Beschneide\u2026</string>
+  <string name="fail_trim">Diese Videodatei kann nicht gekürzt werden.</string>
+  <string name="save_into">Video wird in <xliff:g id="album_name">%1$s</xliff:g> gespeichert\u2026</string>
+  <string name="trimming">Kürzen\u2026</string>
   <string name="please_wait">Bitte warten</string>
   <string name="save_video_title">Video speichern</string>
   <string name="action_share">Teilen</string>
@@ -96,6 +96,6 @@
   <string name="wait_sync_complete">Bitte auf Abschluss der Synchronisierung warten</string>
   <string name="which_application">Aktion ausführen mit</string>
   <string name="settings_license_activity_title">Open-Source-Lizenzen</string>
-  <string name="beam_not_supported">Das Beamen von Remote-Videos wird nicht unterstützt</string>
+  <string name="beam_not_supported">Die Übertragung von Remote-Videos wird nicht unterstützt.</string>
   <string name="deleted">Gelöscht</string>
 </resources>
