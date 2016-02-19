@@ -47,8 +47,8 @@
     <item quantity="other">%1$d fotografija</item>
   </plurals>
   <string name="headset_plug">Priključite slušalice za ove efekte.</string>
-  <string name="ok">OK</string>
-  <string name="cancel">Poništi</string>
+  <string name="ok">U redu</string>
+  <string name="cancel">Odustani</string>
   <string name="this_month">Ovaj mjesec</string>
   <string name="data_source_all">Sve</string>
   <string name="data_source_local">Lokalna pohrana</string>

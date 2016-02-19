@@ -79,7 +79,7 @@
     <item quantity="one">Estàs segur d\'eliminar aquesta imatge?</item>
     <item quantity="other">Estàs segur d\'eliminar aquestes imatges?</item>
   </plurals>
-  <string name="cast">Emet</string>
+  <string name="cast">Transmet</string>
   <string name="undo">Desfés</string>
   <string name="info_not_available">n/d</string>
   <string name="crop_activity_title">Escapça la imatge</string>

@@ -18,7 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerie</string>
   <string name="camera">Kamera</string>
-  <string name="loading">Wird geladen\u2026</string>
+  <string name="loading">Laden\u2026</string>
   <string name="no_photos">Keine Bilder</string>
   <string name="share">Teilen</string>
   <string name="delete">Löschen</string>
@@ -31,7 +31,7 @@
   <string name="audio_effects">Audioeffekte</string>
   <string name="bass_boost_strength">Bassverstärkung</string>
   <string name="virtualizer_strength">3D-Effekt</string>
-  <string name="accessibility_play_video">Video abspielen</string>
+  <string name="accessibility_play_video">Video wiedergeben</string>
   <string name="accessibility_pause_video">Video anhalten</string>
   <string name="accessibility_reload_video">Video neu laden</string>
   <string name="accessibility_time_bar">Zeitleiste des Videospielers</string>
@@ -45,7 +45,7 @@
     <item quantity="one">%1$d Foto</item>
     <item quantity="other">%1$d Fotos</item>
   </plurals>
-  <string name="headset_plug">Schließen Sie Kopfhörer für diese Effekte an</string>
+  <string name="headset_plug">Schließen Sie Kopfhörer für diese Effekte an.</string>
   <string name="ok">OK</string>
   <string name="cancel">Abbrechen</string>
   <string name="around">Umgebung</string>
@@ -59,7 +59,7 @@
   <string name="remove_data_source">Bildquelle entfernen</string>
   <string name="add_picasa_account">Picasa-Konto hinzufügen</string>
   <string name="remove_picasa_account">Picasa-Konto entfernen</string>
-  <string name="uncategorized_album">Unkategorisiert</string>
+  <string name="uncategorized_album">Nicht kategorisiert</string>
   <string name="set_wallpaper_string">Als Hintergrund festlegen</string>
   <string name="downloading_image_title">Bild wird heruntergeladen\u2026</string>
   <string name="downloading_image_failed">Fehler beim Abrufen des Bildes</string>
@@ -73,7 +73,7 @@
   <string name="dialog_date">Aufgenommen am</string>
   <string name="menu_camera">Foto aufnehmen</string>
   <string name="folder_sync_title">Ordner zum Synchronisieren auswählen</string>
-  <string name="getting_contents_title">Lade Inhalte\u2026</string>
+  <string name="getting_contents_title">Inhalte werden geladen\u2026</string>
   <string name="menu_play">Präsentation</string>
   <plurals name="delete_msg">
     <item quantity="one">Möchten Sie dieses Bild wirklich löschen?</item>
@@ -81,11 +81,11 @@
   </plurals>
   <string name="cast">Übertragen</string>
   <string name="undo">Rückgängig machen</string>
-  <string name="info_not_available">n/a</string>
+  <string name="info_not_available">nicht verfügbar</string>
   <string name="crop_activity_title">Bild zuschneiden</string>
   <string name="save_image_title">Bild speichern</string>
-  <string name="folder_download">Herunterladen</string>
-  <string name="fail_trim">Videodatei kann nicht beschnitten werden</string>
+  <string name="folder_download">Download</string>
+  <string name="fail_trim">Diese Videodatei kann nicht gekürzt werden.</string>
   <string name="save_into">Video wird in <xliff:g id="album_name">%1$s</xliff:g> gespeichert\u2026</string>
   <string name="trimming">Kürzen\u2026</string>
   <string name="please_wait">Bitte warten</string>
@@ -96,6 +96,6 @@
   <string name="wait_sync_complete">Bitte auf Abschluss der Synchronisierung warten</string>
   <string name="which_application">Aktion ausführen mit</string>
   <string name="settings_license_activity_title">Open-Source-Lizenzen</string>
-  <string name="beam_not_supported">Das Beamen von Remote-Videos wird nicht unterstützt</string>
+  <string name="beam_not_supported">Die Übertragung von Remote-Videos wird nicht unterstützt.</string>
   <string name="deleted">Gelöscht</string>
 </resources>
