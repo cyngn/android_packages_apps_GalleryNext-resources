@@ -47,15 +47,54 @@
     <item quantity="other">%1$d fotografije</item>
   </plurals>
   <string name="headset_plug">Priključite slušalice za ove efekte.</string>
-  <string name="ok">OK</string>
-  <string name="cancel">Poništi</string>
+  <string name="ok">U redu</string>
+  <string name="cancel">Odustani</string>
+  <string name="around">Okolo</string>
+  <string name="posts">Postovi</string>
+  <string name="today">Danas</string>
+  <string name="yesterday">Jučer</string>
+  <string name="this_week">Ovaj tjedan</string>
   <string name="this_month">Ovaj mjesec</string>
   <string name="data_source_all">Sve</string>
   <string name="data_source_local">Lokalna pohrana</string>
+  <string name="remove_data_source">Ukloni izvor fotografija</string>
+  <string name="add_picasa_account">Dodaj Picasa račun</string>
+  <string name="remove_picasa_account">Ukloni Picasa račun</string>
+  <string name="uncategorized_album">Nekategorizirane</string>
+  <string name="set_wallpaper_string">Postavi kao pozadinu</string>
+  <string name="downloading_image_title">Preuzimanje slike\u2026</string>
+  <string name="downloading_image_failed">Neuspjelo dobivanje slike</string>
+  <string name="take_photo">Fotografiraj</string>
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d odabran</item>
+    <item quantity="few">%1$d odabrana</item>
+    <item quantity="other">%1$d odabranih</item>
+  </plurals>
   <string name="dialog_album">Album</string>
   <string name="dialog_type">Izvor</string>
+  <string name="dialog_date">Urađeno</string>
+  <string name="menu_camera">Fotografiraj</string>
+  <string name="folder_sync_title">Odaberite mape za sinkronizaciju</string>
+  <string name="getting_contents_title">Dobivanje sadržaja\u2026</string>
+  <string name="menu_play">Slideshow</string>
+  <plurals name="delete_msg">
+    <item quantity="one">Jeste li sigurni da želite izbrisati ovu sliku?</item>
+    <item quantity="few">Jeste li sigurni da želite izbrisati ove slike?</item>
+    <item quantity="other">Jeste li sigurni da želite izbrisati ove slike?</item>
+  </plurals>
+  <string name="cast">Uloge</string>
   <string name="undo">Poništi</string>
   <string name="info_not_available">n/a</string>
+  <string name="crop_activity_title">Obreži sliku</string>
+  <string name="save_image_title">Spremi sliku</string>
   <string name="folder_download">Preuzimanje</string>
   <string name="fail_trim">Oprostite, ovaj video ne može biti izrezan</string>
+  <string name="trimming">Obrezivanje\u2026</string>
+  <string name="please_wait">Molimo pričekajte</string>
+  <string name="save_video_title">Spremi video</string>
+  <string name="action_share">Podijeli</string>
+  <string name="action_delete">Obriši</string>
+  <string name="action_edit">Uređivanje</string>
+  <string name="settings_license_activity_title">Licence otvorenog kôda</string>
+  <string name="deleted">Izbrisano</string>
 </resources>

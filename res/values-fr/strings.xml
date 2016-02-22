@@ -53,7 +53,7 @@
   <string name="today">Aujourd\'hui</string>
   <string name="yesterday">Hier</string>
   <string name="this_week">Cette semaine</string>
-  <string name="this_month">Ce mois</string>
+  <string name="this_month">Ce mois-ci</string>
   <string name="data_source_all">Tous</string>
   <string name="data_source_local">Stockage local</string>
   <string name="remove_data_source">Supprimer la source de la photo</string>
