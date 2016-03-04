@@ -18,32 +18,55 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">圖片庫</string>
   <string name="camera">相機</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">正在讀取\u2026</string>
   <string name="no_photos">沒有照片</string>
   <string name="share">分享</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">刪除</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">影片播放器</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">正在讀取影片\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">繼續播放影片</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">要從 %s 繼續播放嗎？</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">繼續播放</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">從頭開始</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">音效</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">低音強化</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D 效果</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">播放影片</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">暫停影片</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">重新載入影片</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">影片播放器時間列</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">在地圖上顯示</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">服務</string>
   <string name="add_data_source_title">新增相片來源</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">時刻</string>
   <string name="media">媒體</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">相簿</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="other">%1$d 張相片</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">接上耳機來享受這些效果。</string>
   <string name="ok">確定</string>
   <string name="cancel">取消</string>
@@ -63,6 +86,8 @@
   <string name="downloading_image_title">正在下載圖片\u2026</string>
   <string name="downloading_image_failed">獲取圖片失敗</string>
   <string name="take_photo">拍一張相片</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="other">已選取 %1$d 個</item>
   </plurals>
@@ -81,16 +106,22 @@
   <string name="info_not_available">不適用</string>
   <string name="crop_activity_title">裁剪相片</string>
   <string name="save_image_title">儲存圖片</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">下載</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">很抱歉，此影片檔案不能被剪輯</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">正在儲存影片至「<xliff:g id="album_name">%1$s</xliff:g>」\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">正在剪輯\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">請稍候</string>
   <string name="save_video_title">儲存影片</string>
   <string name="action_share">分享</string>
   <string name="action_delete">刪除</string>
   <string name="action_edit">編輯</string>
   <string name="wait_sync_complete">請等待同步完成</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">選取要使用的應用程式</string>
   <string name="settings_license_activity_title">開放原始碼授權</string>
   <string name="beam_not_supported">不支援 Beam 遠端視訊</string>

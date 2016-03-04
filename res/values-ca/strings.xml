@@ -18,33 +18,56 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galeria</string>
   <string name="camera">Càmera</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">S\'està carregant\u2026</string>
   <string name="no_photos">No hi ha fotos</string>
   <string name="share">Comparteix</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Esborra</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Reproductor de vídeo</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">S\'està carregant el vídeo\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Reprèn el vídeo</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Reprèn la reproducció des de %s ?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Reprèn la reproducció</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Torna a començar</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Efectes de so</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Amplificació de greus</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">Efecte 3D</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Reprodueix vídeo</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Pausa vídeo</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Recarrega vídeo</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Barra de temps del reproductor de vídeo</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Mostra al mapa</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Serveis</string>
   <string name="add_data_source_title">Afegeix un origen de fotografies</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Moments</string>
   <string name="media">Multimèdia</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Àlbums</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d foto</item>
     <item quantity="other">%1$d fotos</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Endolla els auriculars per aquests efectes.</string>
   <string name="ok">Accepta</string>
   <string name="cancel">Cancel·la</string>
@@ -64,6 +87,8 @@
   <string name="downloading_image_title">S\'està descarregant la imatge\u2026</string>
   <string name="downloading_image_failed">No s\'ha pogut obtenir la imatge</string>
   <string name="take_photo">Fes una foto</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d seleccionat</item>
     <item quantity="other">%1$d seleccionats</item>
@@ -84,16 +109,22 @@
   <string name="info_not_available">n/d</string>
   <string name="crop_activity_title">Escapça la imatge</string>
   <string name="save_image_title">Desa la imatge</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Descarrega</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Ho sento, aquest fitxer de vídeo no es pot retallar</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">S\'està desant el vídeo a <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">S\'està retallant\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Si us plau espera</string>
   <string name="save_video_title">Desa el vídeo</string>
   <string name="action_share">Comparteix</string>
   <string name="action_delete">Esborra</string>
   <string name="action_edit">Edita</string>
   <string name="wait_sync_complete">Si us plau espera que la sincronització acabi</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Completa l\'acció utilitzant</string>
   <string name="settings_license_activity_title">Llicències de codi obert</string>
   <string name="beam_not_supported">La projecció remota de vídeos no està suportada</string>

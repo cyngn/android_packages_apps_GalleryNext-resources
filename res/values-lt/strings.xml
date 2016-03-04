@@ -18,34 +18,57 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerija</string>
   <string name="camera">Fotoaparatas</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Įkeliama\u2026</string>
   <string name="no_photos">Nėra nuotraukų</string>
   <string name="share">Bendrinti</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Ištrinti</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Vaizdo įrašo grotuvas</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Įkeliamas vaizdo įrašas\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Tęsti vaizdo įrašą</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Tęsti leidimą nuo %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Tęsti leidimą</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Pradėti iš naujo</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Garso efektai</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Žemų dažnių išryškinimas</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D efektas</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Paleisti vaizdo įrašą</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Sustabdyti vaizdo įrašą</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Perkrauti vaizdo įrašą</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Vaizdo įrašo grotuvo laiko juosta</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Rodyti žemėlapyje</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Paslaugos</string>
   <string name="add_data_source_title">Pridėti nuotraukos šaltinį</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Akimirkos</string>
   <string name="media">Medija</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Albumai</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d nuotrauka</item>
     <item quantity="few">%1$d nuotraukos</item>
     <item quantity="other">%1$d nuotraukų</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Prijunkite ausines dėl šių efektų.</string>
   <string name="ok">Gerai</string>
   <string name="cancel">Atšaukti</string>
@@ -65,6 +88,8 @@
   <string name="downloading_image_title">Atsisiunčiamas vaizdas\u2026</string>
   <string name="downloading_image_failed">Nepavyko atsisiųsti vaizdo</string>
   <string name="take_photo">Fotografuoti</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d pasirinkta</item>
     <item quantity="few">%1$d pasirinktos</item>
@@ -87,16 +112,22 @@
   <string name="info_not_available">n/a</string>
   <string name="crop_activity_title">Apkarpyti vaizdą</string>
   <string name="save_image_title">Išsaugoti vaizdą</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Atsisiųsti</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Atsiprašome, šis vaizdo įrašo failas negali būti sumažintas</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Vaizdo įrašas išsaugomas albume <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Apkarpymas\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Prašome palaukti</string>
   <string name="save_video_title">Išsaugoti vaizdo įrašą</string>
   <string name="action_share">Bendrinti</string>
   <string name="action_delete">Ištrinti</string>
   <string name="action_edit">Redaguoti</string>
   <string name="wait_sync_complete">Prašome palaukti sinchronizavimo pabaigos</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Baigti veiksmą naudojant</string>
   <string name="settings_license_activity_title">Atvirojo kodo licencijos</string>
   <string name="beam_not_supported">Vaizdo įrašų perkėlimas nuotoliniu būdu nepalaikomas</string>

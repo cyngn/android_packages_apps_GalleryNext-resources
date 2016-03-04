@@ -18,33 +18,56 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">ගැලරිය</string>
   <string name="camera">කැමරාව</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">පූරණයවෙමින්\u2026</string>
   <string name="no_photos">සේයා නොමැත</string>
   <string name="share">බෙදාහදාගන්න</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">මකන්න</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">වීඩියෝ ධාවකය</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">වීඩියෝව පූරණයවෙමින්\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">වීඩියෝව යලි අරඹන්න</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">%s සිට ධාවනය යලි අරඹන්නද?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">ධාවනය යලි අරඹන්න</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">මුලසිට අරඹන්න</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">ශ්‍රව්‍ය බලපෑම්</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">බේස් වැඩිවීම</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D බලපෑම</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">වීඩියෝව ධාවනය කරන්න</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">වීඩියෝව විරාම කරන්න</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">වීඩියෝව යළි පූරණය කරන්න</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">වීඩියෝ ධාවකයේ කාල තීරුව</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">සිතියමේ පෙන්වන්න</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">සේවාවන්</string>
   <string name="add_data_source_title">සේයා මූලාශ්‍රය එක් කරන්න</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">නිමේෂයන්</string>
   <string name="media">මාධ්‍යය</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">ඇල්බම</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d සේයාවයි</item>
     <item quantity="other">සේයා %1$d</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">මෙම බලපෑම් සඳහා ඉස් බණුව පේනුගත කරන්න.</string>
   <string name="ok">හරි</string>
   <string name="cancel">අවලංගුයි</string>
@@ -64,6 +87,8 @@
   <string name="downloading_image_title">පින්තූරය බාගනිමින්\u2026</string>
   <string name="downloading_image_failed">පින්තූරය ගැනීමට අසමත්විය</string>
   <string name="take_photo">සේයාවක් අරගන්න</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d තෝරා ඇත</item>
     <item quantity="other">%1$d තෝරා ඇත</item>
@@ -84,16 +109,22 @@
   <string name="info_not_available">නොමැත</string>
   <string name="crop_activity_title">පින්තූරය කප්පාදු කරන්න</string>
   <string name="save_image_title">පින්තූරය සුරකින්න</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">බාගැනීම්</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">කනගාටුයි, මෙම වීඩියෝ ගොනුව කොට කල නොහැක</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into"><xliff:g id="album_name">%1$s</xliff:g> වෙත වීඩියෝව සුරකිමින්\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">කොට කරමින්\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">කරුණාකර රැඳෙන්න</string>
   <string name="save_video_title">වීඩියෝව සුරකින්න</string>
   <string name="action_share">බෙදාහදාගන්න</string>
   <string name="action_delete">මකන්න</string>
   <string name="action_edit">සකසන්න</string>
   <string name="wait_sync_complete">කරුණාකර සමමුහුර්තය නිමවනතුරු රැඳෙන්න</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">ක්‍රියාව කිරීමට භාවිතා කලයුත්තේ</string>
   <string name="settings_license_activity_title">විවෘත මූලාශ්‍ර බලපත්‍ර</string>
   <string name="beam_not_supported">කාන්තිමත් දූරස්ථ වීඩියෝ සහාය නොදක්වයි</string>

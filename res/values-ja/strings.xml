@@ -18,32 +18,55 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">ギャラリー</string>
   <string name="camera">カメラ</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">読み込み中\u2026</string>
   <string name="no_photos">写真がありません</string>
   <string name="share">共有</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">削除</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">動画プレーヤー</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">動画を読み込み中\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">動画を再開</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">%sから動画を再開しますか？</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">途中から再生</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">最初から再生</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">オーディオ効果</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">バス\nブースト</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D効果</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">動画を再生</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">動画を一時停止</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">動画を再読み込み</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">動画プレイヤーのタイムバー</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">地図上に表示</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">サービス</string>
   <string name="add_data_source_title">写真のソースを追加</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">モーメント</string>
   <string name="media">メディア</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">アルバム</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="other">%1$d枚の写真</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">これらの効果を使用するにはヘッドホンを接続してください。</string>
   <string name="ok">OK</string>
   <string name="cancel">キャンセル</string>
@@ -63,6 +86,8 @@
   <string name="downloading_image_title">画像をダウンロード中\u2026</string>
   <string name="downloading_image_failed">画像を取得できませんでした</string>
   <string name="take_photo">写真を撮る</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="other">%1$d個を選択しています</item>
   </plurals>
@@ -81,16 +106,22 @@
   <string name="info_not_available">N/A</string>
   <string name="crop_activity_title">写真をトリミング</string>
   <string name="save_image_title">画像を保存</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">ダウンロード</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">申し訳ありませんが、このビデオファイルはトリミングできません</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into"><xliff:g id="album_name">%1$s</xliff:g>に動画を保存中\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">トリミング中\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">お待ちください</string>
   <string name="save_video_title">動画を保存</string>
   <string name="action_share">共有</string>
   <string name="action_delete">削除</string>
   <string name="action_edit">編集</string>
   <string name="wait_sync_complete">同期が完了するまでお待ちください</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">アクションに使用するアプリ</string>
   <string name="settings_license_activity_title">オープンソースライセンス</string>
   <string name="beam_not_supported">ビームリモート動画はサポートされていません</string>

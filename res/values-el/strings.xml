@@ -18,33 +18,56 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Συλλογή</string>
   <string name="camera">Φωτογραφική μηχανή</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Φόρτωση\u2026</string>
   <string name="no_photos">Δεν υπάρχουν φωτογραφίες</string>
   <string name="share">Κοινή χρήση</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Διαγραφή</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Πρόγραμμα αναπαραγωγής βίντεο</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Φόρτωση βίντεο\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Συνέχιση βίντεο</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Συνέχιση αναπαραγωγής από %s ;</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Συνέχιση αναπαραγωγής</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Ξεκινήστε από την αρχή</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Ηχητικά εφέ</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Ενίσχυση μπάσου</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">Εφέ 3D</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Αναπαραγωγή βίντεο</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Παύση βίντεο</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Επαναφόρτωση βίντεο</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Γραμμή χρόνου αναπαραγωγής βίντεο</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Εμφάνιση στο χάρτη</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Υπηρεσίες</string>
   <string name="add_data_source_title">Προσθήκη πηγής φωτογραφιών</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Στιγμές</string>
   <string name="media">Μέσα</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Άλμπουμ</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d φωτογραφία</item>
     <item quantity="other">%1$d φωτογραφίες</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Συνδέστε ακουστικά για αυτά τα εφέ.</string>
   <string name="ok">ΟΚ</string>
   <string name="cancel">Ακύρωση</string>
@@ -64,6 +87,8 @@
   <string name="downloading_image_title">Λήψη εικόνας\u2026</string>
   <string name="downloading_image_failed">Απέτυχε η λήψη της εικόνας</string>
   <string name="take_photo">Λήψη μιας φωτογραφίας</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d επιλέχθηκε</item>
     <item quantity="other">%1$d επιλέχθηκαν</item>
@@ -84,16 +109,22 @@
   <string name="info_not_available">δ/υ</string>
   <string name="crop_activity_title">Περικοπή εικόνας</string>
   <string name="save_image_title">Αποθήκευση εικόνας</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Λήψη</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Δυστυχώς δεν είναι δυνατή η περικοπή αυτού του αρχείου βίντεο</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Αποθήκευση του βίντεο σε <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Περικοπή\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Παρακαλώ περιμένετε</string>
   <string name="save_video_title">Αποθήκευση βίντεο</string>
   <string name="action_share">Κοινή χρήση</string>
   <string name="action_delete">Διαγραφή</string>
   <string name="action_edit">Επεξεργασία</string>
   <string name="wait_sync_complete">Παρακαλώ περιμένετε για την ολοκλήρωση του συγχρονισμού</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Ολοκλήρωση ενέργειας με χρήση</string>
   <string name="settings_license_activity_title">Άδειες χρήσης ανοιχτού κώδικα</string>
   <string name="beam_not_supported">Η απομακρυσμένη μετάδοση βίντεο δεν υποστηρίζεται</string>

@@ -18,33 +18,56 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerie</string>
   <string name="camera">Fotoapparat</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Gëtt gelueden\u2026</string>
   <string name="no_photos">Keng Fotoen</string>
   <string name="share">Deelen</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Läschen</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Videoplayer</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Video gëtt gelueden\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Video weiderspillen</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Bei %s weider ofspillen ?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Weider ofspillen</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Vu vir ufänken</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Touneffekter</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Bassunhiewung</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D-Effekt</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Video ofspillen</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Video pauséieren</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Video nei lueden</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Videoplayer-Zäitlinn</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Op der Kaart uweisen</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Servicer</string>
   <string name="add_data_source_title">Foto-Quell dobäisetzen</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Momenter</string>
   <string name="media">Medien</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Alben</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d Foto</item>
     <item quantity="other">%1$d Fotoen</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Schléiss Kopfhörer u fir dës Effekter.</string>
   <string name="ok">OK</string>
   <string name="cancel">Ofbriechen</string>
@@ -64,6 +87,8 @@
   <string name="downloading_image_title">Bild gëtt erofgelueden\u2026</string>
   <string name="downloading_image_failed">Bild konnt net geluede ginn</string>
   <string name="take_photo">Foto ophuelen</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d ausgewielt</item>
     <item quantity="other">%1$d ausgewielt</item>
@@ -84,16 +109,22 @@
   <string name="info_not_available">n/a</string>
   <string name="crop_activity_title">Bild schneiden</string>
   <string name="save_image_title">Bild späicheren</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Eroflueden</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Dëse Video ka leider net geschnidde ginn</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">De Video gëtt an den Album <xliff:g id="album_name">%1$s</xliff:g> gespäichert\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Schneiden\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">W.e.g. waarden</string>
   <string name="save_video_title">Video späicheren</string>
   <string name="action_share">Deelen</string>
   <string name="action_delete">Läschen</string>
   <string name="action_edit">Änneren</string>
   <string name="wait_sync_complete">Waart w.e.g. op den Ofschloss vun der Synchroniséierung</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Aktioun duerchféiere mat</string>
   <string name="settings_license_activity_title">Open-Source-Lizenzen</string>
   <string name="beam_not_supported">D\'Beame vu Online-Videoe gëtt net ënnerstëtzt</string>

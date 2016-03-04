@@ -18,34 +18,57 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Галерэя</string>
   <string name="camera">Камера</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Загрузка\u2026</string>
   <string name="no_photos">Няма фотаздымкаў</string>
   <string name="share">Падзяліцца</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Выдаліць</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Відэапрайгравальнік</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Загрузка відэа\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Аднаўленне відэа</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Аднавіць прайграванне з %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Аднавіць</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Пачаць нанава</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Аўдыя эфекты</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Узмацненне басоў</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D-эфект</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Прайграць відэа</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Прыпыніць відэа</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Перазагрузіць відэа</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Панэль перамоткі відэаплэера</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Паказаць на мапе</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Паслугі</string>
   <string name="add_data_source_title">Дадаць крыніцу фота</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Моманты</string>
   <string name="media">Медыя</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Альбомы</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d фотаздымак</item>
     <item quantity="few">%1$d фатаздымкі</item>
     <item quantity="other">%1$d фатаздымкаў</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Далучыце навушнікі для выкарыстання эфектаў.</string>
   <string name="ok">Добра</string>
   <string name="cancel">Скасаваць</string>
@@ -65,6 +88,8 @@
   <string name="downloading_image_title">Загрузка выявы\u2026</string>
   <string name="downloading_image_failed">Не атрымалася атрымаць выяву</string>
   <string name="take_photo">Зрабіць здымак</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d вылучаны</item>
     <item quantity="few">%1$d вылучана</item>
@@ -87,16 +112,22 @@
   <string name="info_not_available">Скасаваць</string>
   <string name="crop_activity_title">Абразанне відарысу</string>
   <string name="save_image_title">Захаваць выяву</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Рэжым Download</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Дадзены відэафайл не можа быць абрэзаны</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Захаванне відэа ў <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Абразанне\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Пачакайце калі ласка</string>
   <string name="save_video_title">Захаваць відэа</string>
   <string name="action_share">Падзяліцца</string>
   <string name="action_delete">Выдаліць</string>
   <string name="action_edit">Рэдагаваць</string>
   <string name="wait_sync_complete">Калі ласка, дачакайцеся сканчэння сінхранізацыі</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Абярыце дадатак</string>
   <string name="settings_license_activity_title">Ліцэнзіі Open Source</string>
   <string name="beam_not_supported">Перадача выдаленых відэазапісаў не падтрымваецца</string>

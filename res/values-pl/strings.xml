@@ -18,34 +18,57 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galeria</string>
   <string name="camera">Aparat</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Wczytywanie\u2026</string>
   <string name="no_photos">Brak zdjęć</string>
   <string name="share">Udostępnij</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Usuń</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Odtwarzacz wideo</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Wczytywanie wideo\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Wznów wideo</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Wznowić odtwarzanie od %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Wznowić odtwarzanie</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Rozpocznij od początku</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Efekty dźwiękowe</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Podbicie basu</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">Efekt 3D</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Odtwórz wideo</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Wstrzymanie wideo</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Przeładuj wideo</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Pasek czasu w odtwarzaczu wideo</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Pokaż na mapie</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Usługi</string>
   <string name="add_data_source_title">Dodaj źródło zdjęcia</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Chwile</string>
   <string name="media">Multimedia</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Albumy</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d zdjęcie</item>
     <item quantity="few">%1$d zdjęcia</item>
     <item quantity="other">%1$d zdjęć</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Podłącz słuchawki do tych efektów.</string>
   <string name="ok">OK</string>
   <string name="cancel">Anuluj</string>
@@ -65,6 +88,8 @@
   <string name="downloading_image_title">Pobieranie obrazu\u2026</string>
   <string name="downloading_image_failed">Pobieranie obrazu zakończone niepowodzeniem</string>
   <string name="take_photo">Zrób zdjęcie</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d wybrany</item>
     <item quantity="few">%1$d wybrane</item>
@@ -87,16 +112,22 @@
   <string name="info_not_available">n/a</string>
   <string name="crop_activity_title">Przytnij obraz</string>
   <string name="save_image_title">Zapisz obraz</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Pobrane</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Niestety, ten plik wideo nie może być przycięty</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Zapisywanie filmu do <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Przycinanie\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Proszę czekać</string>
   <string name="save_video_title">Zapisz film</string>
   <string name="action_share">Udostępnij</string>
   <string name="action_delete">Usuń</string>
   <string name="action_edit">Edytuj</string>
   <string name="wait_sync_complete">Proszę czekać na zakończenie synchronizacji</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Zakończ akcję używając</string>
   <string name="settings_license_activity_title">Licencje Open Source</string>
   <string name="beam_not_supported">Zdalny streaming filmów nie jest obsługiwany</string>
