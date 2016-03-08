@@ -108,6 +108,7 @@
     <string name="remove_picasa_account">Remove Picasa account</string>
 
     <string name="uncategorized_album">Uncategorized</string>
+    <string name="wallpaper">Wallpaper</string>
     <string name="set_wallpaper_string">Set as wallpaper</string>
 
     <string name="downloading_image_title">Downloading image\u2026</string>
@@ -160,13 +161,16 @@
 
     <!-- Title of intent resolver dialog when selecting an application to run. -->
     <string name="which_application">Complete action using</string>
-
     <string name="settings_license_activity_title">Open source licenses</string>
     <string name="license_cling_title" translatable="false">Cling</string>
     <string name="license_cddl_summary" translatable="false">CDDL</string>
     <string name="license_photoview_title" translatable="false">PhotoView</string>
     <string name="license_apache_summary" translatable="false">Apache</string>
-
     <string name="beam_not_supported">Beaming remote videos not supported</string>
     <string name="deleted">Deleted</string>
+
+    <!-- Permissions -->
+    <string name="permission_settings">Settings</string>
+    <string name="permission_storage">Gallery requires permission to storage in order to view your photos and videos.</string>
+    <string name="permission_call_to_action">Go to Settings, and tap Permissions to grant permission.</string>
 </resources>
