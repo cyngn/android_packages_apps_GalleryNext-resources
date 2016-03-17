@@ -16,35 +16,118 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">గ్యాలరీ</string>
+  <string name="camera">కెమెరా</string>
   <!-- Displayed in the title of those albums that are being loaded -->
+  <string name="loading">లోడ్ చేస్తోంది…</string>
+  <string name="no_photos">ఫోటోలు లేవు</string>
+  <string name="share">భాగస్వామ్యం చేయి</string>
   <!-- Details dialog "OK" button. Dismisses dialog. -->
+  <string name="delete">తొలగించు</string>
   <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
   <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
   <!-- Activity label. This might show up in the activity-picker -->
+  <string name="movie_view_label">వీడియో ప్లేయర్</string>
   <!-- shown in the video player view while the video is being loaded, before it starts playing -->
+  <string name="loading_video">వీడియోను లోడ్ చేస్తోంది\u2026</string>
   <!-- Movie View Resume Playing dialog title -->
+  <string name="resume_playing_title">వీడియోను మళ్లీ కొనసాగించండి</string>
   <!-- Movie View Start Playing dialog title -->
+  <string name="resume_playing_message">%ల నుంచి ప్లేని మళ్లీ కొనసాగించండి</string>
   <!-- Movie View Start Playing button "Resume from bookmark" -->
+  <string name="resume_playing_resume">ప్లేని మళ్లీ కొనసాగించండి</string>
   <!-- Movie View Start Playing button "Beginning" -->
+  <string name="resume_playing_restart">ప్రారంభం పూర్తయింది</string>
   <!-- The label for the audio effects menu. -->
+  <string name="audio_effects">ఆడియో ప్రభావాలు</string>
   <!-- The label for the bass boost knob of the audio effects dialog. -->
+  <string name="bass_boost_strength">బేస్ బూస్ట్</string>
   <!-- The label for the 3d effect knob of the audio effects dialog. -->
+  <string name="virtualizer_strength">3D ప్రభావం</string>
   <!-- The button to play the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_play_video">వీడియోను ప్లే చేయండి</string>
   <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_pause_video">వీడియోను ఆపు</string>
   <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_reload_video">వీడియోను రీలోడ్ చేయి</string>
   <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_time_bar">వీడియో ప్లేయర్ టైమ్ బార్</string>
   <!-- String indicating timestamp of photo or video -->
+  <string name="show_on_map">మ్యాప్‌లో చూపించు</string>
   <!-- setting facebook login, this is app id, get from developers.facebook.com -->
+  <string name="data_sources">సేవలు</string>
+  <string name="add_data_source_title">ఫోటో మూలాన్ని జోడించుము</string>
   <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
+  <string name="events">క్షణాలు</string>
+  <string name="media">మీడియా</string>
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
+  <string name="albums">ఆల్బమ్‌లు</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
+  <plurals name="number_of_photos">
+    <item quantity="one">%1$d ఫోటో</item>
+    <item quantity="other">%1$d ఫోటోలు</item>
+  </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
+  <string name="headset_plug">ఈ ప్రభావాలకోసం హెడ్‌ఫోన్‌లను ప్లగ్ ఇన్ చేయండి.</string>
+  <string name="ok">సరే</string>
+  <string name="cancel">రద్దు చేయి</string>
+  <string name="around">చుట్టుపక్కలు</string>
+  <string name="posts">పోస్టులు</string>
+  <string name="today">నేడు</string>
+  <string name="yesterday">నిన్న</string>
+  <string name="this_week">ఈ వారం</string>
+  <string name="this_month">ఈ నెల</string>
+  <string name="data_source_all">అన్నీ</string>
+  <string name="data_source_local">స్థానిక నిల్వ</string>
+  <string name="remove_data_source">ఫోటో మూలాన్ని తొలగించుము</string>
+  <string name="add_picasa_account">పికాసా ఖాతాను జోడించుము</string>
+  <string name="remove_picasa_account">పికాసా ఖాతాను తొలగించుము</string>
+  <string name="uncategorized_album">వర్గీకరించబడని</string>
+  <string name="set_wallpaper_string">కుడ్యచిత్రంలా సెట్ చెయ్యి</string>
+  <string name="downloading_image_title">చిత్రం డౌన్లోడ్ చేయబడుతుంది\u2026</string>
+  <string name="downloading_image_failed">చిత్రాన్ని పొందడం విఫలమయింది</string>
+  <string name="take_photo">ఫోటోను తీసుకోండి</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d ఎంపికైంది</item>
+    <item quantity="other">%1$d ఎంపికైంది</item>
+  </plurals>
+  <string name="dialog_album">ఆల్బమ్</string>
+  <string name="dialog_type">మూలం</string>
+  <string name="dialog_date">పై తీయబడింది</string>
+  <string name="menu_camera">ఫోటో తీయండి</string>
+  <string name="folder_sync_title">సింక్ చేసేందుకు సంచికలను ఎంచుకోండి</string>
+  <string name="getting_contents_title">విషయాలను పొందుతుంది\u2026</string>
+  <string name="menu_play">స్లయిడ్‌ షో</string>
+  <plurals name="delete_msg">
+    <item quantity="one">మీరు ఈ చిత్రాన్ని తొలిగించాలని నిర్ధారించుకున్నారా?</item>
+    <item quantity="other">మీరు ఈ చిత్రాలను తొలిగించాలని నిర్ధారించుకున్నారా?</item>
+  </plurals>
+  <string name="cast">ప్రసారం చేయండి</string>
+  <string name="undo">చర్య రద్దు చేయి</string>
+  <string name="info_not_available">n/a</string>
+  <string name="crop_activity_title">చిత్రాన్ని క్రాప్ చేయి</string>
+  <string name="save_image_title">చిత్రం భద్రపర్చు</string>
   <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
+  <string name="folder_download">డౌన్‌లోడ్ చేయి</string>
   <!-- The tips of trimming video -->
+  <string name="fail_trim">క్షమించండి, ఈ వీడియో ఫైలును కత్తిరించడం కుదరదు</string>
   <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
+  <string name="save_into">వీడియో <xliff:g id="album_name">%1$s</xliff:g> కు భద్రపరచబడుతోంది\u2026</string>
   <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
+  <string name="trimming">కత్తిరించబడుతోంది\u2026</string>
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
+  <string name="please_wait">దయచేసి వేచి ఉండండి</string>
+  <string name="save_video_title">వీడియోను భద్రపరుచు</string>
+  <string name="action_share">భాగస్వామ్యం చేయి</string>
+  <string name="action_delete">తొలగించు</string>
+  <string name="action_edit">సవరించు</string>
+  <string name="wait_sync_complete">దయచేసి సింక్ పూర్తవడానికి వేచి ఉండండి</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
+  <string name="which_application">దీన్ని ఉపయోగించి చర్యను పూర్తి చేయండి</string>
+  <string name="settings_license_activity_title">ఓపెన్ సోర్స్ లైసెన్స్‌లు</string>
+  <string name="beam_not_supported">రిమోట్ వీడియోలను బీమ్ చేయడానికి మద్దతు లేదు</string>
+  <string name="deleted">తొలగించబడినవి</string>
+  <!-- Permissions -->
 </resources>

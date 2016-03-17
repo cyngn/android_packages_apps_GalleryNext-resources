@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Добавяне на Picasa профил</string>
   <string name="remove_picasa_account">Премахване на Picasa профил</string>
   <string name="uncategorized_album">Не категоризиран</string>
+  <string name="wallpaper">Тапети</string>
   <string name="set_wallpaper_string">Задай като тапет</string>
   <string name="downloading_image_title">Изтегляне на изображение\u2026</string>
   <string name="downloading_image_failed">Неуспешно получаване на изображение</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Лиценз за отворен код</string>
   <string name="beam_not_supported">Дистанционно излъчване на видео не е поддържано</string>
   <string name="deleted">Изтрито</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Настройки</string>
+  <string name="permission_storage">Галерия изисква разрешение за достъп до хранилището за да запазване и разглеждане на снимки и видеоклипове.</string>
+  <string name="permission_call_to_action">Отидете в Настройки и кликнете върху \" Разрешения \" за да дадете разрешение за достъп.</string>
 </resources>

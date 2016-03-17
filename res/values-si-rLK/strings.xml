@@ -128,4 +128,5 @@
   <string name="which_application">ක්‍රියාව කිරීමට භාවිතා කලයුත්තේ</string>
   <string name="settings_license_activity_title">විවෘත මූලාශ්‍ර බලපත්‍ර</string>
   <string name="beam_not_supported">කාන්තිමත් දූරස්ථ වීඩියෝ සහාය නොදක්වයි</string>
+  <!-- Permissions -->
 </resources>

@@ -63,6 +63,9 @@
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Album</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
+  <plurals name="number_of_photos">
+    <item quantity="other">%1$d ảnh</item>
+  </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Cắm tai nghe cho những hiệu ứng này.</string>
   <string name="ok">OK</string>
@@ -79,12 +82,16 @@
   <string name="add_picasa_account">Thêm tài khoản Picasa</string>
   <string name="remove_picasa_account">Xoá tài khoản Picasa</string>
   <string name="uncategorized_album">Chưa phân loại</string>
+  <string name="wallpaper">Hình nền</string>
   <string name="set_wallpaper_string">Đặt làm hình nền</string>
   <string name="downloading_image_title">Đang tải về ảnh\u2026</string>
   <string name="downloading_image_failed">Không thể có được ảnh</string>
   <string name="take_photo">Chụp ảnh</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="other">Đã chọn %1$d</item>
+  </plurals>
   <string name="dialog_album">Album</string>
   <string name="dialog_type">Nguồn</string>
   <string name="dialog_date">Ngày chụp</string>
@@ -92,6 +99,9 @@
   <string name="folder_sync_title">Chọn thư mục để đồng bộ</string>
   <string name="getting_contents_title">Nhận được nội dung\u2026</string>
   <string name="menu_play">Trình chiếu</string>
+  <plurals name="delete_msg">
+    <item quantity="other">Bạn có chắc chắn muốn xoá ảnh này không?</item>
+  </plurals>
   <string name="cast">Diễn viên</string>
   <string name="undo">Hoàn tác</string>
   <string name="info_not_available">không áp dụng</string>
@@ -117,4 +127,8 @@
   <string name="settings_license_activity_title">Giấy phép nguồn mở</string>
   <string name="beam_not_supported">Truyền tải video từ xa không được hỗ trợ</string>
   <string name="deleted">Đã xóa</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Cài đặt</string>
+  <string name="permission_storage">Thư viện ảnh yêu cầu phải có quyền truy cập bộ nhớ để xem hình ảnh và video của bạn.</string>
+  <string name="permission_call_to_action">Đi đến Cài đặt và chạm vào Quyền truy cập để cấp quyền.</string>
 </resources>

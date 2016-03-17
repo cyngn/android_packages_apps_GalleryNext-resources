@@ -125,4 +125,5 @@
   <string name="settings_license_activity_title">開放源碼許可</string>
   <string name="beam_not_supported">不支援 Beam 遠端視像</string>
   <string name="deleted">已刪除</string>
+  <!-- Permissions -->
 </resources>

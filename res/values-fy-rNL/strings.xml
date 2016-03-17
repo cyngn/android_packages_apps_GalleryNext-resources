@@ -51,4 +51,5 @@
   <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <!-- Title of intent resolver dialog when selecting an application to run. -->
+  <!-- Permissions -->
 </resources>

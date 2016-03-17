@@ -132,4 +132,5 @@
   <string name="settings_license_activity_title">Licencie otvoreného zdroja</string>
   <string name="beam_not_supported">Odosielanie vzdialených videí nie je podporované</string>
   <string name="deleted">Vymazané</string>
+  <!-- Permissions -->
 </resources>

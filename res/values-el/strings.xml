@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Προσθήκη λογαριασμού Picasa</string>
   <string name="remove_picasa_account">Αφαίρεση λογαριασμού Picasa</string>
   <string name="uncategorized_album">Αταξινόμητες</string>
+  <string name="wallpaper">Ταπετσαρία</string>
   <string name="set_wallpaper_string">Ορισμός ως ταπετσαρία</string>
   <string name="downloading_image_title">Λήψη εικόνας\u2026</string>
   <string name="downloading_image_failed">Απέτυχε η λήψη της εικόνας</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Άδειες χρήσης ανοιχτού κώδικα</string>
   <string name="beam_not_supported">Η απομακρυσμένη μετάδοση βίντεο δεν υποστηρίζεται</string>
   <string name="deleted">Έγινε διαγραφή</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Ρυθμίσεις</string>
+  <string name="permission_storage">Η Συλλογή απαιτεί δικαιώματα αποθ. χώρου για να βλέπει τις φωτογραφίες και τα βίντεο σας.</string>
+  <string name="permission_call_to_action">Μεταβείτε στις Ρυθμίσεις και πατήστε Δικαιώματα για να εκχωρήσετε τα δικαιώματα.</string>
 </resources>

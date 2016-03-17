@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Afegeix un compte de Picasa</string>
   <string name="remove_picasa_account">Suprimeix un compte de Picasa</string>
   <string name="uncategorized_album">No categoritzat</string>
+  <string name="wallpaper">Fons de pantalla</string>
   <string name="set_wallpaper_string">Defineix com a fons de pantalla</string>
   <string name="downloading_image_title">S\'està descarregant la imatge\u2026</string>
   <string name="downloading_image_failed">No s\'ha pogut obtenir la imatge</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Llicències de codi obert</string>
   <string name="beam_not_supported">La projecció remota de vídeos no està suportada</string>
   <string name="deleted">S\'ha esborrat</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Configuració</string>
+  <string name="permission_storage">La galeria requereix permís d\'emmagatzematge per poder mostrar les teves fotos i vídeos.</string>
+  <string name="permission_call_to_action">Ves a la Configuració, i prem a Permisos per concedir el permís.</string>
 </resources>

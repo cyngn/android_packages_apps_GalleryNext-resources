@@ -16,35 +16,118 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">গেলাৰী</string>
+  <string name="camera">কেমেৰা</string>
   <!-- Displayed in the title of those albums that are being loaded -->
+  <string name="loading">লোডিং\u2026</string>
+  <string name="no_photos">ফটো নাই</string>
+  <string name="share">শ্বেয়াৰ</string>
   <!-- Details dialog "OK" button. Dismisses dialog. -->
+  <string name="delete">মচি দিয়া</string>
   <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
   <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
   <!-- Activity label. This might show up in the activity-picker -->
+  <string name="movie_view_label">ভিডিঅ’ প্লেয়াৰ</string>
   <!-- shown in the video player view while the video is being loaded, before it starts playing -->
+  <string name="loading_video">ভিডিঅ লোডিং হৈ আছে\u2026</string>
   <!-- Movie View Resume Playing dialog title -->
+  <string name="resume_playing_title">ভিডিঅ’ পুনৰ আৰম্ভ কৰক</string>
   <!-- Movie View Start Playing dialog title -->
+  <string name="resume_playing_message">%s  ৰ পৰা পুনৰ প্লে’ কৰিবলৈ আৰম্ভ কৰিব নে?</string>
   <!-- Movie View Start Playing button "Resume from bookmark" -->
+  <string name="resume_playing_resume">প্লে’ কৰিবলৈ পুনৰ আৰম্ভ কৰক</string>
   <!-- Movie View Start Playing button "Beginning" -->
+  <string name="resume_playing_restart">আৰম্ভ কৰি দিয়ক</string>
   <!-- The label for the audio effects menu. -->
+  <string name="audio_effects">অডিঅ\' প্ৰভাৱসমূহ</string>
   <!-- The label for the bass boost knob of the audio effects dialog. -->
+  <string name="bass_boost_strength">বেছ বুষ্ট</string>
   <!-- The label for the 3d effect knob of the audio effects dialog. -->
+  <string name="virtualizer_strength">3D প্ৰভাৱ</string>
   <!-- The button to play the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_play_video">ভিডিঅ’ প্লে’ কৰক</string>
   <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_pause_video">পজ ভিডিঅ’</string>
   <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_reload_video">ভিডিঅ’ ৰিলোড কৰক</string>
   <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_time_bar">ভিডিঅ’ প্লেয়াৰ সময় বাৰ</string>
   <!-- String indicating timestamp of photo or video -->
+  <string name="show_on_map">মেপত প্ৰদৰ্শন কৰক</string>
   <!-- setting facebook login, this is app id, get from developers.facebook.com -->
+  <string name="data_sources">চাৰ্ভিছসমূহ</string>
+  <string name="add_data_source_title">ফটোৰ উৎস যোগ কৰক</string>
   <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
+  <string name="events">মুহূৰ্তবোৰ</string>
+  <string name="media">মিডিয়া</string>
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
+  <string name="albums">এলবামসমূহ</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
+  <plurals name="number_of_photos">
+    <item quantity="one">%1$d ফটো</item>
+    <item quantity="other">%1$d ফটোসমূহ</item>
+  </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
+  <string name="headset_plug">এইসমূহ এফেক্টৰ বাবে হেডফোন এডাল প্লাগ ইন কৰক৷</string>
+  <string name="ok">ঠিক</string>
+  <string name="cancel">নাকচ</string>
+  <string name="around">চাৰিওফাল</string>
+  <string name="posts">পোষ্টসমূহ</string>
+  <string name="today">আজি</string>
+  <string name="yesterday">কালি</string>
+  <string name="this_week">এই সপ্তাহ</string>
+  <string name="this_month">এই মাহ</string>
+  <string name="data_source_all">সকলোবোৰ</string>
+  <string name="data_source_local">স্থানীয় ষ্ট\'ৰেজ</string>
+  <string name="remove_data_source">ফটোৰ উৎস আঁতৰাওক</string>
+  <string name="add_picasa_account">Picasa একাউণ্ট যোগ কৰক</string>
+  <string name="remove_picasa_account">Picasa একাউণ্ট আঁতৰাওক</string>
+  <string name="uncategorized_album">অশ্ৰেণীবদ্ধ</string>
+  <string name="set_wallpaper_string">ৱালপেপাৰ হিচাপে ছেট কৰক</string>
+  <string name="downloading_image_title">প্ৰতিচ্ছবি ডাউনলোড কৰি আছে\u2026</string>
+  <string name="downloading_image_failed">প্ৰতিচ্ছবি প্ৰাপ্ত কৰিবলৈ ব্যৰ্থ হ\'ল</string>
+  <string name="take_photo">এখন ফটো লওঁক</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d বাচনি কৰা হল</item>
+    <item quantity="other">%1$d বাচনি কৰা হল</item>
+  </plurals>
+  <string name="dialog_album">এলবাম</string>
+  <string name="dialog_type">উৎস</string>
+  <string name="dialog_date">তোলা হৈছিল</string>
+  <string name="menu_camera">ফটো লওঁক</string>
+  <string name="folder_sync_title">সকালীকৄত কৰিবলৈ ফ\'ল্ডাৰ পচন্দ কৰক</string>
+  <string name="getting_contents_title">সমল প্ৰাপ্ত কৰি আছে\u2026</string>
+  <string name="menu_play">শ্লাইডশ্ব’</string>
+  <plurals name="delete_msg">
+    <item quantity="one">আপুনি নিশ্চিতনে যে আপুনি এই প্ৰতিচ্ছবিটো বিলোপ কৰিব বিচাৰে?</item>
+    <item quantity="other">আপুনি নিশ্চিতনে যে আপুনি এই প্ৰতিচ্ছবিবোৰ বিলোপ কৰিব বিচাৰে?</item>
+  </plurals>
+  <string name="cast">কাষ্ট</string>
+  <string name="undo">ওভতাই অনা</string>
+  <string name="info_not_available">n/a</string>
+  <string name="crop_activity_title">ক্ৰপ ছবি</string>
+  <string name="save_image_title">ইমেজ ছেভ কৰক</string>
   <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
+  <string name="folder_download">ডাউনলোড</string>
   <!-- The tips of trimming video -->
+  <string name="fail_trim">দুঃখিত, এই ভিডিঅ\' চুটি কৰিব নোৱাৰি</string>
   <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
+  <string name="save_into"><xliff:g id="album_name">%1$s</xliff:g> \u2026 ত ভিডিঅ’ ছেভ হৈ আছে</string>
   <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
+  <string name="trimming">চুটি কৰি আছে\u2026</string>
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
+  <string name="please_wait">অনুগ্ৰহ কৰি অপেক্ষা কৰক</string>
+  <string name="save_video_title">ভিডিঅ\' সংৰক্ষণ কৰক</string>
+  <string name="action_share">শ্বেয়াৰ</string>
+  <string name="action_delete">মচি দিয়া</string>
+  <string name="action_edit">সম্পাদনা</string>
+  <string name="wait_sync_complete">সকালীকৄত সম্পূৰ্ণ হোৱালৈ অপেক্ষা কৰক</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
+  <string name="which_application">ব্যৱহাৰ কৰি পদক্ষেপ সম্পূৰ্ণ কৰক</string>
+  <string name="settings_license_activity_title">উৎসৰ অনুজ্ঞা খোলক</string>
+  <string name="beam_not_supported">ৰিম\'ট ভিডিঅ\' বিম কৰাটো সমৰ্থিত নহয়</string>
+  <string name="deleted">মচি পেলোৱা হল</string>
+  <!-- Permissions -->
 </resources>

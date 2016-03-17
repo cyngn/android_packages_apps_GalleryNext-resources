@@ -132,4 +132,5 @@
   <string name="settings_license_activity_title">Ліцэнзіі Open Source</string>
   <string name="beam_not_supported">Перадача выдаленых відэазапісаў не падтрымваецца</string>
   <string name="deleted">Выдалены</string>
+  <!-- Permissions -->
 </resources>

@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Voeg Picasa rekening by</string>
   <string name="remove_picasa_account">Verwyder Picasa rekening</string>
   <string name="uncategorized_album">Ongekategoriseer</string>
+  <string name="wallpaper">Muurpapier</string>
   <string name="set_wallpaper_string">Stel as agtergrond</string>
   <string name="downloading_image_title">Foto word tans afgelaai\u2026</string>
   <string name="downloading_image_failed">Kon nie foto kry nie</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Oopbronlisensies</string>
   <string name="beam_not_supported">Aanstuur van afgeleë video\'s word nie ondersteun</string>
   <string name="deleted">Uitgevee</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Instellings</string>
+  <string name="permission_storage">Galery vereis program toestemming na jou stoor spasie om jou foto\'s en video\'s te sien.</string>
+  <string name="permission_call_to_action">Gaan na Instellings en raak Program toestemmings om toestemming te verleen.</string>
 </resources>

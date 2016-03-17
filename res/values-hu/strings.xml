@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Picasa-fiók hozzáadása</string>
   <string name="remove_picasa_account">Picasa-fiók eltávolítása</string>
   <string name="uncategorized_album">Kategorizálatlan</string>
+  <string name="wallpaper">Háttérkép</string>
   <string name="set_wallpaper_string">Beállítás háttérképként</string>
   <string name="downloading_image_title">Kép letöltése:\u2026</string>
   <string name="downloading_image_failed">Nem sikerült lekérni a képet</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Nyílt forráskódú licenszek</string>
   <string name="beam_not_supported">Távoli videók vetítése nem támogatott</string>
   <string name="deleted">Törölve</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Beállítások</string>
+  <string name="permission_storage">Galéria engedélyt kér a tárolóhoz annak érdekében, hogy lássa a fotóit és videóit.</string>
+  <string name="permission_call_to_action">Menjen a Beállításokba, majd koppintson a Jogosultságokra az engedély megadásához.</string>
 </resources>

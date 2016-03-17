@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Aggiungi account Picasa</string>
   <string name="remove_picasa_account">Rimuovi account Picasa</string>
   <string name="uncategorized_album">Senza categoria</string>
+  <string name="wallpaper">Sfondo</string>
   <string name="set_wallpaper_string">Imposta come sfondo</string>
   <string name="downloading_image_title">Download immagine\u2026</string>
   <string name="downloading_image_failed">Impossibile ottenere l\'immagine</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Licenze open source</string>
   <string name="beam_not_supported">Trasmissione video remoti non supportata</string>
   <string name="deleted">Eliminato</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Impostazioni</string>
+  <string name="permission_storage">Galleria richiede l\'accesso alla memoria per visualizzare i file.</string>
+  <string name="permission_call_to_action">Vai in Impostazioni e seleziona Permessi per concedere l\'autorizzazione.</string>
 </resources>

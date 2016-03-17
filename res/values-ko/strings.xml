@@ -126,4 +126,5 @@
   <string name="settings_license_activity_title">오픈 소스 라이센스</string>
   <string name="beam_not_supported">원격 비디오의 전송은 지원되지 않습니다</string>
   <string name="deleted">삭제됨</string>
+  <!-- Permissions -->
 </resources>

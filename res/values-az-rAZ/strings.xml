@@ -128,4 +128,5 @@
   <string name="settings_license_activity_title">Açıq mənbə lisenziyaları</string>
   <string name="beam_not_supported">Uzaqdan videoların əks edilməsi dəstəklənmir</string>
   <string name="deleted">Silindi</string>
+  <!-- Permissions -->
 </resources>

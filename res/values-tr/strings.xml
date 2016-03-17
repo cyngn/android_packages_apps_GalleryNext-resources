@@ -129,4 +129,5 @@
   <string name="settings_license_activity_title">Açık kaynak lisansları</string>
   <string name="beam_not_supported">Uzak videoları yansıtma desteklenmiyor</string>
   <string name="deleted">Silindi</string>
+  <!-- Permissions -->
 </resources>

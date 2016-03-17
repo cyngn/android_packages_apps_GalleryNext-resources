@@ -82,6 +82,7 @@
   <string name="add_picasa_account">添加 Picasa 帐户</string>
   <string name="remove_picasa_account">移除 Picasa 帐户</string>
   <string name="uncategorized_album">未分类</string>
+  <string name="wallpaper">壁纸</string>
   <string name="set_wallpaper_string">设为壁纸</string>
   <string name="downloading_image_title">下载图像\u2026</string>
   <string name="downloading_image_failed">获取图像失败</string>
@@ -126,4 +127,8 @@
   <string name="settings_license_activity_title">开源许可证</string>
   <string name="beam_not_supported">不支持 Beam 远程视频</string>
   <string name="deleted">已删除</string>
+  <!-- Permissions -->
+  <string name="permission_settings">设置</string>
+  <string name="permission_storage">图库需要存储权限以便查看您的照片和视频。</string>
+  <string name="permission_call_to_action">进入设置，然后点击权限以授予权限。</string>
 </resources>

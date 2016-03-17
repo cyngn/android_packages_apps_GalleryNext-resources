@@ -129,4 +129,5 @@
   <string name="settings_license_activity_title">ತೆರೆದ ಮೂಲ ಪರವಾನಗಿಗಳು</string>
   <string name="beam_not_supported">ರಿಮೋಟ್ ವೀಡಿಯೋಗಳನ್ನು ಬೀಮ್‍ಮಾಡುವುದು ಬೆಂಬಲಿತವಾಗಿಲ್ಲ</string>
   <string name="deleted">ಅಳಿಸಲಾಗಿದೆ</string>
+  <!-- Permissions -->
 </resources>

@@ -63,6 +63,14 @@
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">ألبومات</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
+  <plurals name="number_of_photos">
+    <item quantity="zero">لا صور%1$d</item>
+    <item quantity="one">صورة %1$d</item>
+    <item quantity="two">صورة %1$d</item>
+    <item quantity="few">صور %1$d</item>
+    <item quantity="many">صور %1$d</item>
+    <item quantity="other">صور %1$d</item>
+  </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">قم بتوصيل سماعات الرأس لهذه التأثيرات.</string>
   <string name="ok">موافق</string>
@@ -85,6 +93,14 @@
   <string name="take_photo">التقاط صورة</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="zero">%1$d لا إختيار</item>
+    <item quantity="one">%1$d اختير</item>
+    <item quantity="two">%1$d اختير</item>
+    <item quantity="few">%1$d اختير</item>
+    <item quantity="many">%1$d اختير</item>
+    <item quantity="other">%1$d اختير</item>
+  </plurals>
   <string name="dialog_album">ألبوم</string>
   <string name="dialog_type">المصدر</string>
   <string name="dialog_date">اتخذت</string>
@@ -92,6 +108,14 @@
   <string name="folder_sync_title">اختر المجلدات للمزامنة</string>
   <string name="getting_contents_title">الحصول على محتويات\u2026</string>
   <string name="menu_play">عرض الشرائح</string>
+  <plurals name="delete_msg">
+    <item quantity="zero">هل أنت متأكد من أنك تريد حذف هذه الصور؟</item>
+    <item quantity="one">هل أنت متأكد من أنك تريد حذف هذه الصورة؟</item>
+    <item quantity="two">هل أنت متأكد من أنك تريد حذف هذه الصور؟</item>
+    <item quantity="few">هل أنت متأكد من أنك تريد حذف هذه الصور؟</item>
+    <item quantity="many">هل أنت متأكد من أنك تريد حذف هذه الصور؟</item>
+    <item quantity="other">هل أنت متأكد من أنك تريد حذف هذه الصور؟</item>
+  </plurals>
   <string name="cast">فريق العمل</string>
   <string name="undo">تراجع</string>
   <string name="info_not_available">غير متاح</string>
@@ -117,4 +141,5 @@
   <string name="settings_license_activity_title">تراخيص مفتوحة المصدر</string>
   <string name="beam_not_supported">توجيه الأجهزة البعيدة غير مدعوم</string>
   <string name="deleted">تم الحذف</string>
+  <!-- Permissions -->
 </resources>

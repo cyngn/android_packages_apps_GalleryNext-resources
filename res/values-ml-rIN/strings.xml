@@ -16,35 +16,118 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="app_name">ഗാലറി</string>
+  <string name="camera">ക്യാമറ</string>
   <!-- Displayed in the title of those albums that are being loaded -->
+  <string name="loading">ലോഡുചെയ്യുന്നു...</string>
+  <string name="no_photos">ഫോട്ടോകൾ ഒന്നുമില്ല</string>
+  <string name="share">പങ്കിടുക</string>
   <!-- Details dialog "OK" button. Dismisses dialog. -->
+  <string name="delete">ഇല്ലാതാക്കുക</string>
   <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
   <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
   <!-- Activity label. This might show up in the activity-picker -->
+  <string name="movie_view_label">വീഡിയോ പ്ലേയർ</string>
   <!-- shown in the video player view while the video is being loaded, before it starts playing -->
+  <string name="loading_video">വീഡിയോ ലോഡുചെയ്യുന്നു\u2026</string>
   <!-- Movie View Resume Playing dialog title -->
+  <string name="resume_playing_title">വീഡിയോ പുനരാരംഭിക്കുന്നു</string>
   <!-- Movie View Start Playing dialog title -->
+  <string name="resume_playing_message">%s എന്നതുമുതൽ വീഡിയോ പുനരാരംഭിക്കണോ?</string>
   <!-- Movie View Start Playing button "Resume from bookmark" -->
+  <string name="resume_playing_resume">പ്ലേ ചെയ്യുന്നത് പുനരാരംഭിക്കുക</string>
   <!-- Movie View Start Playing button "Beginning" -->
+  <string name="resume_playing_restart">ആരംഭിക്കുക</string>
   <!-- The label for the audio effects menu. -->
+  <string name="audio_effects">ഓഡിയോ ഇഫക്റ്റുകൾ</string>
   <!-- The label for the bass boost knob of the audio effects dialog. -->
+  <string name="bass_boost_strength">ബാസ്സ് ബൂസ്റ്റ്</string>
   <!-- The label for the 3d effect knob of the audio effects dialog. -->
+  <string name="virtualizer_strength">3D ഇഫക്റ്റ്</string>
   <!-- The button to play the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_play_video">വീഡിയോ പ്ലേചെയ്യുക</string>
   <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_pause_video">വീഡിയോ താൽക്കാലികമായി നിർത്തുക</string>
   <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_reload_video">വീഡിയോ വീണ്ടും ലോഡുചെയ്യുക</string>
   <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
+  <string name="accessibility_time_bar">വീഡിയോ പ്ലേയർ സമയ ബാർ</string>
   <!-- String indicating timestamp of photo or video -->
+  <string name="show_on_map">മാപ്പിൽ കാണിക്കുക</string>
   <!-- setting facebook login, this is app id, get from developers.facebook.com -->
+  <string name="data_sources">സേവനങ്ങള്‍</string>
+  <string name="add_data_source_title">ഫോട്ടോ ഉറവിടം ചേർക്കുക</string>
   <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
+  <string name="events">മൊമെന്റുകൾ</string>
+  <string name="media">മീഡിയ</string>
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
+  <string name="albums">ആൽബങ്ങൾ</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
+  <plurals name="number_of_photos">
+    <item quantity="one">%1$d ഫോട്ടോ</item>
+    <item quantity="other">%1$d ഫോട്ടോകൾ</item>
+  </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
+  <string name="headset_plug">ഈ ഇഫക്റ്റുകൾക്കായി ഹെഡ്ഫോണുകൾ പ്ലഗുചെയ്യുക.</string>
+  <string name="ok">ശരി</string>
+  <string name="cancel">റദ്ദാക്കുക</string>
+  <string name="around">ചുറ്റും</string>
+  <string name="posts">കുറിപ്പുകൾ</string>
+  <string name="today">ഇന്ന്</string>
+  <string name="yesterday">ഇന്നലെ</string>
+  <string name="this_week">ഈ ആഴ്ച</string>
+  <string name="this_month">ഈ മാസം</string>
+  <string name="data_source_all">എല്ലാം</string>
+  <string name="data_source_local">ലോക്കല്‍ സംഭരണം</string>
+  <string name="remove_data_source">ഫോട്ടോ ഉറവിടം നീക്കം ചെയ്യുക</string>
+  <string name="add_picasa_account">Picasa അക്കൗണ്ട് ചേർക്കുക</string>
+  <string name="remove_picasa_account">Picasa അക്കൗണ്ട് നീക്കം ചെയ്യുക</string>
+  <string name="uncategorized_album">തരം തിരിക്കാത്തവ</string>
+  <string name="set_wallpaper_string">വാൾപേപ്പറായി സജ്ജീകരിക്കുക</string>
+  <string name="downloading_image_title">ചിത്രം ഡൗൺലോഡ് ചെയ്യുന്നു\u2026</string>
+  <string name="downloading_image_failed">ചിത്രം ലഭ്യമാക്കുന്നതില്‍ പരാജയപ്പെട്ടു</string>
+  <string name="take_photo">ഒരു ഫോട്ടോയെടുക്കുക</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d തിരഞ്ഞെടുത്തിരിക്കുന്നു</item>
+    <item quantity="other">%1$d തിരഞ്ഞെടുത്തിരിക്കുന്നു</item>
+  </plurals>
+  <string name="dialog_album">ആൽബം</string>
+  <string name="dialog_type">ഉറവിടം</string>
+  <string name="dialog_date">എടുത്തത്</string>
+  <string name="menu_camera">ഫോട്ടോ എടുക്കുക</string>
+  <string name="folder_sync_title">സമന്വയിപ്പിക്കാൻ ഫോൾഡറുകൾ തിരഞ്ഞെടുക്കുക</string>
+  <string name="getting_contents_title">ഉള്ളടക്കങ്ങൾ ലഭ്യമാക്കുന്നു\u2026</string>
+  <string name="menu_play">സ്ലൈഡ്ഷോ</string>
+  <plurals name="delete_msg">
+    <item quantity="one">ഈ ചിത്രം നീക്കം ചെയ്യാൻ ഉറപ്പായും തീരുമാനിച്ചുവോ?</item>
+    <item quantity="other">ഈ ചിത്രങ്ങൾ നീക്കം ചെയ്യാൻ ഉറപ്പായും തീരുമാനിച്ചുവോ?</item>
+  </plurals>
+  <string name="cast">കാസ്‌റ്റുചെയ്യുക</string>
+  <string name="undo">പഴയപടിയാക്കുക</string>
+  <string name="info_not_available">n/a</string>
+  <string name="crop_activity_title">ചിത്രത്തിന്റെ വലുപ്പം മാറ്റുക</string>
+  <string name="save_image_title">ചിത്രം സംരക്ഷിക്കുക</string>
   <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
+  <string name="folder_download">ഡൗൺലോഡുചെയ്യുക</string>
   <!-- The tips of trimming video -->
+  <string name="fail_trim">ക്ഷമിക്കുക, ഈ വീഡിയോ ഫയൽ ട്രിം ചെയ്യാൻ കഴിയില്ല</string>
   <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
+  <string name="save_into"><xliff:g id="album_name">%1$s</xliff:g> ലേക്ക് വീഡിയോ സംരക്ഷിക്കുന്നു\u2026</string>
   <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
+  <string name="trimming">ട്രിം ചെയ്യുന്നു\u2026</string>
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
+  <string name="please_wait">കാത്തിരിക്കുക</string>
+  <string name="save_video_title">വീഡിയോ സംരക്ഷിക്കുക</string>
+  <string name="action_share">പങ്കിടുക</string>
+  <string name="action_delete">ഇല്ലാതാക്കുക</string>
+  <string name="action_edit">എഡിറ്റുചെയ്യുക</string>
+  <string name="wait_sync_complete">സമന്വയ പൂർത്തീകരണത്തിനായി കാത്തിരിക്കുക</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
+  <string name="which_application">പൂർണ്ണമായ പ്രവർത്തനം ഉപയോഗിക്കുന്നു</string>
+  <string name="settings_license_activity_title">ഓപ്പൺ സോഴ്‌സ് ലൈസൻസുകൾ</string>
+  <string name="beam_not_supported">വിദൂര വീഡിയോകളുടെ ബീമിംഗ് പിന്തുണയ്ക്കുന്നില്ല</string>
+  <string name="deleted">ഇല്ലാതാക്കി</string>
+  <!-- Permissions -->
 </resources>

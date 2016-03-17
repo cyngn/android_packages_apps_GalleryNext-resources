@@ -84,6 +84,7 @@
   <string name="add_picasa_account">Dodaj konto Picasa</string>
   <string name="remove_picasa_account">Usuń konto Picasa</string>
   <string name="uncategorized_album">Bez kategorii</string>
+  <string name="wallpaper">Tapeta</string>
   <string name="set_wallpaper_string">Ustaw jako tapetę</string>
   <string name="downloading_image_title">Pobieranie obrazu\u2026</string>
   <string name="downloading_image_failed">Pobieranie obrazu zakończone niepowodzeniem</string>
@@ -132,4 +133,8 @@
   <string name="settings_license_activity_title">Licencje Open Source</string>
   <string name="beam_not_supported">Zdalny streaming filmów nie jest obsługiwany</string>
   <string name="deleted">Usunięto</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Ustawienia</string>
+  <string name="permission_storage">Galeria wymaga uprawnień dostępu do Pamięci w celu wyświetlania zdjęć i filmów.</string>
+  <string name="permission_call_to_action">Przejdź do Ustawień i dotknij Uprawnienia, aby przyznać dostęp.</string>
 </resources>

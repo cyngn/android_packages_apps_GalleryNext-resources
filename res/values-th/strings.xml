@@ -126,4 +126,5 @@
   <string name="settings_license_activity_title">ใบอนุญาตโอเพนซอร์ส</string>
   <string name="beam_not_supported">ไม่รองรับการบีมวิดีโอระยะไกล</string>
   <string name="deleted">ลบแล้ว</string>
+  <!-- Permissions -->
 </resources>

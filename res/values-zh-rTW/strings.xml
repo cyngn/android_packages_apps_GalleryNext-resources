@@ -125,4 +125,5 @@
   <string name="which_application">選取要使用的應用程式</string>
   <string name="settings_license_activity_title">開放原始碼授權</string>
   <string name="beam_not_supported">不支援 Beam 遠端視訊</string>
+  <!-- Permissions -->
 </resources>

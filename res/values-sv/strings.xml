@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Lägg till Picasakonto</string>
   <string name="remove_picasa_account">Ta bort Picasakonto</string>
   <string name="uncategorized_album">Okategoriserade</string>
+  <string name="wallpaper">Bakgrund</string>
   <string name="set_wallpaper_string">Använd som bakgrundsbild</string>
   <string name="downloading_image_title">Ladda ner bild\u2026</string>
   <string name="downloading_image_failed">Kunde inte hämta bilden</string>
@@ -129,4 +130,6 @@
   <string name="settings_license_activity_title">Licenser för öppen källkod</string>
   <string name="beam_not_supported">Fjärrsända videos saknar stöd</string>
   <string name="deleted">Har tagits bort</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Inställningar</string>
 </resources>

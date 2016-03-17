@@ -84,6 +84,7 @@
   <string name="add_picasa_account">Přidat účet služby Picasa</string>
   <string name="remove_picasa_account">Odebrat účet služby Picasa</string>
   <string name="uncategorized_album">Nezařazené</string>
+  <string name="wallpaper">Tapeta</string>
   <string name="set_wallpaper_string">Nastavit jako tapetu</string>
   <string name="downloading_image_title">Stahování obrázku\u2026</string>
   <string name="downloading_image_failed">Nepodařilo se získat obrázek</string>
@@ -132,4 +133,8 @@
   <string name="settings_license_activity_title">Licence otevřeného software</string>
   <string name="beam_not_supported">Odesílání vzdálených videí není podporováno</string>
   <string name="deleted">Smazáno</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Nastavení</string>
+  <string name="permission_storage">Pro zobrazení fotografií a přehrávání videí vyžaduje aplikace Galerie oprávnění „Úložiště“.</string>
+  <string name="permission_call_to_action">Přejděte na „Nastavení“ a volbou „Oprávnění“ provedete udělení požadovaného oprávnění.</string>
 </resources>

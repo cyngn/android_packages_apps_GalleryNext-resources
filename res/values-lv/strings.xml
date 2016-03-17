@@ -131,4 +131,5 @@
   <string name="which_application">Pabeigt darbību, izmantojot</string>
   <string name="settings_license_activity_title">Atvērtā pirmkoda licences</string>
   <string name="beam_not_supported">Straumēti attālinātie video nav atbalstīti</string>
+  <!-- Permissions -->
 </resources>

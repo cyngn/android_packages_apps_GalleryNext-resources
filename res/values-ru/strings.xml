@@ -84,6 +84,7 @@
   <string name="add_picasa_account">Добавить аккаунт Picasa</string>
   <string name="remove_picasa_account">Удалить аккаунт Picasa</string>
   <string name="uncategorized_album">Без категории</string>
+  <string name="wallpaper">Обои</string>
   <string name="set_wallpaper_string">Установить как обои</string>
   <string name="downloading_image_title">Загрузка изображения\u2026</string>
   <string name="downloading_image_failed">Не удалось получить изображение</string>
@@ -132,4 +133,8 @@
   <string name="settings_license_activity_title">Лицензии открытого ПО</string>
   <string name="beam_not_supported">Передача удалённых видеозаписей не поддерживается</string>
   <string name="deleted">Удалено</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Настройки</string>
+  <string name="permission_storage">Галерее требуется разрешение на доступ к памяти устройства для просмотра фотографий и видео.</string>
+  <string name="permission_call_to_action">Перейдите в Настройки и нажмите «Разрешения», чтобы предоставить доступ.</string>
 </resources>

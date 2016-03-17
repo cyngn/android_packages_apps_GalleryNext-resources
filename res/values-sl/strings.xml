@@ -85,6 +85,7 @@
   <string name="add_picasa_account">Dodaj račun Picasa</string>
   <string name="remove_picasa_account">Odstrani račun Picasa</string>
   <string name="uncategorized_album">Nekategorizirano</string>
+  <string name="wallpaper">Slika ozadja</string>
   <string name="set_wallpaper_string">Nastavi kot sliko ozadja</string>
   <string name="downloading_image_title">Prenašanje slike \u2026</string>
   <string name="downloading_image_failed">Pridobivanje slike je spodletelo</string>
@@ -135,4 +136,8 @@
   <string name="settings_license_activity_title">Odprtokodne licence</string>
   <string name="beam_not_supported">Žarčenje oddaljenih videoposnetkov ni podprto</string>
   <string name="deleted">Izbrisano</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Nastavitve</string>
+  <string name="permission_storage">Galerija potrebuje dovoljenje pomnilniške naprave za prikaz vaših fotografij in videoposnetkov.</string>
+  <string name="permission_call_to_action">Pojdite v Nastavitve in tapnite Dovoljenja za odobritev dovoljenja.</string>
 </resources>

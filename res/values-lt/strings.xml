@@ -131,4 +131,5 @@
   <string name="which_application">Baigti veiksmą naudojant</string>
   <string name="settings_license_activity_title">Atvirojo kodo licencijos</string>
   <string name="beam_not_supported">Vaizdo įrašų perkėlimas nuotoliniu būdu nepalaikomas</string>
+  <!-- Permissions -->
 </resources>

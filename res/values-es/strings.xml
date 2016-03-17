@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Añadir cuenta de Picasa</string>
   <string name="remove_picasa_account">Eliminar cuenta de Picasa</string>
   <string name="uncategorized_album">Sin clasificar</string>
+  <string name="wallpaper">Fondo de pantalla</string>
   <string name="set_wallpaper_string">Establecer como fondo de pantalla</string>
   <string name="downloading_image_title">Descargando imagen\u2026</string>
   <string name="downloading_image_failed">No se pudo obtener la imagen</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Licencias de código abierto</string>
   <string name="beam_not_supported">La emisión de vídeos remotos no es compatible</string>
   <string name="deleted">Eliminado</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Ajustes</string>
+  <string name="permission_storage">Se necesitan permisos de almacenamiento de información para poder ver fotos y vídeos.</string>
+  <string name="permission_call_to_action">Ve a Ajustes y pulsa Permisos para otorgar permiso.</string>
 </resources>

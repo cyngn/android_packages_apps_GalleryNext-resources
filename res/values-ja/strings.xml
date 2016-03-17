@@ -41,7 +41,7 @@
   <!-- The label for the audio effects menu. -->
   <string name="audio_effects">オーディオ効果</string>
   <!-- The label for the bass boost knob of the audio effects dialog. -->
-  <string name="bass_boost_strength">バス\nブースト</string>
+  <string name="bass_boost_strength">バスブースト</string>
   <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D効果</string>
   <!-- The button to play the video. [CHAR LIMIT = NONE] -->
@@ -126,4 +126,5 @@
   <string name="settings_license_activity_title">オープンソースライセンス</string>
   <string name="beam_not_supported">ビームリモート動画はサポートされていません</string>
   <string name="deleted">削除しました</string>
+  <!-- Permissions -->
 </resources>

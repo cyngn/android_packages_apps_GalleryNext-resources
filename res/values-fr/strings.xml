@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Ajouter un compte Picasa</string>
   <string name="remove_picasa_account">Supprimer le compte Picasa</string>
   <string name="uncategorized_album">Sans catégorie</string>
+  <string name="wallpaper">Fond d\'écran</string>
   <string name="set_wallpaper_string">Définir comme fond d\'écran</string>
   <string name="downloading_image_title">Téléchargement de l\'image\u2026</string>
   <string name="downloading_image_failed">Impossible d\'obtenir l\'image</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Licences open source</string>
   <string name="beam_not_supported">Transmission à distance des vidéos non prise en charge</string>
   <string name="deleted">Supprimé</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Paramètres</string>
+  <string name="permission_storage">La Galerie nécessite des autorisations sur le stockage pour pouvoir afficher vos photos et vidéos.</string>
+  <string name="permission_call_to_action">Aller dans Paramètres et cliquer sur Autorisations pour accorder l\'autorisation.</string>
 </resources>

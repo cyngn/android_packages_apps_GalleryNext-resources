@@ -128,4 +128,5 @@
   <string name="which_application">कार्य को इसकी मदद से पूरा करें</string>
   <string name="settings_license_activity_title">मुक्त स्रोत लाइसेंस</string>
   <string name="beam_not_supported">दूरस्थ वीडियो को बीम करने को समर्थन नहीं है</string>
+  <!-- Permissions -->
 </resources>

@@ -125,4 +125,5 @@
   <string name="which_application">Selesaikan tindakan menggunakan</string>
   <string name="settings_license_activity_title">Lisensi open source</string>
   <string name="beam_not_supported">Mentransfer video jarak jauh tidak didukung</string>
+  <!-- Permissions -->
 </resources>

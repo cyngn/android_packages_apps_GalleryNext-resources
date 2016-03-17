@@ -38,13 +38,30 @@
   <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
+  <plurals name="number_of_photos">
+    <item quantity="one">%1$d foto</item>
+    <item quantity="other">%1$d fotos</item>
+  </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
+  <string name="wallpaper">Fondo de pantalla</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d seleccionado</item>
+    <item quantity="other">%1$d seleccionados</item>
+  </plurals>
+  <plurals name="delete_msg">
+    <item quantity="one">¿Estás seguro de que quieres eliminar esta imagen?</item>
+    <item quantity="other">¿Estás seguro de que quieres eliminar estas imágenes?</item>
+  </plurals>
   <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <!-- The tips of trimming video -->
   <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <!-- Title of intent resolver dialog when selecting an application to run. -->
+  <!-- Permissions -->
+  <string name="permission_settings">Ajustes</string>
+  <string name="permission_storage">Se necesitan permisos de almacenamiento de información para poder ver fotos y vídeos.</string>
+  <string name="permission_call_to_action">Ve a Ajustes y pulsa en Permisos para otorgar el permiso.</string>
 </resources>

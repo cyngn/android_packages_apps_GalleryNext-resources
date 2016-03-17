@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Picasa-account toevoegen</string>
   <string name="remove_picasa_account">Picasa-account verwijderen</string>
   <string name="uncategorized_album">Niet gecategoriseerd</string>
+  <string name="wallpaper">Achtergrond</string>
   <string name="set_wallpaper_string">Instellen als achtergrond</string>
   <string name="downloading_image_title">Afbeelding downloaden\u2026</string>
   <string name="downloading_image_failed">Fout bij ophalen van afbeelding</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Open-sourcelicenties</string>
   <string name="beam_not_supported">\'Beamen\' van externe video\'s niet ondersteund</string>
   <string name="deleted">Verwijderd</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Instellingen</string>
+  <string name="permission_storage">Galerij vereist machtiging voor opslag om foto\'s en video\'s te kunnen bekijken.</string>
+  <string name="permission_call_to_action">Ga naar Instellingen en tik Machtigingen om machtiging te verlenen.</string>
 </resources>

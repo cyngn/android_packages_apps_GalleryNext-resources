@@ -129,4 +129,5 @@
   <string name="settings_license_activity_title">Open-Source-Lizenzen</string>
   <string name="beam_not_supported">D\'Beame vu Online-Videoe gëtt net ënnerstëtzt</string>
   <string name="deleted">Geläscht</string>
+  <!-- Permissions -->
 </resources>

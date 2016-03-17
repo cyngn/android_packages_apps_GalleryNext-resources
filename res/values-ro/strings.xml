@@ -132,4 +132,5 @@
   <string name="settings_license_activity_title">Licențe Open source</string>
   <string name="beam_not_supported">Transmitere video la distanță nu este acceptată</string>
   <string name="deleted">S-a șters</string>
+  <!-- Permissions -->
 </resources>

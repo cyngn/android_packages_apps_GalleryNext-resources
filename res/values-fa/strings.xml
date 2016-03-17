@@ -126,4 +126,5 @@
   <string name="settings_license_activity_title">مجوزهای متن باز</string>
   <string name="beam_not_supported">بیم کردن فیلم‌های راه دور پشتیبانی نمی‌شود</string>
   <string name="deleted">حذف شد</string>
+  <!-- Permissions -->
 </resources>

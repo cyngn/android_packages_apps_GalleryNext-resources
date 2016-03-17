@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Gehitu Picasa kontua</string>
   <string name="remove_picasa_account">Ezabatu Picasa kontua</string>
   <string name="uncategorized_album">Sailkapenik gabe</string>
+  <string name="wallpaper">Horma-papera</string>
   <string name="set_wallpaper_string">Ezarri horma-paper gisa</string>
   <string name="downloading_image_title">Irudia deskargatzen\u2026</string>
   <string name="downloading_image_failed">Ezin izan da irudia eskuratu</string>
@@ -129,4 +130,8 @@
   <string name="settings_license_activity_title">Lizentzia libreak</string>
   <string name="beam_not_supported">Urrutiko bideoak ezin dira igorri</string>
   <string name="deleted">Ezabatuta</string>
+  <!-- Permissions -->
+  <string name="permission_settings">Ezarpenak</string>
+  <string name="permission_storage">Galeriak biltegiratze baimena behar du zure argazki eta bideoak ikusteko.</string>
+  <string name="permission_call_to_action">Zoaz ezarpenetara eta sakatu Baimenak baimena emateko.</string>
 </resources>
