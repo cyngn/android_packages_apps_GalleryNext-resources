@@ -82,6 +82,7 @@
   <string name="add_picasa_account">เพิ่มบัญชี Picasa</string>
   <string name="remove_picasa_account">ลบบัญชี Picasa ออก</string>
   <string name="uncategorized_album">ไม่มีหมวดหมู่</string>
+  <string name="wallpaper">ภาพพื้นหลัง</string>
   <string name="set_wallpaper_string">ตั้งเป็นภาพพื้นหลัง</string>
   <string name="downloading_image_title">กำลังดาวน์โหลดภาพ\u2026</string>
   <string name="downloading_image_failed">ไม่สามารถรับภาพ</string>
@@ -127,4 +128,7 @@
   <string name="beam_not_supported">ไม่รองรับการบีมวิดีโอระยะไกล</string>
   <string name="deleted">ลบแล้ว</string>
   <!-- Permissions -->
+  <string name="permission_settings">การตั้งค่า</string>
+  <string name="permission_storage">แกลเลอรี่ต้องได้รับอนุญาตให้เข้าถึงพื้นที่จัดเก็บเพื่อดูภาพถ่ายและวิดีโอของคุณ</string>
+  <string name="permission_call_to_action">ไปที่การตั้งค่า และแตะที่สิทธิ์ของแอปเพื่ออนุญาตให้ใช้งาน</string>
 </resources>

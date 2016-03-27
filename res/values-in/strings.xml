@@ -17,113 +17,36 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galeri</string>
-  <string name="camera">Kamera</string>
   <!-- Displayed in the title of those albums that are being loaded -->
-  <string name="loading">Memuat\u2026</string>
-  <string name="no_photos">Tidak ada foto</string>
-  <string name="share">Bagikan</string>
   <!-- Details dialog "OK" button. Dismisses dialog. -->
-  <string name="delete">Hapus</string>
   <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
   <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
   <!-- Activity label. This might show up in the activity-picker -->
-  <string name="movie_view_label">Pemutar video</string>
   <!-- shown in the video player view while the video is being loaded, before it starts playing -->
-  <string name="loading_video">Memuat video\u2026</string>
   <!-- Movie View Resume Playing dialog title -->
-  <string name="resume_playing_title">Lanjutkan video</string>
   <!-- Movie View Start Playing dialog title -->
-  <string name="resume_playing_message">Lanjutkan pemutaran video dari %s ?</string>
   <!-- Movie View Start Playing button "Resume from bookmark" -->
-  <string name="resume_playing_resume">Lanjutkan pemutaran video</string>
   <!-- Movie View Start Playing button "Beginning" -->
-  <string name="resume_playing_restart">Mulai dari awal</string>
   <!-- The label for the audio effects menu. -->
-  <string name="audio_effects">Efek suara</string>
   <!-- The label for the bass boost knob of the audio effects dialog. -->
-  <string name="bass_boost_strength">Peningkatan bass</string>
   <!-- The label for the 3d effect knob of the audio effects dialog. -->
-  <string name="virtualizer_strength">Efek 3D</string>
   <!-- The button to play the video. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_play_video">Memutar video</string>
   <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_pause_video">Jeda video</string>
   <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_reload_video">Muat ulang video</string>
   <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
-  <string name="accessibility_time_bar">Bar waktu pemutaran video</string>
   <!-- String indicating timestamp of photo or video -->
-  <string name="show_on_map">Tampilkan pada peta</string>
   <!-- setting facebook login, this is app id, get from developers.facebook.com -->
-  <string name="data_sources">Layanan</string>
-  <string name="add_data_source_title">Tambah sumber foto</string>
   <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
-  <string name="events">Saat-saat</string>
-  <string name="media">Media</string>
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
-  <string name="albums">Album</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
-  <plurals name="number_of_photos">
-    <item quantity="other">%1$d foto</item>
-  </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
-  <string name="headset_plug">Pasang headphone untuk efek ini.</string>
-  <string name="ok">OKE</string>
-  <string name="cancel">Batal</string>
-  <string name="around">Di sekitar</string>
-  <string name="posts">Posting</string>
-  <string name="today">Hari ini</string>
-  <string name="yesterday">Kemarin</string>
-  <string name="this_week">Minggu ini</string>
-  <string name="this_month">Bulan ini</string>
-  <string name="data_source_all">Semua</string>
-  <string name="data_source_local">Penyimpanan Lokal</string>
-  <string name="remove_data_source">Hapus sumber foto</string>
-  <string name="add_picasa_account">Tambah akun Picasa</string>
-  <string name="remove_picasa_account">Hapus akun Picasa</string>
-  <string name="uncategorized_album">Tidak terkategorikan</string>
-  <string name="set_wallpaper_string">Atur sebagai wallpaper</string>
-  <string name="downloading_image_title">Mengunduh gambar\u2026</string>
-  <string name="downloading_image_failed">Gagal untuk mendapatkan gambar</string>
-  <string name="take_photo">Ambil gambar</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
-  <plurals name="number_of_items_selected">
-    <item quantity="other">%1$d terpilih</item>
-  </plurals>
-  <string name="dialog_album">Album</string>
-  <string name="dialog_type">Sumber</string>
-  <string name="dialog_date">Diambil pada</string>
-  <string name="menu_camera">Ambil gambar</string>
-  <string name="folder_sync_title">Pilih folder untuk sync</string>
-  <string name="getting_contents_title">Mendapatkan konten\u2026</string>
-  <string name="menu_play">Slideshow</string>
-  <plurals name="delete_msg">
-    <item quantity="other">Apakah Anda yakin mau menghapus foto ini?</item>
-  </plurals>
-  <string name="cast">Cast</string>
-  <string name="undo">Batalkan</string>
-  <string name="info_not_available">Tidak tersedia</string>
-  <string name="crop_activity_title">Potong gambar</string>
-  <string name="save_image_title">Simpan Gambar</string>
   <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
-  <string name="folder_download">Unduh</string>
   <!-- The tips of trimming video -->
-  <string name="fail_trim">Maaf, berkas video ini tidak dapat dipotong</string>
   <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
-  <string name="save_into">Menyimpan video ke <xliff:g id="album_name">%1$s</xliff:g> \u2026</string>
   <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
-  <string name="trimming">Memotong\u2026</string>
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
-  <string name="please_wait">Harap tunggu</string>
-  <string name="save_video_title">Simpan video</string>
-  <string name="action_share">Bagikan</string>
-  <string name="action_delete">Hapus</string>
-  <string name="action_edit">Ubah</string>
-  <string name="wait_sync_complete">Harap tunggu sampai sinkronisasi selesai</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
-  <string name="which_application">Selesaikan tindakan menggunakan</string>
-  <string name="settings_license_activity_title">Lisensi open source</string>
-  <string name="beam_not_supported">Mentransfer video jarak jauh tidak didukung</string>
   <!-- Permissions -->
 </resources>

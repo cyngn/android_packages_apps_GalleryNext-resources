@@ -132,4 +132,6 @@
   <string name="deleted">Har tagits bort</string>
   <!-- Permissions -->
   <string name="permission_settings">Inställningar</string>
+  <string name="permission_storage">Galleri kräver behörighet till lagring för att visa dina bilder och videor.</string>
+  <string name="permission_call_to_action">Gå till inställningar och tryck på behörigheter för att bevilja behörighet.</string>
 </resources>

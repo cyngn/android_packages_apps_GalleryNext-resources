@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Tilføj Picasa-konto</string>
   <string name="remove_picasa_account">Fjern Picasa-konto</string>
   <string name="uncategorized_album">Ikke kategoriseret</string>
+  <string name="wallpaper">Baggrund</string>
   <string name="set_wallpaper_string">Angiv som baggrund</string>
   <string name="downloading_image_title">Downloader billede\u2026</string>
   <string name="downloading_image_failed">Kunne ikke hente billede</string>
@@ -130,4 +131,7 @@
   <string name="beam_not_supported">Overførsel af fjerntliggende videoer understøttes ikke</string>
   <string name="deleted">Slettet</string>
   <!-- Permissions -->
+  <string name="permission_settings">Indstillinger</string>
+  <string name="permission_storage">Galleri kræver tilladelse til lageret for at se dine fotos og videoer.</string>
+  <string name="permission_call_to_action">Gå til Indstillinger og tryk på Tilladelser for at give tilladelse.</string>
 </resources>

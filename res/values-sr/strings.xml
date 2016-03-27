@@ -84,6 +84,7 @@
   <string name="add_picasa_account">Додај Picasa налог</string>
   <string name="remove_picasa_account">Уклoни Picasa налог</string>
   <string name="uncategorized_album">Некатегоризовано</string>
+  <string name="wallpaper">Тапет</string>
   <string name="set_wallpaper_string">Постави као позадину</string>
   <string name="downloading_image_title">Преузимање слике\u2026</string>
   <string name="downloading_image_failed">Неуспело добијање слике</string>
@@ -133,4 +134,7 @@
   <string name="beam_not_supported">Усмерени даљински видео није подржан</string>
   <string name="deleted">Избрисано</string>
   <!-- Permissions -->
+  <string name="permission_settings">Подешавања</string>
+  <string name="permission_storage">Галерија треба дозволу за складиште да би приказала твоје фотографије и видео записе.</string>
+  <string name="permission_call_to_action">Иди у подешавања и кликни не Дозволе да одобриш дозволу.</string>
 </resources>

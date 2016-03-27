@@ -87,6 +87,7 @@
   <string name="add_picasa_account">إضافة حساب Picasa</string>
   <string name="remove_picasa_account">إزالة حساب Picasa</string>
   <string name="uncategorized_album">غير مصنّف</string>
+  <string name="wallpaper">الخلفية</string>
   <string name="set_wallpaper_string">تعيين كخلفية للشاشة</string>
   <string name="downloading_image_title">تنزيل الصورة\u2026</string>
   <string name="downloading_image_failed">فشل الحصول على الصورة</string>
@@ -142,4 +143,7 @@
   <string name="beam_not_supported">توجيه الأجهزة البعيدة غير مدعوم</string>
   <string name="deleted">تم الحذف</string>
   <!-- Permissions -->
+  <string name="permission_settings">الإعدادات</string>
+  <string name="permission_storage">يتطلب المعرض إذناً للتخزين من أجل عرض صورك وملفات الفيديو الخاصة بك.</string>
+  <string name="permission_call_to_action">انتقل إلى إعدادات، واضغط على الصلاحيات لمنح إذن.</string>
 </resources>
