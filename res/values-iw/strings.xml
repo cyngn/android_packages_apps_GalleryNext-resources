@@ -31,7 +31,7 @@
   <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">טוען וידאו\u2026</string>
   <!-- Movie View Resume Playing dialog title -->
-  <string name="resume_playing_title">המשך הקרנת ווידאו</string>
+  <string name="resume_playing_title">המשך הקרנת וידאו</string>
   <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">המשך השמעה מ-%s ?</string>
   <!-- Movie View Start Playing button "Resume from bookmark" -->
@@ -124,14 +124,14 @@
   <string name="action_share">שתף</string>
   <string name="action_delete">מחק</string>
   <string name="action_edit">ערוך</string>
-  <string name="wait_sync_complete">המתן להשלמת הסנכרון</string>
+  <string name="wait_sync_complete">אנא המתן להשלמת הסנכרון</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">השלם פעולה באמצעות</string>
   <string name="settings_license_activity_title">רשיונות קוד פתוח</string>
-  <string name="beam_not_supported">שיגור סרטונים מרחוק (Beaming) לא נתמך</string>
+  <string name="beam_not_supported">שיגור וידאו מרחוק (Beaming) לא נתמך</string>
   <string name="deleted">נמחק</string>
   <!-- Permissions -->
   <string name="permission_settings">הגדרות</string>
-  <string name="permission_storage">הגלריה דורשת הרשאה לאחסון על מנת להציג את התמונות והסרטונים שלך.</string>
+  <string name="permission_storage">הגלריה דורשת הרשאה לאחסון על מנת להציג את התמונות וסרטוני הווידאו שלך.</string>
   <string name="permission_call_to_action">עבור אל הגדרות, והקש על הרשאות כדי להעניק גישה.</string>
 </resources>
