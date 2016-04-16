@@ -69,7 +69,7 @@
   </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Conecte fones de ouvido para estes efeitos.</string>
-  <string name="ok">Ok</string>
+  <string name="ok">OK</string>
   <string name="cancel">Cancelar</string>
   <string name="around">Em torno de</string>
   <string name="posts">Mensagens</string>

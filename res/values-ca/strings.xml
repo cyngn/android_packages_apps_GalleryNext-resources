@@ -84,7 +84,7 @@
   <string name="remove_picasa_account">Suprimeix un compte de Picasa</string>
   <string name="uncategorized_album">No categoritzat</string>
   <string name="wallpaper">Fons de pantalla</string>
-  <string name="set_wallpaper_string">Defineix com a fons de pantalla</string>
+  <string name="set_wallpaper_string">Estableix com a fons de pantalla</string>
   <string name="downloading_image_title">S\'està descarregant la imatge\u2026</string>
   <string name="downloading_image_failed">No s\'ha pogut obtenir la imatge</string>
   <string name="take_photo">Fes una foto</string>
@@ -111,7 +111,7 @@
   <string name="crop_activity_title">Escapça la imatge</string>
   <string name="save_image_title">Desa la imatge</string>
   <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
-  <string name="folder_download">Descarrega</string>
+  <string name="folder_download">Baixades</string>
   <!-- The tips of trimming video -->
   <string name="fail_trim">Ho sento, aquest fitxer de vídeo no es pot retallar</string>
   <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
