@@ -18,32 +18,55 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">갤러리</string>
   <string name="camera">카메라</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">불러오는 중\u2026</string>
   <string name="no_photos">사진 없음</string>
   <string name="share">공유</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">삭제</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">비디오 플레이어</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">비디오 불러오는 중\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">비디오 이어서 재생</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">%s부터 이어서 재생할까요?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">이어서</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">처음부터</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">음향 효과</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">베이스 부스트</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D 효과</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">비디오 재생</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">비디오 일시정지</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">비디오 다시 불러오기</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">비디오 플레이어 탐색 바</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">지도에서 보기</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">서비스</string>
   <string name="add_data_source_title">사진 소스 추가</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">특별한 순간들</string>
   <string name="media">미디어</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">앨범</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="other">%1$d장의 사진</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">효과를 사용하려면 헤드폰을 연결하세요.</string>
   <string name="ok">확인</string>
   <string name="cancel">취소</string>
@@ -63,6 +86,8 @@
   <string name="downloading_image_title">이미지 다운로드 중\u2026</string>
   <string name="downloading_image_failed">이미지를 받아올 수 없습니다</string>
   <string name="take_photo">사진 촬영</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="other">%1$d개 선택됨</item>
   </plurals>
@@ -81,16 +106,22 @@
   <string name="info_not_available">n/a</string>
   <string name="crop_activity_title">사진 자르기</string>
   <string name="save_image_title">이미지 저장</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">다운로드</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">죄송합니다. 이 동영상은 잘라낼 수 없습니다.</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">동영상을 <xliff:g id="album_name">%1$s</xliff:g>에 저장하는 중\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">잘라내는 중\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">잠시 기다려 주십시오</string>
   <string name="save_video_title">동영상 저장</string>
   <string name="action_share">공유</string>
   <string name="action_delete">삭제</string>
   <string name="action_edit">편집</string>
   <string name="wait_sync_complete">동기화가 완료될 때까지 잠시 기다려 주십시오</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">작업을 수행할 때 사용하는 어플리케이션</string>
   <string name="settings_license_activity_title">오픈 소스 라이센스</string>
   <string name="beam_not_supported">원격 비디오의 전송은 지원되지 않습니다</string>

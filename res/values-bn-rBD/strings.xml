@@ -18,6 +18,37 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">সংগ্রহশালা</string>
   <string name="camera">ক্যামেরা</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">লোড হচ্ছে\u2026</string>
   <string name="share">শেয়ার</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
+  <!-- Movie View Resume Playing dialog title -->
+  <!-- Movie View Start Playing dialog title -->
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
+  <!-- Movie View Start Playing button "Beginning" -->
+  <!-- The label for the audio effects menu. -->
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
+  <!-- String indicating timestamp of photo or video -->
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
+  <!-- The tips of trimming video -->
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
 </resources>

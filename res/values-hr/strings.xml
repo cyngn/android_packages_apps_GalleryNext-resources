@@ -18,44 +18,118 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerija</string>
   <string name="camera">Fotoaparat</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Učitavanje\u2026</string>
   <string name="no_photos">Nema fotografija</string>
   <string name="share">Podijeli</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Obriši</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Video player</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Učitavanje videozapisa\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Nastavljanje videozapisa</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Nastaviti reprodukciju od %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Nastavi reprodukciju</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Počni ispočetka</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Zvučni efekti</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Bass ubrzanje</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D efekt</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Reproduciraj video</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Pauziraj video</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Ponovno učitavanje videa</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Video player vremenska traka</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Pokaži na karti</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Usluge</string>
   <string name="add_data_source_title">Dodajte izvor fotografija</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Trenuci</string>
   <string name="media">Mediji</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Albumi</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d fotografija</item>
     <item quantity="few">%1$d fotografije</item>
     <item quantity="other">%1$d fotografija</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Priključite slušalice za ove efekte.</string>
   <string name="ok">U redu</string>
   <string name="cancel">Odustani</string>
+  <string name="around">Okolo</string>
+  <string name="posts">Postovi</string>
+  <string name="today">Danas</string>
+  <string name="yesterday">Jučer</string>
+  <string name="this_week">Ovaj tjedan</string>
   <string name="this_month">Ovaj mjesec</string>
   <string name="data_source_all">Sve</string>
   <string name="data_source_local">Lokalna pohrana</string>
+  <string name="remove_data_source">Ukloni izvor fotografija</string>
+  <string name="add_picasa_account">Dodaj Picasa račun</string>
+  <string name="remove_picasa_account">Ukloni Picasa račun</string>
+  <string name="uncategorized_album">Nekategorizirane</string>
+  <string name="set_wallpaper_string">Postavi kao pozadinu</string>
+  <string name="downloading_image_title">Preuzimanje slike\u2026</string>
+  <string name="downloading_image_failed">Neuspjelo dobivanje slike</string>
+  <string name="take_photo">Fotografiraj</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
+  <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d odabran</item>
+    <item quantity="few">%1$d odabrana</item>
+    <item quantity="other">%1$d odabranih</item>
+  </plurals>
   <string name="dialog_album">Album</string>
   <string name="dialog_type">Izvor</string>
+  <string name="dialog_date">Urađeno</string>
+  <string name="menu_camera">Fotografiraj</string>
+  <string name="folder_sync_title">Odaberite mape za sinkronizaciju</string>
+  <string name="getting_contents_title">Dobivanje sadržaja\u2026</string>
+  <string name="menu_play">Slideshow</string>
+  <plurals name="delete_msg">
+    <item quantity="one">Jeste li sigurni da želite izbrisati ovu sliku?</item>
+    <item quantity="few">Jeste li sigurni da želite izbrisati ove slike?</item>
+    <item quantity="other">Jeste li sigurni da želite izbrisati ove slike?</item>
+  </plurals>
+  <string name="cast">Uloge</string>
   <string name="undo">Poništi</string>
   <string name="info_not_available">n/a</string>
+  <string name="crop_activity_title">Obreži sliku</string>
+  <string name="save_image_title">Spremi sliku</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Preuzimanje</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Oprostite, ovaj video ne može biti izrezan</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
+  <string name="save_into">Spremanje videozapisa na <xliff:g id="album_name">%1$s </xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
+  <string name="trimming">Obrezivanje\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
+  <string name="please_wait">Molimo pričekajte</string>
+  <string name="save_video_title">Spremi video</string>
+  <string name="action_share">Podijeli</string>
+  <string name="action_delete">Obriši</string>
+  <string name="action_edit">Uređivanje</string>
+  <string name="wait_sync_complete">Pričekajte dovršetak sinkronizacije</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
+  <string name="which_application">Završetak radnje pomoću</string>
+  <string name="settings_license_activity_title">Licence otvorenog kôda</string>
+  <string name="beam_not_supported">Bežično slanje daljinskog videozapisa nije podržano</string>
+  <string name="deleted">Izbrisano</string>
 </resources>

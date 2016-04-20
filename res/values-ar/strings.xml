@@ -18,29 +18,51 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">المعرض</string>
   <string name="camera">الكاميرا</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">تحميل\u2026</string>
   <string name="no_photos">لا توجد صور</string>
   <string name="share">مشاركة</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">حذف</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">مشغل الفيديو</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">تحميل فديو\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">استئناف الفيديو</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">استئناف التشغيل من %s ؟</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">استئناف التشغيل</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">البدء من جديد</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">التأثيرات الصوتية</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">تحسين الصوت</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">تأثير ثلاثي الأبعاد</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">تشغيل فيديو</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">ايقاف الفيديو مؤقتاً</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">إعادة تحميل الفيديو</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">شريط وقت مشغل الفيديو</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">إظهار على الخريطة</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">الخدمات</string>
   <string name="add_data_source_title">إضافة مصدر الصورة</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">لحظات</string>
   <string name="media">وسائط</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">ألبومات</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="zero">لا صور%1$d</item>
     <item quantity="one">صورة %1$d</item>
@@ -49,6 +71,7 @@
     <item quantity="many">صور %1$d</item>
     <item quantity="other">صور %1$d</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">قم بتوصيل سماعات الرأس لهذه التأثيرات.</string>
   <string name="ok">موافق</string>
   <string name="cancel">الغاء</string>
@@ -68,6 +91,8 @@
   <string name="downloading_image_title">تنزيل الصورة\u2026</string>
   <string name="downloading_image_failed">فشل الحصول على الصورة</string>
   <string name="take_photo">التقاط صورة</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="zero">%1$d لا إختيار</item>
     <item quantity="one">%1$d اختير</item>
@@ -96,16 +121,22 @@
   <string name="info_not_available">غير متاح</string>
   <string name="crop_activity_title">اقتصاص الصورة</string>
   <string name="save_image_title">حفظ الصورة</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">تنزيل</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">معذرة، لا يمكن اقتطاع ملف الفيديو هذا</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">حفظ الفديو الى <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">أقتصاص\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">الرجاء الانتظار</string>
   <string name="save_video_title">حفظ الفيديو</string>
   <string name="action_share">مشاركة</string>
   <string name="action_delete">حذف</string>
   <string name="action_edit">تحرير</string>
   <string name="wait_sync_complete">الرجاء الانتظار حتى اكتمال المزامنة</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">إكمال الإجراء باستخدام</string>
   <string name="settings_license_activity_title">تراخيص مفتوحة المصدر</string>
   <string name="beam_not_supported">توجيه الأجهزة البعيدة غير مدعوم</string>

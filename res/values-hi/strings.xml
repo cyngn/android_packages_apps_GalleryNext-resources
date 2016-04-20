@@ -18,33 +18,56 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">गैलरी</string>
   <string name="camera">कैमेरा</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">लोड कर रहे हैं\u2026</string>
   <string name="no_photos">कोई फ़ोटो नहीं है</string>
   <string name="share">साझा करें</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">हटाएँ</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">वीडियो प्लेयर</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">वीडियो लोड कर रहे हैं\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">वीडियो फिर से शुरू करें</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">%s से बजाना शुरू करें?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">बजाना फिर से शुरू करें</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">फिर से शुरुआत करें</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">ऑडियो प्रभाव</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">मंद्र वर्धन</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3डी प्रभाव</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">वीडियो चलाएँ</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">वीडियो को पॉज़ करें</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">वीडियो को फिर से लोड करें</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">वीडियो प्लेयर समय पट्टी</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">नक्शे पर दिखाएँ</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">सेवाएँ</string>
   <string name="add_data_source_title">फ़ोटो स्रोत जोड़ें</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">लम्हे</string>
   <string name="media">माध्यम</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">एल्बम</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d फ़ोटो</item>
     <item quantity="other">%1$d फ़ोटो</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">इन प्रभावों के लिए हेडफ़ोन लगाएँ।</string>
   <string name="ok">ठीक है</string>
   <string name="cancel">रद्द करें</string>
@@ -64,6 +87,8 @@
   <string name="downloading_image_title">छवि डाउनलोड कर रहे हैं\u2026</string>
   <string name="downloading_image_failed">छवि प्राप्त नहीं कर सके</string>
   <string name="take_photo">फ़ोटो लें</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d चयनित</item>
     <item quantity="other">%1$d चयनित</item>
@@ -84,16 +109,22 @@
   <string name="info_not_available">लागू नहीं होता</string>
   <string name="crop_activity_title">चित्र को क्रॉप करें</string>
   <string name="save_image_title">छवि को सहेजें</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">डाउनलोड करें</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">क्षमा करें, इस वीडियो फ़ाइल को ट्रिम नहीं किया जा सकता है</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">वीडियो को <xliff:g id="album_name">%1$s</xliff:g> में सहेज रहे हैं\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">ट्रिम कर रहे हैं\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">कृपया रुकें</string>
   <string name="save_video_title">वीडियो को सहेजें</string>
   <string name="action_share">साझा करें</string>
   <string name="action_delete">हटाएँ</string>
   <string name="action_edit">संपादन</string>
   <string name="wait_sync_complete">संकालन पूरा होने के लिए रुकें</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">कार्य को इसकी मदद से पूरा करें</string>
   <string name="settings_license_activity_title">मुक्त स्रोत लाइसेंस</string>
   <string name="beam_not_supported">दूरस्थ वीडियो को बीम करने को समर्थन नहीं है</string>

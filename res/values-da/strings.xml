@@ -18,33 +18,56 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galleri</string>
   <string name="camera">Kamera</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Indlæser\u2026</string>
   <string name="no_photos">Ingen fotos</string>
   <string name="share">Del</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Slet</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Videoafspiller</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Indlæser video\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Fortsæt video</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Fortsæt afspilningen fra %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Fortsæt afspilningen</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Start forfra</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Lydeffekter</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Basforstærkning</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D-effekt</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Afspil video</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Stop videoen midl.</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Genindlæs video</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Tidslinje for videoafspiller</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Vis på kort</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Tjenester</string>
   <string name="add_data_source_title">Tilføj fotokilde</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Øjeblikke</string>
   <string name="media">Medier</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Albummer</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d foto</item>
     <item quantity="other">%1$d fotos</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Tilslut hovedtelefoner for disse effekter.</string>
   <string name="ok">OK</string>
   <string name="cancel">Annuller</string>
@@ -64,6 +87,8 @@
   <string name="downloading_image_title">Downloader billede\u2026</string>
   <string name="downloading_image_failed">Kunne ikke hente billede</string>
   <string name="take_photo">Tag et foto</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d valgt</item>
     <item quantity="other">%1$d valgt</item>
@@ -84,16 +109,22 @@
   <string name="info_not_available">i/t</string>
   <string name="crop_activity_title">Beskær billede</string>
   <string name="save_image_title">Gem billede</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Download</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Desværre, denne videofil kan ikke trimmes</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Gemmer video på <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Trimmer\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Vent\u2026</string>
   <string name="save_video_title">Gem video</string>
   <string name="action_share">Del</string>
   <string name="action_delete">Slet</string>
   <string name="action_edit">Redigér</string>
   <string name="wait_sync_complete">Vent, til synkronisering er færdig</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Gennemfør handling ved hjælp af</string>
   <string name="settings_license_activity_title">Open source licenser</string>
   <string name="beam_not_supported">Overførsel af fjerntliggende videoer understøttes ikke</string>

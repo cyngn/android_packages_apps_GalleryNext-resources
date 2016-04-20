@@ -18,34 +18,57 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerija</string>
   <string name="camera">Kamera</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Ielādē\u2026</string>
   <string name="no_photos">Nav fotogrāfiju</string>
   <string name="share">Kopīgot</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Dzēst</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Video atskaņotājs</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Ielādē video\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Atsākt video</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Atsākt atskaņošanu no %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Atsākt atskaņošanu</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Atsākt no jauna</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Audio efekti</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Basu pastiprināšana</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D efekts</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Atskaņot video</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Apturēt video</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Pārlādēt video</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Video atskaņotāja laika josla</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Parādīt kartē</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Pakalpojumi</string>
   <string name="add_data_source_title">Pievienot fotoattēlu avotu</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Mirkļi</string>
   <string name="media">Multivide</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Albumi</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="zero">%1$d fotogrāfija</item>
     <item quantity="one">%1$d fotogrāfija</item>
     <item quantity="other">%1$d fotogrāfijas</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Šī efekta lietošanai jāpievieno austiņas.</string>
   <string name="ok">Labi</string>
   <string name="cancel">Atcelt</string>
@@ -65,6 +88,8 @@
   <string name="downloading_image_title">Lejuplādē attēlu\u2026</string>
   <string name="downloading_image_failed">Neizdevās iegūt attēlu</string>
   <string name="take_photo">Uzņemt fotoattēlu</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="zero">%1$d atlasīts</item>
     <item quantity="one">%1$d atlasīts</item>
@@ -87,16 +112,22 @@
   <string name="info_not_available">nav pielietojams</string>
   <string name="crop_activity_title">Apgriezt attēlu</string>
   <string name="save_image_title">Saglabāt attēlu</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Lejuplādēt</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Atvainojiet, šo video failu nevar apgriezt</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Saglabā video failu <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Apgriež\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Lūdzu, uzgaidiet</string>
   <string name="save_video_title">Saglabāt video</string>
   <string name="action_share">Kopīgot</string>
   <string name="action_delete">Dzēst</string>
   <string name="action_edit">Labot</string>
   <string name="wait_sync_complete">Lūdzu, uzgaidiet, kamēr tiek pabeigta sinhronizācija</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Pabeigt darbību, izmantojot</string>
   <string name="settings_license_activity_title">Atvērtā pirmkoda licences</string>
   <string name="beam_not_supported">Straumēti attālinātie video nav atbalstīti</string>

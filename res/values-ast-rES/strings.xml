@@ -18,33 +18,56 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galería</string>
   <string name="camera">Cámara</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Cargando\u2026</string>
   <string name="no_photos">Nun hai semeyes</string>
   <string name="share">Compartir</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Desaniciar</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Reproductor de videu</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Cargando videu\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Reanudar videu</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Reanudar reproducción a partir de %s ?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Reanudar reproducción</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Volver a reproducir</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Efeutos d\'audiu</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Bass Boost</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">Efeutu 3D</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Ver un videu</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Posar videu</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Volver a cargar videu</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Barra de tiempu del reproductor de videu</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Amosar nel mapa</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Servicios</string>
   <string name="add_data_source_title">Amestar la fonte de la semeya</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Momentos</string>
   <string name="media">Multimedia</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Álbumes</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d semeya</item>
     <item quantity="other">%1$d semeyes</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Coneuta los auriculares pa estos efectos.</string>
   <string name="ok">Aceutar</string>
   <string name="cancel">Encaboxar</string>
@@ -64,6 +87,8 @@
   <string name="downloading_image_title">Descargando imaxe\u2026</string>
   <string name="downloading_image_failed">Falló al obtener imaxe</string>
   <string name="take_photo">Facer una semeya</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d esbilláu</item>
     <item quantity="other">%1$d esbillaos</item>
@@ -84,16 +109,22 @@
   <string name="info_not_available">n/a</string>
   <string name="crop_activity_title">Recortar imaxe</string>
   <string name="save_image_title">Guardar imaxe</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Descargar</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Esti videu nun pue cortase</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Guardando videu en <xliff:g id="ALBUM_NAME">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Cortando\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Espera</string>
   <string name="save_video_title">Guardar videu</string>
   <string name="action_share">Compartir</string>
   <string name="action_delete">Desaniciar</string>
   <string name="action_edit">Editar</string>
   <string name="wait_sync_complete">Espera pa completar la sincronización</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Completar aición usando</string>
   <string name="settings_license_activity_title">Llicencies de códigu abiertu</string>
   <string name="beam_not_supported">La proyeición remota de vídeos nun ta sofitada</string>

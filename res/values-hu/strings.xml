@@ -18,33 +18,56 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galéria</string>
   <string name="camera">Kamera</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Betöltés\u2026</string>
   <string name="no_photos">Nincsenek fényképek</string>
   <string name="share">Megosztás</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Törlés</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Videó lejátszó</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Videó betöltése\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Videó folytatása</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Folytatja innen: %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Lejátszás folytatása</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Kezdje</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Hangeffektek</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Mélyhang kiemelése</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">3D hatás</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Videó lejátszása</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Videó szüneteltetése</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Videó újratöltése</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Videó lejátszó idősáv</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Megjelenítés térképen</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Szolgáltatások</string>
   <string name="add_data_source_title">Új fénykép forrás</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Pillanatok</string>
   <string name="media">Média</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Albumok</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d fotó</item>
     <item quantity="other">%1$d fotó</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Csatlakoztassa a fejhallgatót az effektek használatához.</string>
   <string name="ok">OK</string>
   <string name="cancel">Mégse</string>
@@ -64,6 +87,8 @@
   <string name="downloading_image_title">Kép letöltése:\u2026</string>
   <string name="downloading_image_failed">Nem sikerült lekérni a képet</string>
   <string name="take_photo">Fotó készítése</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d kiválasztva</item>
     <item quantity="other">%1$d kiválasztva</item>
@@ -84,16 +109,22 @@
   <string name="info_not_available">nincs adat</string>
   <string name="crop_activity_title">Kép levágása</string>
   <string name="save_image_title">Kép mentése</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Letöltés</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Sajnáljuk, de ez a videófájl nem vágható</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Videó mentése ide: <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Vágás\2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Kérjük, várjon</string>
   <string name="save_video_title">Videó mentése</string>
   <string name="action_share">Megosztás</string>
   <string name="action_delete">Törlés</string>
   <string name="action_edit">Szerkesztés</string>
   <string name="wait_sync_complete">Várjon, amíg a szinkronizálás befejeződik</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Művelet végrehajtása ezzel</string>
   <string name="settings_license_activity_title">Nyílt forráskódú licenszek</string>
   <string name="beam_not_supported">Távoli videók vetítése nem támogatott</string>

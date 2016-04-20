@@ -18,34 +18,57 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Galerie</string>
   <string name="camera">Cameră</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Încărcare\u2026</string>
   <string name="no_photos">Nicio fotografie</string>
   <string name="share">Partajează</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Șterge</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Player video</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Se încarcă video\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Revenire la video</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Revenire la redarea de la %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Revenire la redare</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Pornește de la capăt</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Efecte audio</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Amplificare bass</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">Efect 3D</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Redare video</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Pauză video</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Reîncarcă video</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Bară de timp player video</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Arată pe hartă</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Servicii</string>
   <string name="add_data_source_title">Adaugă sursă foto</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Momente</string>
   <string name="media">Media</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Albume</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">%1$d fotografie</item>
     <item quantity="few">%1$d fotografii</item>
     <item quantity="other">%1$d fotografii</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Conectează căști pentru aceste efecte.</string>
   <string name="ok">OK</string>
   <string name="cancel">Anulare</string>
@@ -65,6 +88,8 @@
   <string name="downloading_image_title">Descărcare imagine\u2026</string>
   <string name="downloading_image_failed">Nu s-a putut prelua imaginea</string>
   <string name="take_photo">Capturează o fotografie</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d selectat</item>
     <item quantity="few">%1$d selectate</item>
@@ -87,16 +112,22 @@
   <string name="info_not_available">n/a</string>
   <string name="crop_activity_title">Decupează imagine</string>
   <string name="save_image_title">Salvează imagine</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Descarcă</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Ne pare rău, acest fișier video nu pot fi tăiat</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Se salvează video în <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Se taie\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Te rugăm să aștepți</string>
   <string name="save_video_title">Salvează video</string>
   <string name="action_share">Distribuie</string>
   <string name="action_delete">Șterge</string>
   <string name="action_edit">Editare</string>
   <string name="wait_sync_complete">Te rugăm să aștepți până la completarea sincronizării</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Completează acțiunea folosind</string>
   <string name="settings_license_activity_title">Licențe Open source</string>
   <string name="beam_not_supported">Transmitere video la distanță nu este acceptată</string>

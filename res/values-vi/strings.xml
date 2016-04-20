@@ -18,32 +18,55 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="app_name">Thư viện</string>
   <string name="camera">Máy ảnh</string>
+  <!-- Displayed in the title of those albums that are being loaded -->
   <string name="loading">Đang tải\u2026</string>
   <string name="no_photos">Không có ảnh</string>
   <string name="share">Chia sẻ</string>
+  <!-- Details dialog "OK" button. Dismisses dialog. -->
   <string name="delete">Xoá</string>
+  <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
+  <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
+  <!-- Activity label. This might show up in the activity-picker -->
   <string name="movie_view_label">Trình phát video</string>
+  <!-- shown in the video player view while the video is being loaded, before it starts playing -->
   <string name="loading_video">Đang tải video\u2026</string>
+  <!-- Movie View Resume Playing dialog title -->
   <string name="resume_playing_title">Tiếp tục video</string>
+  <!-- Movie View Start Playing dialog title -->
   <string name="resume_playing_message">Tiếp tục phát từ %s?</string>
+  <!-- Movie View Start Playing button "Resume from bookmark" -->
   <string name="resume_playing_resume">Tiếp tục phát</string>
+  <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">Bắt đầu lại</string>
+  <!-- The label for the audio effects menu. -->
   <string name="audio_effects">Hiệu ứng âm thanh</string>
+  <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">Tăng bass</string>
+  <!-- The label for the 3d effect knob of the audio effects dialog. -->
   <string name="virtualizer_strength">Hiệu ứng 3D</string>
+  <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">Phát video</string>
+  <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_pause_video">Tạm dừng video</string>
+  <!-- The button to reload the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_reload_video">Tải lại video</string>
+  <!-- The time bar of the media player. [CHAR LIMIT = NONE] -->
   <string name="accessibility_time_bar">Thanh thời gian trình phát video</string>
+  <!-- String indicating timestamp of photo or video -->
   <string name="show_on_map">Hiển thị trên bản đồ</string>
+  <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">Dịch vụ</string>
   <string name="add_data_source_title">Thêm nguồn ảnh</string>
+  <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">Khoảnh khắc</string>
   <string name="media">Phương tiện</string>
+  <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="albums">Album</string>
+  <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="other">%1$d ảnh</item>
   </plurals>
+  <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
   <string name="headset_plug">Cắm tai nghe cho những hiệu ứng này.</string>
   <string name="ok">OK</string>
   <string name="cancel">Huỷ</string>
@@ -63,6 +86,8 @@
   <string name="downloading_image_title">Đang tải về ảnh\u2026</string>
   <string name="downloading_image_failed">Không thể có được ảnh</string>
   <string name="take_photo">Chụp ảnh</string>
+  <!-- String indicating how many media item(s) is(are) selected
+        eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="other">%1$d đã chọn</item>
   </plurals>
@@ -81,16 +106,22 @@
   <string name="info_not_available">không áp dụng</string>
   <string name="crop_activity_title">Cắt hình ảnh</string>
   <string name="save_image_title">Lưu hình ảnh</string>
+  <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <string name="folder_download">Tải về</string>
+  <!-- The tips of trimming video -->
   <string name="fail_trim">Xin lỗi, không thể cắt tập tin video này</string>
+  <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <string name="save_into">Đang lưu video vào <xliff:g id="album_name">%1$s</xliff:g>\u2026</string>
+  <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <string name="trimming">Đang cắt\u2026</string>
+  <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
   <string name="please_wait">Vui lòng chờ</string>
   <string name="save_video_title">Lưu video</string>
   <string name="action_share">Chia sẻ</string>
   <string name="action_delete">Xoá</string>
   <string name="action_edit">Chỉnh sửa</string>
   <string name="wait_sync_complete">Vui lòng chờ để hoàn tất đồng bộ</string>
+  <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Hoàn thành hành động bằng cách sử dụng</string>
   <string name="settings_license_activity_title">Giấy phép nguồn mở</string>
   <string name="beam_not_supported">Truyền tải video từ xa không được hỗ trợ</string>
