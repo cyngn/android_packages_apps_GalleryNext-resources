@@ -123,7 +123,7 @@
   <string name="wait_sync_complete">동기화가 완료될 때까지 잠시 기다려 주십시오</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">작업을 수행할 때 사용하는 어플리케이션</string>
-  <string name="settings_license_activity_title">오픈 소스 라이센스</string>
+  <string name="settings_license_activity_title">오픈 소스 라이선스</string>
   <string name="beam_not_supported">원격 비디오의 전송은 지원되지 않습니다</string>
   <string name="deleted">삭제됨</string>
 </resources>
