@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Amestar cuenta Picasa</string>
   <string name="remove_picasa_account">Desaniciar cuenta Picasa</string>
   <string name="uncategorized_album">Ensin categoría</string>
+  <string name="wallpaper">Fondu de pantalla</string>
   <string name="set_wallpaper_string">Afitar como fondu de pantalla</string>
   <string name="downloading_image_title">Descargando imaxe\u2026</string>
   <string name="downloading_image_failed">Falló al obtener imaxe</string>
@@ -124,10 +125,15 @@
   <string name="action_delete">Desaniciar</string>
   <string name="action_edit">Editar</string>
   <string name="wait_sync_complete">Espera pa completar la sincronización</string>
+  <string name="picasa_get_token_auth_error">Nun pue autenticase con Google Photos</string>
+  <string name="picasa_get_token_io_error">Nun pue autenticase con Google Photos: Fallu de rede</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Completar aición usando</string>
   <string name="settings_license_activity_title">Llicencies de códigu abiertu</string>
   <string name="beam_not_supported">La proyeición remota de vídeos nun ta sofitada</string>
   <string name="deleted">Desaniciáu</string>
   <!-- Permissions -->
+  <string name="permission_settings">Axustes</string>
+  <string name="permission_storage">La galería rique\'l permisu d\'almacenamientu pa ver les to semeyes y vídeos.</string>
+  <string name="permission_call_to_action">Vete a Axustes y calca en Permisos pa conceder el permisu.</string>
 </resources>
