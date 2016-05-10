@@ -125,6 +125,8 @@
   <string name="action_delete">Esborra</string>
   <string name="action_edit">Edita</string>
   <string name="wait_sync_complete">Si us plau espera que la sincronització acabi</string>
+  <string name="picasa_get_token_auth_error">No s\'ha pogut autenticar amb Google Fotos</string>
+  <string name="picasa_get_token_io_error">No s\'ha pogut autenticar amb Google Fotos: Error de xarxa</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Completa l\'acció utilitzant</string>
   <string name="settings_license_activity_title">Llicències de codi obert</string>

@@ -125,6 +125,8 @@
   <string name="action_delete">Elimina</string>
   <string name="action_edit">Modifica</string>
   <string name="wait_sync_complete">Attendi la fine della sincronizzazione</string>
+  <string name="picasa_get_token_auth_error">Impossibile autenticarsi a Google Foto</string>
+  <string name="picasa_get_token_io_error">Impossibile autenticarsi a Google Foto: errore di rete</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Completa l\'azione con</string>
   <string name="settings_license_activity_title">Licenze open source</string>

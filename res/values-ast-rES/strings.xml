@@ -128,5 +128,6 @@
   <string name="which_application">Completar aición usando</string>
   <string name="settings_license_activity_title">Llicencies de códigu abiertu</string>
   <string name="beam_not_supported">La proyeición remota de vídeos nun ta sofitada</string>
+  <string name="deleted">Desaniciáu</string>
   <!-- Permissions -->
 </resources>

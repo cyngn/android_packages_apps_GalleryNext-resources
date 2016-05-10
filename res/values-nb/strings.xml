@@ -83,6 +83,7 @@
   <string name="add_picasa_account">Legg til Picasa konto</string>
   <string name="remove_picasa_account">Fjern Picasa konto</string>
   <string name="uncategorized_album">Ukategorisert</string>
+  <string name="wallpaper">Bakgrunn</string>
   <string name="set_wallpaper_string">Bruk som bakgrunn</string>
   <string name="downloading_image_title">Laster ned bilde\u2026</string>
   <string name="downloading_image_failed">Klarte ikke å hente bildet</string>
@@ -124,10 +125,15 @@
   <string name="action_delete">Slett</string>
   <string name="action_edit">Endre</string>
   <string name="wait_sync_complete">Vent til synkronisering er fullført</string>
+  <string name="picasa_get_token_auth_error">Kunne ikke godkjenne med Google bilder</string>
+  <string name="picasa_get_token_io_error">Kunne ikke godkjenne med Google bilder: Nettverksfeil</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Fullføre handlingen ved hjelp av </string>
   <string name="settings_license_activity_title">Open source lisenser</string>
   <string name="beam_not_supported">Overføring av eksterne videoer støttes ikke</string>
   <string name="deleted">Slettet</string>
   <!-- Permissions -->
+  <string name="permission_settings">Innstillinger</string>
+  <string name="permission_storage">Galleriet krever tillatelse til lager for å vise bildene og videoene dine.</string>
+  <string name="permission_call_to_action">Gå til Innstillinger, og trykk på Tillatelser for å gi tillatelse.</string>
 </resources>

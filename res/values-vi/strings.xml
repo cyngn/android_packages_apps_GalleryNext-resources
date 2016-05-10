@@ -122,6 +122,8 @@
   <string name="action_delete">Xoá</string>
   <string name="action_edit">Chỉnh sửa</string>
   <string name="wait_sync_complete">Vui lòng chờ để hoàn tất đồng bộ</string>
+  <string name="picasa_get_token_auth_error">Không thể xác thực với Google Photos</string>
+  <string name="picasa_get_token_io_error">Không thể xác thực với Google Photos: Lỗi mạng</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Hoàn thành hành động bằng cách sử dụng</string>
   <string name="settings_license_activity_title">Giấy phép nguồn mở</string>

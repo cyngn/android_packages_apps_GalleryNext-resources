@@ -125,6 +125,8 @@
   <string name="action_delete">Διαγραφή</string>
   <string name="action_edit">Επεξεργασία</string>
   <string name="wait_sync_complete">Παρακαλώ περιμένετε για την ολοκλήρωση του συγχρονισμού</string>
+  <string name="picasa_get_token_auth_error">Δεν ήταν δυνατός ο έλεγχος ταυτότητας με το Google Photos</string>
+  <string name="picasa_get_token_io_error">Δεν ήταν δυνατός ο έλεγχος ταυτότητας με το Google Photos: Σφάλμα δικτύου</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Ολοκλήρωση ενέργειας με χρήση</string>
   <string name="settings_license_activity_title">Άδειες χρήσης ανοιχτού κώδικα</string>

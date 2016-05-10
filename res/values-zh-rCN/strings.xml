@@ -122,6 +122,8 @@
   <string name="action_delete">删除</string>
   <string name="action_edit">编辑</string>
   <string name="wait_sync_complete">请等待同步完成</string>
+  <string name="picasa_get_token_auth_error">无法与 Google 相册完成验证</string>
+  <string name="picasa_get_token_io_error">无法与 Google 相册完成验证：网络错误</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">选择要使用的应用</string>
   <string name="settings_license_activity_title">开源许可证</string>

@@ -125,6 +125,8 @@
   <string name="action_delete">Eliminar</string>
   <string name="action_edit">Editar</string>
   <string name="wait_sync_complete">Por favor espera a que se complete la sincronización</string>
+  <string name="picasa_get_token_auth_error">No se puede autenticar con fotos de Google</string>
+  <string name="picasa_get_token_io_error">No se puede autenticar con fotos de Google: error de red</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Completar la acción utilizando</string>
   <string name="settings_license_activity_title">Licencias de código abierto</string>

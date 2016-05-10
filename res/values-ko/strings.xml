@@ -82,6 +82,7 @@
   <string name="add_picasa_account">Picasa 계정 추가</string>
   <string name="remove_picasa_account">Picasa 계정 제거</string>
   <string name="uncategorized_album">미분류</string>
+  <string name="wallpaper">배경화면</string>
   <string name="set_wallpaper_string">배경으로 지정</string>
   <string name="downloading_image_title">이미지 다운로드 중\u2026</string>
   <string name="downloading_image_failed">이미지를 받아올 수 없습니다</string>
@@ -123,8 +124,11 @@
   <string name="wait_sync_complete">동기화가 완료될 때까지 잠시 기다려 주십시오</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">작업을 수행할 때 사용하는 어플리케이션</string>
-  <string name="settings_license_activity_title">오픈 소스 라이센스</string>
+  <string name="settings_license_activity_title">오픈 소스 라이선스</string>
   <string name="beam_not_supported">원격 비디오의 전송은 지원되지 않습니다</string>
   <string name="deleted">삭제됨</string>
   <!-- Permissions -->
+  <string name="permission_settings">설정</string>
+  <string name="permission_storage">갤러리가 사진 및 영상을 보려면 저장소 권한이 필요합니다.</string>
+  <string name="permission_call_to_action">설정에서 권한 허용을 위해 권한을 탭하십시오.</string>
 </resources>

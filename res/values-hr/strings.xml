@@ -128,6 +128,8 @@
   <string name="action_delete">Obriši</string>
   <string name="action_edit">Uređivanje</string>
   <string name="wait_sync_complete">Pričekajte dovršetak sinkronizacije</string>
+  <string name="picasa_get_token_auth_error">Nije moguće provjeriti autentičnost sa Google fotografijama</string>
+  <string name="picasa_get_token_io_error">Nije moguće provjeriti autentičnost sa Google fotografijama: Mrežna pogreška</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Završetak radnje pomoću</string>
   <string name="settings_license_activity_title">Licence otvorenog kôda</string>

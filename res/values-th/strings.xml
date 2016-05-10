@@ -122,6 +122,8 @@
   <string name="action_delete">ลบ</string>
   <string name="action_edit">แก้ไข</string>
   <string name="wait_sync_complete">กรุณารอการเสร็จเสร็จสมบูรณ์</string>
+  <string name="picasa_get_token_auth_error">ไม่สามารถยืนยันตัวตนกับ Google Photos</string>
+  <string name="picasa_get_token_io_error">ไม่สามารถยืนยันตัวตนกับ Google Photos: ข้อผิดพลาดเครือข่าย</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">ทำให้เสร็จโดยใช้</string>
   <string name="settings_license_activity_title">ใบอนุญาตโอเพนซอร์ส</string>

@@ -125,6 +125,8 @@
   <string name="action_delete">Ezabatu</string>
   <string name="action_edit">Editatu</string>
   <string name="wait_sync_complete">Itxaron sinkronizazioa bukatu arte, mesedez</string>
+  <string name="picasa_get_token_auth_error">Ezin izan da Google Photos zerbitzarian autentifikatu</string>
+  <string name="picasa_get_token_io_error">Ezin izan da Google Photos zerbitzarian autentifikatu: sare errorea</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Ekintza hau erabiliz burutu</string>
   <string name="settings_license_activity_title">Lizentzia libreak</string>
