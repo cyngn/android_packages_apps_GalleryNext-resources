@@ -84,6 +84,7 @@
   <string name="add_picasa_account">Дадаць акаўнт Picasa</string>
   <string name="remove_picasa_account">Выдаліць акаўнт Picasa</string>
   <string name="uncategorized_album">Без катэгорыі</string>
+  <string name="wallpaper">Шпалеры</string>
   <string name="set_wallpaper_string">Усталяваць як шпалеру</string>
   <string name="downloading_image_title">Загрузка выявы\u2026</string>
   <string name="downloading_image_failed">Не атрымалася атрымаць выяву</string>
@@ -133,4 +134,7 @@
   <string name="beam_not_supported">Перадача выдаленых відэазапісаў не падтрымваецца</string>
   <string name="deleted">Выдалены</string>
   <!-- Permissions -->
+  <string name="permission_settings">Налады</string>
+  <string name="permission_storage">Галерэя патрабуе дазвол, каб прагледзець фотаздымкі ды відэа.</string>
+  <string name="permission_call_to_action">Перайдзіце да Наладаў ды націсніце на Дазволы каб даць дазвол.</string>
 </resources>
