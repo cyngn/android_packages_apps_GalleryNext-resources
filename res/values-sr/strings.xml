@@ -128,6 +128,8 @@
   <string name="action_delete">Избриши</string>
   <string name="action_edit">Уреди</string>
   <string name="wait_sync_complete">Молим сачекајте да се синхронизација заврши</string>
+  <string name="picasa_get_token_auth_error">Не могу да се аутентификујем са Google фоткама</string>
+  <string name="picasa_get_token_io_error">Не могу да се аутентификујем са Google фоткама: грешка мреже</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Доврши акцију помоћу</string>
   <string name="settings_license_activity_title">Open Source лиценце</string>
