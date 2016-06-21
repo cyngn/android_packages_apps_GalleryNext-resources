@@ -64,6 +64,7 @@
   <string name="albums">آلبوم‌ها</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
+    <item quantity="one">%1$d تصویر</item>
     <item quantity="other">%1$d تصویر</item>
   </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
@@ -89,6 +90,7 @@
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
+    <item quantity="one">%1$d مورد انتخاب شد</item>
     <item quantity="other">%1$d مورد انتخاب شد</item>
   </plurals>
   <string name="dialog_album">آلبوم</string>
@@ -99,6 +101,7 @@
   <string name="getting_contents_title">دریافت محتوا\u2026</string>
   <string name="menu_play">نمایش به صورت اسلاید</string>
   <plurals name="delete_msg">
+    <item quantity="one">از حذف تصویر(ها) اطمینان دارید؟</item>
     <item quantity="other">از حذف تصویر(ها) اطمینان دارید؟</item>
   </plurals>
   <string name="cast">ارسال</string>

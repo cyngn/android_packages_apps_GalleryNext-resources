@@ -65,6 +65,8 @@
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <plurals name="number_of_photos">
     <item quantity="one">תמונה %1$d</item>
+    <item quantity="two">%1$d תמונות</item>
+    <item quantity="many">%1$d תמונות</item>
     <item quantity="other">%1$d תמונות</item>
   </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
@@ -91,6 +93,8 @@
         eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
     <item quantity="one">%1$d נבחר</item>
+    <item quantity="two">%1$d נבחרו</item>
+    <item quantity="many">%1$d נבחרו</item>
     <item quantity="other">%1$d נבחרו</item>
   </plurals>
   <string name="dialog_album">אלבום</string>
@@ -102,6 +106,8 @@
   <string name="menu_play">מצגת</string>
   <plurals name="delete_msg">
     <item quantity="one">בטוח שברצונך למחוק תמונה זו?</item>
+    <item quantity="two">בטוח שברצונך למחוק תמונות אלו?</item>
+    <item quantity="many">בטוח שברצונך למחוק תמונות אלו?</item>
     <item quantity="other">בטוח שברצונך למחוק תמונות אלו?</item>
   </plurals>
   <string name="cast">העבר</string>
