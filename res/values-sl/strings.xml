@@ -111,7 +111,7 @@
     <item quantity="few">Ali res želite izbrisati te slike?</item>
     <item quantity="other">Ali res želite izbrisati te slike?</item>
   </plurals>
-  <string name="cast">Posnemi</string>
+  <string name="cast">Oddajaj</string>
   <string name="undo">Razveljavi</string>
   <string name="info_not_available">ni na voljo</string>
   <string name="crop_activity_title">Obreži sliko</string>
