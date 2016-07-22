@@ -56,7 +56,7 @@
   <string name="show_on_map">地図上に表示</string>
   <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <string name="data_sources">サービス</string>
-  <string name="add_data_source_title">写真のソースを追加</string>
+  <string name="add_data_source_title">写真の提供元を追加</string>
   <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <string name="events">モーメント</string>
   <string name="media">メディア</string>
@@ -78,7 +78,7 @@
   <string name="this_month">今月</string>
   <string name="data_source_all">すべて</string>
   <string name="data_source_local">ローカルストレージ</string>
-  <string name="remove_data_source">写真のソースを削除</string>
+  <string name="remove_data_source">写真の提供元を削除</string>
   <string name="add_picasa_account">Picasaアカウントを追加</string>
   <string name="remove_picasa_account">Picasaアカウントを削除</string>
   <string name="uncategorized_album">未分類</string>
