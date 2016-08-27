@@ -125,6 +125,8 @@
   <string name="action_delete">Törlés</string>
   <string name="action_edit">Szerkesztés</string>
   <string name="wait_sync_complete">Várjon, amíg a szinkronizálás befejeződik</string>
+  <string name="picasa_get_token_auth_error">Nem lehet hitelesíteni a Google Fotókkal</string>
+  <string name="picasa_get_token_io_error">Nem lehet hitelesíteni a Google Fotókkal: Hálózati hiba</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">Művelet végrehajtása ezzel</string>
   <string name="settings_license_activity_title">Nyílt forráskódú licenszek</string>
