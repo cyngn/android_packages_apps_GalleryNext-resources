@@ -18,6 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Displayed in the title of those albums that are being loaded -->
   <!-- Details dialog "OK" button. Dismisses dialog. -->
+  <string name="delete">Forigi</string>
   <!-- Used to format short video duration in Details dialog. minutes:seconds e.g. 00:30 -->
   <!-- Used to format video duration in Details dialog. hours:minutes:seconds e.g. 0:21:30 -->
   <!-- Activity label. This might show up in the activity-picker -->
@@ -37,15 +38,21 @@
   <!-- setting facebook login, this is app id, get from developers.facebook.com -->
   <!-- Group by Events tab on Action Bar. [CHAR LIMIT=12] -->
   <!-- Group by Albums tab on Action Bar. [CHAR LIMIT=12] -->
+  <string name="albums">Albumoj</string>
   <!-- String indicating how many photos are in an album [CHAR LIMIT=15] -->
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
+  <string name="cancel">Nuligi</string>
+  <string name="today">Hodiaǔ</string>
+  <string name="yesterday">Hieraŭ</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
+  <string name="dialog_album">Albumo</string>
   <!-- The label for the folder contains downloaded pictures. [CHAR LIMIT=20]-->
   <!-- The tips of trimming video -->
   <!-- Toast after the trimming / muting is done. [CHAR LIMIT=50] -->
   <!-- The tilte of a dialog showing trimming in progress. [CHAR LIMIT=20] -->
   <!-- The content of a dialog showing trimming in progress. [CHAR LIMIT=30] -->
+  <string name="action_edit">Redakti</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <!-- Permissions -->
 </resources>

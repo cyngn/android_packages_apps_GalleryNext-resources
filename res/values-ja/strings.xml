@@ -39,11 +39,11 @@
   <!-- Movie View Start Playing button "Beginning" -->
   <string name="resume_playing_restart">最初から再生</string>
   <!-- The label for the audio effects menu. -->
-  <string name="audio_effects">オーディオ効果</string>
+  <string name="audio_effects">オーディオエフェクト</string>
   <!-- The label for the bass boost knob of the audio effects dialog. -->
   <string name="bass_boost_strength">バスブースト</string>
   <!-- The label for the 3d effect knob of the audio effects dialog. -->
-  <string name="virtualizer_strength">3D効果</string>
+  <string name="virtualizer_strength">3Dエフェクト</string>
   <!-- The button to play the video. [CHAR LIMIT = NONE] -->
   <string name="accessibility_play_video">動画を再生</string>
   <!-- The button to pause the video. [CHAR LIMIT = NONE] -->
@@ -67,7 +67,7 @@
     <item quantity="other">%1$d枚の写真</item>
   </plurals>
   <!-- Toast if user attempts to control audio effects without headphones plugged in. -->
-  <string name="headset_plug">これらの効果を使用するにはヘッドホンを接続してください。</string>
+  <string name="headset_plug">これらのエフェクトを使用するにはヘッドホンを接続してください。</string>
   <string name="ok">OK</string>
   <string name="cancel">キャンセル</string>
   <string name="around">周辺</string>
@@ -82,10 +82,11 @@
   <string name="add_picasa_account">Picasaアカウントを追加</string>
   <string name="remove_picasa_account">Picasaアカウントを削除</string>
   <string name="uncategorized_album">未分類</string>
+  <string name="wallpaper">壁紙</string>
   <string name="set_wallpaper_string">壁紙として設定</string>
   <string name="downloading_image_title">画像をダウンロード中\u2026</string>
   <string name="downloading_image_failed">画像を取得できませんでした</string>
-  <string name="take_photo">写真を撮る</string>
+  <string name="take_photo">写真を撮影する</string>
   <!-- String indicating how many media item(s) is(are) selected
         eg. 1 selected [CHAR LIMIT=30] -->
   <plurals name="number_of_items_selected">
@@ -94,7 +95,7 @@
   <string name="dialog_album">アルバム</string>
   <string name="dialog_type">ソース</string>
   <string name="dialog_date">撮影日時</string>
-  <string name="menu_camera">写真を撮る</string>
+  <string name="menu_camera">写真を撮影する</string>
   <string name="folder_sync_title">同期するフォルダを選択</string>
   <string name="getting_contents_title">コンテンツを取得中\u2026</string>
   <string name="menu_play">スライドショー</string>
@@ -121,10 +122,15 @@
   <string name="action_delete">削除</string>
   <string name="action_edit">編集</string>
   <string name="wait_sync_complete">同期が完了するまでお待ちください</string>
+  <string name="picasa_get_token_auth_error">Googleフォトで認証できませんでした</string>
+  <string name="picasa_get_token_io_error">Googleフォトで認証できませんでした: ネットワークエラー</string>
   <!-- Title of intent resolver dialog when selecting an application to run. -->
   <string name="which_application">アクションに使用するアプリ</string>
   <string name="settings_license_activity_title">オープンソースライセンス</string>
   <string name="beam_not_supported">ビームリモート動画はサポートされていません</string>
   <string name="deleted">削除しました</string>
   <!-- Permissions -->
+  <string name="permission_settings">設定</string>
+  <string name="permission_storage">ギャラリーは写真と動画を表示するためにストレージの権限を必要とします。</string>
+  <string name="permission_call_to_action">設定アプリに移動して、権限を許可するために[権限]をタップしてください。</string>
 </resources>
